@@ -1,0 +1,2455 @@
+story55.txt	0	0	पिछले	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : पिछले,  Total Output : 2
+  															 |  [ Root : पिछला, Class : C, Category : adjective, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : पिछला, Class : C, Category : adjective, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	1	दिनों	NN	I-NP	o	-
+ 															MorphAnalysis : Token : दिनों,  Total Output : 1
+  															 |  [ Root : दिन, Class : E, Category : noun, Suffix : ों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	2	रिलीज	UNK	B-VGF	o	-
+ 															MorphAnalysis : Token : रिलीज,  Total Output : 1
+  															 |  [ Root : रिलीज, Class : C, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	3	हुई	VM	I-VGF	o	-
+ 															MorphAnalysis : Token : हुई,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix : ई ]
+  															 |  	[ Gender : -masc, Number : -pl, Person : x, Case : x, Tense : +past, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	4	हॉलीवुड	NNP	B-NP	o	-
+ 															MorphAnalysis : Token : हॉलीवुड,  Total Output : 1
+  															 |  [ Root : हॉलीवुड, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	5	की	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	6	फिल्म	NN	B-NP	o	-
+ 															MorphAnalysis : Token : फिल्म,  Total Output : 2
+  															 |  [ Root : फिल्म, Class : C, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : फिल्म, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	7	'1	SYM	B-NP	o	-
+ 															MorphAnalysis : Token : 1,  Total Output : 2
+  															 |  [ Root : 1, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : 1, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	8	दि	XC	I-NP	B-ENTERTAINMENT	-
+ 															MorphAnalysis : Token : दि,  Total Output : 1
+  															 |  [ Root : दे, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	9	डे	XC	I-NP	o	-
+ 															MorphAnalysis : Token : डे,  Total Output : 0
+  															 | 
+story55.txt	0	10	आफ्टर	XC	I-NP	o	-
+ 															MorphAnalysis : Token : आफ्टर,  Total Output : 0
+  															 | 
+story55.txt	0	11	टुमारो	NNP	I-NP	o	-
+ 															MorphAnalysis : Token : टुमारो,  Total Output : 0
+  															 | 
+story55.txt	0	12	'2	SYM	I-NP	o	-
+ 															MorphAnalysis : Token : 2,  Total Output : 2
+  															 |  [ Root : 2, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : 2, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	13	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	14	दृश्यों	NN	B-NP	o	-
+ 															MorphAnalysis : Token : दृश्यों,  Total Output : 1
+  															 |  [ Root : दृश्य, Class : E, Category : noun, Suffix : ों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	15	में	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : में,  Total Output : 1
+  															 |  [ Root : में, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	16	ग्लोबल	XC	B-NP	o	-
+ 															MorphAnalysis : Token : ग्लोबल,  Total Output : 1
+  															 |  [ Root : ग्लोबल, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	17	वार्मिंग	NN	I-NP	o	-
+ 															MorphAnalysis : Token : वार्मिंग,  Total Output : 0
+  															 | 
+story55.txt	0	18	यानी	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : यानी,  Total Output : 1
+  															 |  [ Root : यानी, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	19	वैश्विक	XC	B-NP	o	-
+ 															MorphAnalysis : Token : वैश्विक,  Total Output : 1
+  															 |  [ Root : वैश्विक, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	20	तापमान	NN	I-NP	o	-
+ 															MorphAnalysis : Token : तापमान,  Total Output : 1
+  															 |  [ Root : तापमान, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	21	बढ़ने	VM	B-VGNN	o	-
+ 															MorphAnalysis : Token : बढ़ने,  Total Output : 0
+  															 | 
+story55.txt	0	22	से	PSP	I-VGNN	o	-
+ 															MorphAnalysis : Token : से,  Total Output : 5
+  															 |  [ Root : से, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	23	दुनिया	NN	B-NP	o	-
+ 															MorphAnalysis : Token : दुनिया,  Total Output : 1
+  															 |  [ Root : दुनिया, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	24	पर	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : पर,  Total Output : 3
+  															 |  [ Root : पर, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	25	पड़ने	VM	B-VGNN	o	-
+ 															MorphAnalysis : Token : पड़ने,  Total Output : 0
+  															 | 
+story55.txt	0	26	वाले	PSP	I-VGNN	o	-
+ 															MorphAnalysis : Token : वाले,  Total Output : 3
+  															 |  [ Root : वाले, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : वाल, Class : , Category : verb_aux, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : +inceptive ]
+  															 |  [ Root : वाल, Class : , Category : verb_aux, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : +inceptive ]
+  															 | 
+story55.txt	0	27	प्रभाव	NN	B-NP	o	-
+ 															MorphAnalysis : Token : प्रभाव,  Total Output : 1
+  															 |  [ Root : प्रभाव, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	28	को	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : को,  Total Output : 0
+  															 | 
+story55.txt	0	29	देखकर	VM	B-VGNF	o	-
+ 															MorphAnalysis : Token : देखकर,  Total Output : 2
+  															 |  [ Root : देखकर, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : देख, Class : , Category : verb, Suffix : कर ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : (+past, Aspect : +conjunctive), Mood : +participle ]
+  															 | 
+story55.txt	0	30	अमरीकी	NN	B-NP	o	-
+ 															MorphAnalysis : Token : अमरीकी,  Total Output : 2
+  															 |  [ Root : अमरीकी, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : अमरीकी, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	31	चिंतित	JJ	B-JJP	o	-
+ 															MorphAnalysis : Token : चिंतित,  Total Output : 1
+  															 |  [ Root : चिंतित, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	32	हैं	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : हैं,  Total Output : 2
+  															 |  [ Root : हैं, Class : , Category : interjection, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : +pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	33	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	लेकिन	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : लेकिन,  Total Output : 1
+  															 |  [ Root : लेकिन, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	1	इस	DEM	B-NP	o	-
+ 															MorphAnalysis : Token : इस,  Total Output : 2
+  															 |  [ Root : इस, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : इस, Class : , Category : demonstrative, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	2	शोध	NN	I-NP	o	-
+ 															MorphAnalysis : Token : शोध,  Total Output : 1
+  															 |  [ Root : शोध, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	3	से	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : से,  Total Output : 5
+  															 |  [ Root : से, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	4	लोगों	NN	B-NP	o	-
+ 															MorphAnalysis : Token : लोगों,  Total Output : 1
+  															 |  [ Root : लोग, Class : E, Category : noun, Suffix : ों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	5	की	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	6	चिंता	NN	B-NP	o	-
+ 															MorphAnalysis : Token : चिंता,  Total Output : 1
+  															 |  [ Root : चिंता, Class : C, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	7	और	QF	B-JJP	o	-
+ 															MorphAnalysis : Token : और,  Total Output : 5
+  															 |  [ Root : और, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : और, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : और, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : और, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : और, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	8	बढ़	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : बढ़,  Total Output : 0
+  															 | 
+story55.txt	0	9	जाएगी	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : जाएगी,  Total Output : 1
+  															 |  [ Root : जा, Class : , Category : verb, Suffix : एगी ]
+  															 |  	[ Gender : -masc, Number : -pl, Person : 2p, Case : x, Tense : +future, Aspect : +infinitive, Mood : (+imperative : intimate) ]
+  															 | 
+story55.txt	0	10	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	हाल	NN	B-NP	o	-
+ 															MorphAnalysis : Token : हाल,  Total Output : 1
+  															 |  [ Root : हाल, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	1	ही	RP	I-NP	o	-
+ 															MorphAnalysis : Token : ही,  Total Output : 2
+  															 |  [ Root : ही, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : ही, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	2	में	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : में,  Total Output : 1
+  															 |  [ Root : में, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	3	किए	VM	B-VGNF	o	-
+ 															MorphAnalysis : Token : किए,  Total Output : 2
+  															 |  [ Root : कि, Class : , Category : conjunction, Suffix : ए ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : कर, Class : , Category : verb, Suffix : ए ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	4	गए	VAUX	I-VGNF	o	-
+ 															MorphAnalysis : Token : गए,  Total Output : 1
+  															 |  [ Root : जा, Class : , Category : verb, Suffix : ए ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	5	एक	QC	B-NP	B-NUMBER	-
+ 															MorphAnalysis : Token : एक,  Total Output : 2
+  															 |  [ Root : एक, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : एक, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	6	अध्ययन	NN	I-NP	o	-
+ 															MorphAnalysis : Token : अध्ययन,  Total Output : 1
+  															 |  [ Root : अध्ययन, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	7	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	8	बाद	NST	I-NP	o	-
+ 															MorphAnalysis : Token : बाद,  Total Output : 2
+  															 |  [ Root : बाद, Class : , Category : nst, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : बाद, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	9	अमेरिकी	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : अमेरिकी,  Total Output : 2
+  															 |  [ Root : अमेरिकी, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : अमेरिकी, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	10	विज्ञानियों	NN	I-NP	o	-
+ 															MorphAnalysis : Token : विज्ञानियों,  Total Output : 1
+  															 |  [ Root : विज्ञानी, Class : E, Category : noun, Suffix : यों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	11	का	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : का,  Total Output : 0
+  															 | 
+story55.txt	0	12	कहना	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : कहना,  Total Output : 3
+  															 |  [ Root : कहना, Class : D, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : कह, Class : , Category : verb, Suffix : ना ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कह, Class : , Category : verb, Suffix : ना ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	13	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	14	कि	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : कि,  Total Output : 1
+  															 |  [ Root : कि, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	15	पृथ्वी	NN	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : पृथ्वी,  Total Output : 1
+  															 |  [ Root : पृथ्वी, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	16	पर	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : पर,  Total Output : 3
+  															 |  [ Root : पर, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	17	पिछले	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : पिछले,  Total Output : 2
+  															 |  [ Root : पिछला, Class : C, Category : adjective, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : पिछला, Class : C, Category : adjective, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	18	पचास	QC	I-NP	B-MEASURE	-
+ 															MorphAnalysis : Token : पचास,  Total Output : 2
+  															 |  [ Root : पचास, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पचास, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	19	वर्षों	NN	I-NP	B-TIME	-
+ 															MorphAnalysis : Token : वर्षों,  Total Output : 1
+  															 |  [ Root : वर्ष, Class : E, Category : noun, Suffix : ों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	20	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	21	मुकाबले	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : मुकाबले,  Total Output : 2
+  															 |  [ Root : मुकाबले, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : मुकाबला, Class : D, Category : noun, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	22	सूर्य	NN	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : सूर्य,  Total Output : 2
+  															 |  [ Root : सूर्य, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : सूर्य, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	23	की	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	24	रोशनी	NN	B-NP	o	-
+ 															MorphAnalysis : Token : रोशनी,  Total Output : 1
+  															 |  [ Root : रोशनी, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	25	कम	QF	B-JJP	o	-
+ 															MorphAnalysis : Token : कम,  Total Output : 4
+  															 |  [ Root : कम, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : कम, Class : B, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कम, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कम, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	26	पहुंच	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : पहुंच,  Total Output : 2
+  															 |  [ Root : पहुंच, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : पहुंच, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	27	रही	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : रही,  Total Output : 2
+  															 |  [ Root : रह, Class : , Category : verb, Suffix : ी ]
+  															 |  	[ Gender : -masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : रह, Class : , Category : verb_aux, Suffix : ी ]
+  															 |  	[ Gender : -masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : (-perfect : -habitual), Mood : x ]
+  															 | 
+story55.txt	0	28	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	29	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	विज्ञानियों	NN	B-NP	o	-
+ 															MorphAnalysis : Token : विज्ञानियों,  Total Output : 1
+  															 |  [ Root : विज्ञानी, Class : E, Category : noun, Suffix : यों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	1	ने	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : ने,  Total Output : 1
+  															 |  [ Root : न, Class : , Category : adverb, Suffix : े ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	2	इसे	PRP	B-NP	o	-
+ 															MorphAnalysis : Token : इसे,  Total Output : 3
+  															 |  [ Root : इसे, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : इस, Class : , Category : pronoun, Suffix : े ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : इस, Class : , Category : demonstrative, Suffix : े ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	3	'1	SYM	B-NP	o	-
+ 															MorphAnalysis : Token : 1,  Total Output : 2
+  															 |  [ Root : 1, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : 1, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	4	ग्लोबल	XC	I-NP	o	-
+ 															MorphAnalysis : Token : ग्लोबल,  Total Output : 1
+  															 |  [ Root : ग्लोबल, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	5	डिमिंग	NN	I-NP	o	-
+ 															MorphAnalysis : Token : डिमिंग,  Total Output : 0
+  															 | 
+story55.txt	0	6	'2	SYM	I-NP	o	-
+ 															MorphAnalysis : Token : 2,  Total Output : 2
+  															 |  [ Root : 2, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : 2, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	7	यानी	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : यानी,  Total Output : 1
+  															 |  [ Root : यानी, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	8	'1	SYM	B-NP	o	-
+ 															MorphAnalysis : Token : 1,  Total Output : 2
+  															 |  [ Root : 1, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : 1, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	9	वैश्विक	XC	I-NP	o	-
+ 															MorphAnalysis : Token : वैश्विक,  Total Output : 1
+  															 |  [ Root : वैश्विक, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	10	धुंधलापन	NN	I-NP	o	-
+ 															MorphAnalysis : Token : धुंधलापन,  Total Output : 0
+  															 | 
+story55.txt	0	11	'2	SYM	I-NP	o	-
+ 															MorphAnalysis : Token : 2,  Total Output : 2
+  															 |  [ Root : 2, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : 2, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	12	नाम	NN	B-NP	o	-
+ 															MorphAnalysis : Token : नाम,  Total Output : 1
+  															 |  [ Root : नाम, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	13	दिया	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : दिया,  Total Output : 3
+  															 |  [ Root : दिया, Class : D, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : दे, Class : , Category : verb, Suffix : या ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : दे, Class : , Category : verb_aux, Suffix : या ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : 1p, Case : x, Tense : x, Aspect : +perfect, Mood : +infinitive ]
+  															 | 
+story55.txt	0	14	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	15	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	१९८५	NNP	B-NP	B-TIME	-
+ 															MorphAnalysis : Token : १९८५,  Total Output : 0
+  															 | 
+story55.txt	0	1	में	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : में,  Total Output : 1
+  															 |  [ Root : में, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	2	भूगोल	NN	B-NP	o	-
+ 															MorphAnalysis : Token : भूगोल,  Total Output : 1
+  															 |  [ Root : भूगोल, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	3	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	4	जाने	XC	B-JJP	o	-
+ 															MorphAnalysis : Token : जाने,  Total Output : 3
+  															 |  [ Root : जान, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : जा, Class : , Category : verb, Suffix : ने ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+  															 |  		े -> [ Gender : +masc, Number : +-pl, Person : x, Case : x, Tense : , Aspect : x, Mood : x ]
+  															 |  		न -> [ Gender : x, Number : x, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	5	-	SYM	I-JJP	o	-
+ 															MorphAnalysis : 
+story55.txt	0	6	माने	JJ	I-JJP	o	-
+ 															MorphAnalysis : Token : माने,  Total Output : 4
+  															 |  [ Root : माने, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : माने, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : मान, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : मान, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	7	अध्ययनकर्ता	NN	B-NP	o	-
+ 															MorphAnalysis : Token : अध्ययनकर्ता,  Total Output : 0
+  															 | 
+story55.txt	0	8	ने	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : ने,  Total Output : 1
+  															 |  [ Root : न, Class : , Category : adverb, Suffix : े ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	9	यूरोप	NNP	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : यूरोप,  Total Output : 1
+  															 |  [ Root : यूरोप, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	10	में	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : में,  Total Output : 1
+  															 |  [ Root : में, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	11	सूर्य	NN	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : सूर्य,  Total Output : 2
+  															 |  [ Root : सूर्य, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : सूर्य, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	12	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	13	प्रकाश	NN	B-NP	o	-
+ 															MorphAnalysis : Token : प्रकाश,  Total Output : 1
+  															 |  [ Root : प्रकाश, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	14	का	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : का,  Total Output : 0
+  															 | 
+story55.txt	0	15	स्तर	NN	B-NP	o	-
+ 															MorphAnalysis : Token : स्तर,  Total Output : 1
+  															 |  [ Root : स्तर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	16	पता	JJ	B-JJP	o	-
+ 															MorphAnalysis : Token : पता,  Total Output : 1
+  															 |  [ Root : पता, Class : D, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	17	कर	VM	B-VGNF	o	-
+ 															MorphAnalysis : Token : कर,  Total Output : 2
+  															 |  [ Root : कर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : कर, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	18	बताया	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : बताया,  Total Output : 2
+  															 |  [ Root : बताया, Class : C, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : बता, Class : , Category : verb, Suffix : या ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	19	था	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : था,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix : ा ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : +past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	20	कि	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : कि,  Total Output : 1
+  															 |  [ Root : कि, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	21	जिस	DEM	B-NP	o	-
+ 															MorphAnalysis : Token : जिस,  Total Output : 1
+  															 |  [ Root : जिस, Class : , Category : demonstrative, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	22	दिन	NN	I-NP	o	-
+ 															MorphAnalysis : Token : दिन,  Total Output : 1
+  															 |  [ Root : दिन, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	23	सूर्य	NN	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : सूर्य,  Total Output : 2
+  															 |  [ Root : सूर्य, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : सूर्य, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	24	की	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	25	रोशनी	NN	B-NP	o	-
+ 															MorphAnalysis : Token : रोशनी,  Total Output : 1
+  															 |  [ Root : रोशनी, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	26	पृथ्वी	NN	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : पृथ्वी,  Total Output : 1
+  															 |  [ Root : पृथ्वी, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	27	पर	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : पर,  Total Output : 3
+  															 |  [ Root : पर, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	28	सबसे	INTF	B-NP	o	-
+ 															MorphAnalysis : Token : सबसे,  Total Output : 1
+  															 |  [ Root : सबसे, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	29	ज्यादा	QF	I-NP	o	-
+ 															MorphAnalysis : Token : ज्यादा,  Total Output : 4
+  															 |  [ Root : ज्यादा, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : ज्यादा, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : ज्यादा, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : ज्यादा, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	30	पड़ती	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : पड़ती,  Total Output : 0
+  															 | 
+story55.txt	0	31	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	32	,	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	33	उस	DEM	B-NP	o	-
+ 															MorphAnalysis : Token : उस,  Total Output : 2
+  															 |  [ Root : उस, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : उस, Class : , Category : demonstrative, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	34	दिन	NN	I-NP	o	-
+ 															MorphAnalysis : Token : दिन,  Total Output : 1
+  															 |  [ Root : दिन, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	35	भी	RP	I-NP	o	-
+ 															MorphAnalysis : Token : भी,  Total Output : 2
+  															 |  [ Root : भी, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : भी, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	36	पहले	NST	B-NP	o	-
+ 															MorphAnalysis : Token : पहले,  Total Output : 5
+  															 |  [ Root : पहले, Class : , Category : nst, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पहले, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पहला, Class : D, Category : noun, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : पहला, Class : A, Category : ordinal, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : पहला, Class : A, Category : ordinal, Suffix : े ]
+  															 | 
+story55.txt	0	37	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	38	मुकाबले	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : मुकाबले,  Total Output : 2
+  															 |  [ Root : मुकाबले, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : मुकाबला, Class : D, Category : noun, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	39	धरती	NN	B-NP	o	-
+ 															MorphAnalysis : Token : धरती,  Total Output : 2
+  															 |  [ Root : धरती, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : धर, Class : , Category : verb, Suffix : ती ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : x, Tense : x, Aspect : +conditional, Mood : x ]
+  															 | 
+story55.txt	0	40	पर	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : पर,  Total Output : 3
+  															 |  [ Root : पर, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	41	कम	QF	B-NP	o	-
+ 															MorphAnalysis : Token : कम,  Total Output : 4
+  															 |  [ Root : कम, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : कम, Class : B, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कम, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कम, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	42	ही	RP	I-NP	o	-
+ 															MorphAnalysis : Token : ही,  Total Output : 2
+  															 |  [ Root : ही, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : ही, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	43	प्रकाश	NN	I-NP	o	-
+ 															MorphAnalysis : Token : प्रकाश,  Total Output : 1
+  															 |  [ Root : प्रकाश, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	44	आता	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : आता,  Total Output : 1
+  															 |  [ Root : आ, Class : , Category : verb, Suffix : ता ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +conditional, Mood : x ]
+  															 | 
+story55.txt	0	45	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	46	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	पिछले	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : पिछले,  Total Output : 2
+  															 |  [ Root : पिछला, Class : C, Category : adjective, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : पिछला, Class : C, Category : adjective, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	1	२०	QC	I-NP	B-NUMBER	-
+ 															MorphAnalysis : Token : २०,  Total Output : 2
+  															 |  [ Root : २०, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : २०, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	2	वर्षों	NN	I-NP	B-TIME	-
+ 															MorphAnalysis : Token : वर्षों,  Total Output : 1
+  															 |  [ Root : वर्ष, Class : E, Category : noun, Suffix : ों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	3	से	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : से,  Total Output : 5
+  															 |  [ Root : से, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	4	धरती	NN	B-NP	o	-
+ 															MorphAnalysis : Token : धरती,  Total Output : 2
+  															 |  [ Root : धरती, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : धर, Class : , Category : verb, Suffix : ती ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : x, Tense : x, Aspect : +conditional, Mood : x ]
+  															 | 
+story55.txt	0	5	पर	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : पर,  Total Output : 3
+  															 |  [ Root : पर, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	6	आने	VM	B-VGNN	o	-
+ 															MorphAnalysis : Token : आने,  Total Output : 4
+  															 |  [ Root : आना, Class : D, Category : noun, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : आन, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : आ, Class : , Category : verb, Suffix : ने ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+  															 |  		े -> [ Gender : +masc, Number : +-pl, Person : x, Case : x, Tense : , Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	7	वाली	PSP	I-VGNN	o	-
+ 															MorphAnalysis : Token : वाली,  Total Output : 2
+  															 |  [ Root : वाली, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : वाल, Class : , Category : verb_aux, Suffix : ी ]
+  															 |  	[ Gender : -masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : +inceptive ]
+  															 | 
+story55.txt	0	8	सूर्य	NN	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : सूर्य,  Total Output : 2
+  															 |  [ Root : सूर्य, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : सूर्य, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	9	की	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	10	रोशनी	NN	B-NP	o	-
+ 															MorphAnalysis : Token : रोशनी,  Total Output : 1
+  															 |  [ Root : रोशनी, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	11	में	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : में,  Total Output : 1
+  															 |  [ Root : में, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	12	पहले	NST	B-NP	o	-
+ 															MorphAnalysis : Token : पहले,  Total Output : 5
+  															 |  [ Root : पहले, Class : , Category : nst, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पहले, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पहला, Class : D, Category : noun, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : पहला, Class : A, Category : ordinal, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : पहला, Class : A, Category : ordinal, Suffix : े ]
+  															 | 
+story55.txt	0	13	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	14	मुकाबले	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : मुकाबले,  Total Output : 2
+  															 |  [ Root : मुकाबले, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : मुकाबला, Class : D, Category : noun, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	15	कमी	NN	B-NP	o	-
+ 															MorphAnalysis : Token : कमी,  Total Output : 1
+  															 |  [ Root : कमी, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	16	आई	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : आई,  Total Output : 2
+  															 |  [ Root : आई, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : आ, Class : , Category : verb, Suffix : ई ]
+  															 |  	[ Gender : -masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	17	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	18	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	दुनिया	NN	B-NP	o	-
+ 															MorphAnalysis : Token : दुनिया,  Total Output : 1
+  															 |  [ Root : दुनिया, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	1	भर	RP	I-NP	o	-
+ 															MorphAnalysis : Token : भर,  Total Output : 5
+  															 |  [ Root : भर, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : भर, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : भर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : भर, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : भर, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	2	में	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : में,  Total Output : 1
+  															 |  [ Root : में, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	3	हुए	VM	B-VGNF	o	-
+ 															MorphAnalysis : Token : हुए,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix : ए ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : +past, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	4	कई	QF	B-NP	o	-
+ 															MorphAnalysis : Token : कई,  Total Output : 3
+  															 |  [ Root : कई, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : कई, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कई, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	5	अध्ययनों	NN	I-NP	o	-
+ 															MorphAnalysis : Token : अध्ययनों,  Total Output : 1
+  															 |  [ Root : अध्ययन, Class : E, Category : noun, Suffix : ों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	6	में	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : में,  Total Output : 1
+  															 |  [ Root : में, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	7	यह	PRP	B-NP	o	-
+ 															MorphAnalysis : Token : यह,  Total Output : 2
+  															 |  [ Root : यह, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : यह, Class : , Category : demonstrative, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	8	पाया	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : पाया,  Total Output : 3
+  															 |  [ Root : पाया, Class : D, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पा, Class : , Category : verb, Suffix : या ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : पा, Class : , Category : verb_aux, Suffix : या ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : +ability ]
+  															 | 
+story55.txt	0	9	गया	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : गया,  Total Output : 3
+  															 |  [ Root : गया, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : गया, Class : C, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : जा, Class : , Category : verb, Suffix : या ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	10	कि	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : कि,  Total Output : 1
+  															 |  [ Root : कि, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	11	१९५०	NNP	B-NP	B-NUMBER	-
+ 															MorphAnalysis : Token : १९५०,  Total Output : 0
+  															 | 
+story55.txt	0	12	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	13	दशक	NN	B-NP	B-TIME	-
+ 															MorphAnalysis : Token : दशक,  Total Output : 1
+  															 |  [ Root : दशक, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	14	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	15	बाद	NST	I-NP	o	-
+ 															MorphAnalysis : Token : बाद,  Total Output : 2
+  															 |  [ Root : बाद, Class : , Category : nst, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : बाद, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	16	से	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : से,  Total Output : 5
+  															 |  [ Root : से, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	17	सूर्य	NN	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : सूर्य,  Total Output : 2
+  															 |  [ Root : सूर्य, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : सूर्य, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	18	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	19	प्रकाश	NN	B-NP	o	-
+ 															MorphAnalysis : Token : प्रकाश,  Total Output : 1
+  															 |  [ Root : प्रकाश, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	20	में	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : में,  Total Output : 1
+  															 |  [ Root : में, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	21	२	QC	B-NP	B-MEASURE	-
+ 															MorphAnalysis : Token : २,  Total Output : 2
+  															 |  [ Root : २, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : २, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	22	से	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : से,  Total Output : 5
+  															 |  [ Root : से, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	23	लेकर	VM	B-VGNF	o	-
+ 															MorphAnalysis : Token : लेकर,  Total Output : 2
+  															 |  [ Root : लेकर, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : ले, Class : , Category : verb, Suffix : कर ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : (+past, Aspect : +conjunctive), Mood : +participle ]
+  															 | 
+story55.txt	0	24	३७	QC	B-NP	B-MEASURE	-
+ 															MorphAnalysis : Token : ३७,  Total Output : 2
+  															 |  [ Root : ३७, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : ३७, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	25	फीसदी	NN	I-NP	I-MEASURE	-
+ 															MorphAnalysis : Token : फीसदी,  Total Output : 3
+  															 |  [ Root : फीसदी, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : फीसदी, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : फीसदी, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	26	तक	RP	I-NP	o	-
+ 															MorphAnalysis : Token : तक,  Total Output : 3
+  															 |  [ Root : तक, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : तक, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : तक, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	27	की	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	28	कमी	NN	B-NP	o	-
+ 															MorphAnalysis : Token : कमी,  Total Output : 1
+  															 |  [ Root : कमी, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	29	आई	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : आई,  Total Output : 2
+  															 |  [ Root : आई, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : आ, Class : , Category : verb, Suffix : ई ]
+  															 |  	[ Gender : -masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	30	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	31	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	पत्रिका	XC	B-NP	o	-
+ 															MorphAnalysis : Token : पत्रिका,  Total Output : 1
+  															 |  [ Root : पत्रिका, Class : C, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	1	साइंस	NNP	I-NP	B-ORGANIZATION	-
+ 															MorphAnalysis : Token : साइंस,  Total Output : 1
+  															 |  [ Root : साइंस, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	2	में	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : में,  Total Output : 1
+  															 |  [ Root : में, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	3	छपी	VM	B-VGNF	o	-
+ 															MorphAnalysis : Token : छपी,  Total Output : 2
+  															 |  [ Root : छपा, Class : C, Category : adjective, Suffix : ी ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : छप, Class : , Category : verb, Suffix : ी ]
+  															 |  	[ Gender : -masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	4	रिपोर्ट	NN	B-NP	o	-
+ 															MorphAnalysis : Token : रिपोर्ट,  Total Output : 2
+  															 |  [ Root : रिपोर्ट, Class : C, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : रिपोर्ट, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	5	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	6	मुताबिक	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : मुताबिक,  Total Output : 2
+  															 |  [ Root : मुताबिक, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : मुताबिक, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	7	घटती	VM	B-VGNF	o	-
+ 															MorphAnalysis : Token : घटती,  Total Output : 3
+  															 |  [ Root : घटती, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : घटता, Class : C, Category : adjective, Suffix : ी ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : घट, Class : , Category : verb, Suffix : ती ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : x, Tense : x, Aspect : +conditional, Mood : x ]
+  															 | 
+story55.txt	0	8	सूर्य	NN	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : सूर्य,  Total Output : 2
+  															 |  [ Root : सूर्य, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : सूर्य, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	9	की	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	10	रोशनी	NN	B-NP	o	-
+ 															MorphAnalysis : Token : रोशनी,  Total Output : 1
+  															 |  [ Root : रोशनी, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	11	वैश्विक	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : वैश्विक,  Total Output : 1
+  															 |  [ Root : वैश्विक, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	12	समस्या	NN	I-NP	o	-
+ 															MorphAnalysis : Token : समस्या,  Total Output : 1
+  															 |  [ Root : समस्या, Class : C, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	13	बन	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : बन,  Total Output : 2
+  															 |  [ Root : बन, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : बन, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	14	गई	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : गई,  Total Output : 1
+  															 |  [ Root : जा, Class : , Category : verb, Suffix : ई ]
+  															 |  	[ Gender : -masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	15	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	16	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	न्यू	XC	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : न्यू,  Total Output : 1
+  															 |  [ Root : न्यू, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	1	जर्सी	NNP	I-NP	I-LOCATION	-
+ 															MorphAnalysis : Token : जर्सी,  Total Output : 1
+  															 |  [ Root : जर्सी, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	2	और	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : और,  Total Output : 5
+  															 |  [ Root : और, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : और, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : और, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : और, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : और, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	3	कैलिफोर्निया	XC	B-NP	B-ORGANIZATION	-
+ 															MorphAnalysis : Token : कैलिफोर्निया,  Total Output : 1
+  															 |  [ Root : कैलिफोर्निया, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	4	इंस्टीट्यूट	XC	I-NP	I-ORGANIZATION	-
+ 															MorphAnalysis : Token : इंस्टीट्यूट,  Total Output : 0
+  															 | 
+story55.txt	0	5	ऑफ	XC	I-NP	I-ORGANIZATION	-
+ 															MorphAnalysis : Token : ऑफ,  Total Output : 1
+  															 |  [ Root : ऑफ, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	6	टेक्नोलॉजी	NNP	I-NP	I-ORGANIZATION	-
+ 															MorphAnalysis : Token : टेक्नोलॉजी,  Total Output : 2
+  															 |  [ Root : टेक्नोलॉजी, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : टेक्नोलॉजी, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	7	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	8	विज्ञानियों	NN	B-NP	o	-
+ 															MorphAnalysis : Token : विज्ञानियों,  Total Output : 1
+  															 |  [ Root : विज्ञानी, Class : E, Category : noun, Suffix : यों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	9	ने	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : ने,  Total Output : 1
+  															 |  [ Root : न, Class : , Category : adverb, Suffix : े ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	10	मशहूर	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : मशहूर,  Total Output : 2
+  															 |  [ Root : मशहूर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : मशहूर, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	11	चित्रकार	NN	I-NP	o	-
+ 															MorphAnalysis : Token : चित्रकार,  Total Output : 1
+  															 |  [ Root : चित्रकार, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	12	लियोनाडर्	XC	B-NP	B-PERSON	(2
+ 															MorphAnalysis : Token : लियोनाडर्,  Total Output : 0
+  															 | 
+story55.txt	0	13	डी	XC	I-NP	o	-
+ 															MorphAnalysis : Token : डी,  Total Output : 0
+  															 | 
+story55.txt	0	14	विंसी	NNP	I-NP	o	-
+ 															MorphAnalysis : Token : विंसी,  Total Output : 0
+  															 | 
+story55.txt	0	15	की	PSP	I-NP	o	2)
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	16	उस	DEM	B-NP	o	(1
+ 															MorphAnalysis : Token : उस,  Total Output : 2
+  															 |  [ Root : उस, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : उस, Class : , Category : demonstrative, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	17	कृति	NN	I-NP	o	-
+ 															MorphAnalysis : Token : कृति,  Total Output : 1
+  															 |  [ Root : कृति, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	18	की	PSP	I-NP	o	1)
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	19	याद	NN	B-NP	o	-
+ 															MorphAnalysis : Token : याद,  Total Output : 1
+  															 |  [ Root : याद, Class : C, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	20	दिलाई	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : दिलाई,  Total Output : 1
+  															 |  [ Root : दिला, Class : , Category : verb, Suffix : ई ]
+  															 |  	[ Gender : -masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	21	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	22	जिसमें	PRP	B-NP	o	(1)
+ 															MorphAnalysis : Token : जिसमें,  Total Output : 1
+  															 |  [ Root : जिसमें, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	23	उन्होंने	PRP	B-NP	o	(2)
+ 															MorphAnalysis : Token : उन्होंने,  Total Output : 1
+  															 |  [ Root : उन्होंने, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	24	चांद	NN	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : चांद,  Total Output : 1
+  															 |  [ Root : चांद, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	25	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	26	अंधेरे	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : अंधेरे,  Total Output : 3
+  															 |  [ Root : अंधेरा, Class : D, Category : noun, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : अंधेरा, Class : C, Category : adjective, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : अंधेरा, Class : C, Category : adjective, Suffix : े ]
+  															 | 
+story55.txt	0	27	हिस्सों	NN	I-NP	o	-
+ 															MorphAnalysis : Token : हिस्सों,  Total Output : 1
+  															 |  [ Root : हिस्सा, Class : D, Category : noun, Suffix : ों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	28	को	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : को,  Total Output : 0
+  															 | 
+story55.txt	0	29	धरती	NN	B-NP	o	-
+ 															MorphAnalysis : Token : धरती,  Total Output : 2
+  															 |  [ Root : धरती, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : धर, Class : , Category : verb, Suffix : ती ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : x, Tense : x, Aspect : +conditional, Mood : x ]
+  															 | 
+story55.txt	0	30	से	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : से,  Total Output : 5
+  															 |  [ Root : से, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	31	परावर्तित	JJ	B-JJP	o	-
+ 															MorphAnalysis : Token : परावर्तित,  Total Output : 1
+  															 |  [ Root : परावर्तित, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	32	होने	VM	B-VGNN	o	-
+ 															MorphAnalysis : Token : होने,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix : ने ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	33	वाली	PSP	I-VGNN	o	-
+ 															MorphAnalysis : Token : वाली,  Total Output : 2
+  															 |  [ Root : वाली, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : वाल, Class : , Category : verb_aux, Suffix : ी ]
+  															 |  	[ Gender : -masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : +inceptive ]
+  															 | 
+story55.txt	0	34	सूर्य	NN	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : सूर्य,  Total Output : 2
+  															 |  [ Root : सूर्य, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : सूर्य, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	35	की	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	36	किरणों	NN	B-NP	o	-
+ 															MorphAnalysis : Token : किरणों,  Total Output : 1
+  															 |  [ Root : किरण, Class : C, Category : noun, Suffix : ों ]
+  															 |  	[ Gender : -masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	37	से	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : से,  Total Output : 5
+  															 |  [ Root : से, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	38	प्रकाशित	JJ	B-JJP	o	-
+ 															MorphAnalysis : Token : प्रकाशित,  Total Output : 1
+  															 |  [ Root : प्रकाशित, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	39	होते	VM	B-VGNF	o	-
+ 															MorphAnalysis : Token : होते,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix : ते ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : x, Tense : , Aspect : +conditional, Mood : x ]
+  															 | 
+story55.txt	0	40	दिखाया	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : दिखाया,  Total Output : 1
+  															 |  [ Root : दिखा, Class : , Category : verb, Suffix : या ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	41	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	42	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	इसी	DEM	B-NP	o	-
+ 															MorphAnalysis : Token : इसी,  Total Output : 1
+  															 |  [ Root : इसी, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	1	'1	SYM	I-NP	o	-
+ 															MorphAnalysis : Token : 1,  Total Output : 2
+  															 |  [ Root : 1, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : 1, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	2	अर्थसाइन	NN	I-NP	o	-
+ 															MorphAnalysis : Token : अर्थसाइन,  Total Output : 0
+  															 | 
+story55.txt	0	3	'2	SYM	I-NP	o	-
+ 															MorphAnalysis : Token : 2,  Total Output : 2
+  															 |  [ Root : 2, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : 2, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	4	की	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	5	गणना	NN	B-NP	o	-
+ 															MorphAnalysis : Token : गणना,  Total Output : 1
+  															 |  [ Root : गणना, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	6	कर	VM	B-VGNF	o	-
+ 															MorphAnalysis : Token : कर,  Total Output : 2
+  															 |  [ Root : कर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : कर, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	7	विज्ञानियों	NN	B-NP	o	-
+ 															MorphAnalysis : Token : विज्ञानियों,  Total Output : 1
+  															 |  [ Root : विज्ञानी, Class : E, Category : noun, Suffix : यों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	8	ने	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : ने,  Total Output : 1
+  															 |  [ Root : न, Class : , Category : adverb, Suffix : े ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	9	पता	JJ	B-JJP	o	-
+ 															MorphAnalysis : Token : पता,  Total Output : 1
+  															 |  [ Root : पता, Class : D, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	10	लगाया	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : लगाया,  Total Output : 1
+  															 |  [ Root : लगा, Class : , Category : verb, Suffix : या ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	11	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	12	कि	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : कि,  Total Output : 1
+  															 |  [ Root : कि, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	13	पिछले	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : पिछले,  Total Output : 2
+  															 |  [ Root : पिछला, Class : C, Category : adjective, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : पिछला, Class : C, Category : adjective, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	14	पचास	QC	I-NP	B-MEASURE	-
+ 															MorphAnalysis : Token : पचास,  Total Output : 2
+  															 |  [ Root : पचास, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पचास, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	15	वर्षों	NN	I-NP	B-TIME	-
+ 															MorphAnalysis : Token : वर्षों,  Total Output : 1
+  															 |  [ Root : वर्ष, Class : E, Category : noun, Suffix : ों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	16	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	17	मुकाबले	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : मुकाबले,  Total Output : 2
+  															 |  [ Root : मुकाबले, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : मुकाबला, Class : D, Category : noun, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	18	दुनिया	NN	B-NP	o	-
+ 															MorphAnalysis : Token : दुनिया,  Total Output : 1
+  															 |  [ Root : दुनिया, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	19	में	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : में,  Total Output : 1
+  															 |  [ Root : में, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	20	तकरीबन	RB	B-RBP	o	-
+ 															MorphAnalysis : Token : तकरीबन,  Total Output : 1
+  															 |  [ Root : तकरीबन, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	21	१०	QC	B-NP	B-MEASURE	-
+ 															MorphAnalysis : Token : १०,  Total Output : 2
+  															 |  [ Root : १०, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : १०, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	22	फीसदी	NN	I-NP	I-MEASURE	-
+ 															MorphAnalysis : Token : फीसदी,  Total Output : 3
+  															 |  [ Root : फीसदी, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : फीसदी, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : फीसदी, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	23	रोशनी	NN	B-NP	o	-
+ 															MorphAnalysis : Token : रोशनी,  Total Output : 1
+  															 |  [ Root : रोशनी, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	24	घटी	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : घटी,  Total Output : 2
+  															 |  [ Root : घटी, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : घट, Class : , Category : verb, Suffix : ी ]
+  															 |  	[ Gender : -masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	25	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	26	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	हालांकि	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : हालांकि,  Total Output : 1
+  															 |  [ Root : हालांकि, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	1	विज्ञानी	NN	B-NP	o	-
+ 															MorphAnalysis : Token : विज्ञानी,  Total Output : 1
+  															 |  [ Root : विज्ञानी, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	2	इस	DEM	B-NP	o	-
+ 															MorphAnalysis : Token : इस,  Total Output : 2
+  															 |  [ Root : इस, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : इस, Class : , Category : demonstrative, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	3	बात	NN	I-NP	o	-
+ 															MorphAnalysis : Token : बात,  Total Output : 1
+  															 |  [ Root : बात, Class : C, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	4	पर	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : पर,  Total Output : 3
+  															 |  [ Root : पर, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	5	एक	QC	B-NP	B-NUMBER	-
+ 															MorphAnalysis : Token : एक,  Total Output : 2
+  															 |  [ Root : एक, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : एक, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	6	मत	NN	I-NP	o	-
+ 															MorphAnalysis : Token : मत,  Total Output : 1
+  															 |  [ Root : मत, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	7	नहीं	NEG	B-VGF	o	-
+ 															MorphAnalysis : Token : नहीं,  Total Output : 2
+  															 |  [ Root : नहीं, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : नहीं, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	8	है	VM	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	9	कि	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : कि,  Total Output : 1
+  															 |  [ Root : कि, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	10	दुनिया	NN	B-NP	o	-
+ 															MorphAnalysis : Token : दुनिया,  Total Output : 1
+  															 |  [ Root : दुनिया, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	11	में	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : में,  Total Output : 1
+  															 |  [ Root : में, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	12	कम	QF	B-JJP	o	-
+ 															MorphAnalysis : Token : कम,  Total Output : 4
+  															 |  [ Root : कम, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : कम, Class : B, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कम, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कम, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	13	होता	VM	B-VGNF	o	-
+ 															MorphAnalysis : Token : होता,  Total Output : 2
+  															 |  [ Root : होता, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : हो, Class : , Category : verb, Suffix : ता ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +conditional, Mood : x ]
+  															 | 
+story55.txt	0	14	प्रकाश	NN	B-NP	o	-
+ 															MorphAnalysis : Token : प्रकाश,  Total Output : 1
+  															 |  [ Root : प्रकाश, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	15	प्राकृतिक	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : प्राकृतिक,  Total Output : 1
+  															 |  [ Root : प्राकृतिक, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	16	घटना	NN	I-NP	o	-
+ 															MorphAnalysis : Token : घटना,  Total Output : 3
+  															 |  [ Root : घटना, Class : C, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : घट, Class : , Category : verb, Suffix : ना ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : घट, Class : , Category : verb, Suffix : ना ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	17	है	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	18	या	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : या,  Total Output : 1
+  															 |  [ Root : या, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	19	प्रदूषण	NN	B-NP	o	-
+ 															MorphAnalysis : Token : प्रदूषण,  Total Output : 1
+  															 |  [ Root : प्रदूषण, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	20	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	21	कारण	NN	I-NP	o	-
+ 															MorphAnalysis : Token : कारण,  Total Output : 1
+  															 |  [ Root : कारण, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	22	ऐसा	PRP	B-NP	o	-
+ 															MorphAnalysis : Token : ऐसा,  Total Output : 3
+  															 |  [ Root : ऐसा, Class : , Category : demonstrative, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : ऐसा, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : ऐसा, Class : C, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	23	हो	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : हो,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	24	रहा	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : रहा,  Total Output : 2
+  															 |  [ Root : रह, Class : , Category : verb, Suffix : ा ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : रह, Class : , Category : verb_aux, Suffix : ा ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : (-perfect : -habitual), Mood : x ]
+  															 | 
+story55.txt	0	25	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	26	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	कुछ	QF	B-NP	o	-
+ 															MorphAnalysis : Token : कुछ,  Total Output : 4
+  															 |  [ Root : कुछ, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : कुछ, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कुछ, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कुछ, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	1	विज्ञानियों	NN	I-NP	o	-
+ 															MorphAnalysis : Token : विज्ञानियों,  Total Output : 1
+  															 |  [ Root : विज्ञानी, Class : E, Category : noun, Suffix : यों ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	2	का	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : का,  Total Output : 0
+  															 | 
+story55.txt	0	3	यह	PRP	B-NP	o	-
+ 															MorphAnalysis : Token : यह,  Total Output : 2
+  															 |  [ Root : यह, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : यह, Class : , Category : demonstrative, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	4	भी	RP	I-NP	o	-
+ 															MorphAnalysis : Token : भी,  Total Output : 2
+  															 |  [ Root : भी, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : भी, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	5	मानना	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : मानना,  Total Output : 2
+  															 |  [ Root : मान, Class : , Category : verb, Suffix : ना ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : मान, Class : , Category : verb, Suffix : ना ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	6	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	7	कि	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : कि,  Total Output : 1
+  															 |  [ Root : कि, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	8	कारों	NN	B-NP	o	-
+ 															MorphAnalysis : Token : कारों,  Total Output : 1
+  															 |  [ Root : कार, Class : C, Category : noun, Suffix : ों ]
+  															 |  	[ Gender : -masc, Number : +pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	9	से	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : से,  Total Output : 5
+  															 |  [ Root : से, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	10	निकलने	VM	B-VGNN	o	-
+ 															MorphAnalysis : Token : निकलने,  Total Output : 1
+  															 |  [ Root : निकल, Class : , Category : verb, Suffix : ने ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	11	वाली	PSP	I-VGNN	o	-
+ 															MorphAnalysis : Token : वाली,  Total Output : 2
+  															 |  [ Root : वाली, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : वाल, Class : , Category : verb_aux, Suffix : ी ]
+  															 |  	[ Gender : -masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : +inceptive ]
+  															 | 
+story55.txt	0	12	कालिख	NN	B-NP	o	-
+ 															MorphAnalysis : Token : कालिख,  Total Output : 1
+  															 |  [ Root : कालिख, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	13	और	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : और,  Total Output : 5
+  															 |  [ Root : और, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : और, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : और, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : और, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : और, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	14	वैश्विक	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : वैश्विक,  Total Output : 1
+  															 |  [ Root : वैश्विक, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	15	तापमान	NN	I-NP	o	-
+ 															MorphAnalysis : Token : तापमान,  Total Output : 1
+  															 |  [ Root : तापमान, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	16	(	SYM	B-NP	o	-
+ 															MorphAnalysis : 
+story55.txt	0	17	ग्लोबल	XC	I-NP	o	-
+ 															MorphAnalysis : Token : ग्लोबल,  Total Output : 1
+  															 |  [ Root : ग्लोबल, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	18	वार्मिंग	NN	I-NP	o	-
+ 															MorphAnalysis : Token : वार्मिंग,  Total Output : 0
+  															 | 
+story55.txt	0	19	)	SYM	I-NP	o	-
+ 															MorphAnalysis : 
+story55.txt	0	20	बढ़ने	VM	B-VGNN	o	-
+ 															MorphAnalysis : Token : बढ़ने,  Total Output : 0
+  															 | 
+story55.txt	0	21	से	PSP	I-VGNN	o	-
+ 															MorphAnalysis : Token : से,  Total Output : 5
+  															 |  [ Root : से, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	22	सूर्य	NN	B-NP	B-LOCATION	-
+ 															MorphAnalysis : Token : सूर्य,  Total Output : 2
+  															 |  [ Root : सूर्य, Class : , Category : proper noun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : सूर्य, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	23	की	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	24	रोशनी	NN	B-NP	o	-
+ 															MorphAnalysis : Token : रोशनी,  Total Output : 1
+  															 |  [ Root : रोशनी, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	25	घटी	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : घटी,  Total Output : 2
+  															 |  [ Root : घटी, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : घट, Class : , Category : verb, Suffix : ी ]
+  															 |  	[ Gender : -masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	26	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	27	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	ग्लोबल	XC	B-NP	o	-
+ 															MorphAnalysis : Token : ग्लोबल,  Total Output : 1
+  															 |  [ Root : ग्लोबल, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	1	वार्मिंग	NN	I-NP	o	-
+ 															MorphAnalysis : Token : वार्मिंग,  Total Output : 0
+  															 | 
+story55.txt	0	2	से	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : से,  Total Output : 5
+  															 |  [ Root : से, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	3	ज्यादा	QF	B-NP	o	-
+ 															MorphAnalysis : Token : ज्यादा,  Total Output : 4
+  															 |  [ Root : ज्यादा, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : ज्यादा, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : ज्यादा, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : ज्यादा, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	4	पानी	NN	I-NP	o	-
+ 															MorphAnalysis : Token : पानी,  Total Output : 3
+  															 |  [ Root : पानी, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : पा, Class : , Category : verb, Suffix : नी ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+  															 |  		ी -> [ Gender : -masc, Number : +-pl, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  		न -> [ Gender : x, Number : x, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	5	वाष्प	NN	B-NP	o	-
+ 															MorphAnalysis : Token : वाष्प,  Total Output : 1
+  															 |  [ Root : वाष्प, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	6	बन	VM	B-VGNF	o	-
+ 															MorphAnalysis : Token : बन,  Total Output : 2
+  															 |  [ Root : बन, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : बन, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	7	कर	VAUX	I-VGNF	o	-
+ 															MorphAnalysis : Token : कर,  Total Output : 2
+  															 |  [ Root : कर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : कर, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	8	उड़ता	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : उड़ता,  Total Output : 0
+  															 | 
+story55.txt	0	9	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	10	जिससे	PRP	B-NP	o	-
+ 															MorphAnalysis : Token : जिससे,  Total Output : 1
+  															 |  [ Root : जिससे, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	11	समूचा	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : समूचा,  Total Output : 1
+  															 |  [ Root : समूचा, Class : C, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	12	आकाश	NN	I-NP	o	-
+ 															MorphAnalysis : Token : आकाश,  Total Output : 1
+  															 |  [ Root : आकाश, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	13	बादल	NN	B-NP	o	-
+ 															MorphAnalysis : Token : बादल,  Total Output : 1
+  															 |  [ Root : बादल, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	14	से	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : से,  Total Output : 5
+  															 |  [ Root : से, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	15	ढक	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : ढक,  Total Output : 2
+  															 |  [ Root : ढक, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : ढक, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	16	जाता	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : जाता,  Total Output : 2
+  															 |  [ Root : जात, Class : , Category : verb, Suffix : ा ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : जा, Class : , Category : verb, Suffix : ता ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +conditional, Mood : x ]
+  															 | 
+story55.txt	0	17	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	18	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	यह	PRP	B-NP	o	-
+ 															MorphAnalysis : Token : यह,  Total Output : 2
+  															 |  [ Root : यह, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : यह, Class : , Category : demonstrative, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	1	भी	RP	I-NP	o	-
+ 															MorphAnalysis : Token : भी,  Total Output : 2
+  															 |  [ Root : भी, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : भी, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	2	धरती	NN	B-NP	o	-
+ 															MorphAnalysis : Token : धरती,  Total Output : 2
+  															 |  [ Root : धरती, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : धर, Class : , Category : verb, Suffix : ती ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : x, Tense : x, Aspect : +conditional, Mood : x ]
+  															 | 
+story55.txt	0	3	तक	RP	I-NP	o	-
+ 															MorphAnalysis : Token : तक,  Total Output : 3
+  															 |  [ Root : तक, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : तक, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : तक, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	4	रोशनी	NN	B-NP	o	-
+ 															MorphAnalysis : Token : रोशनी,  Total Output : 1
+  															 |  [ Root : रोशनी, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	5	कम	QF	B-JJP	o	-
+ 															MorphAnalysis : Token : कम,  Total Output : 4
+  															 |  [ Root : कम, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : कम, Class : B, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कम, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कम, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	6	आने	VM	B-VGNN	o	-
+ 															MorphAnalysis : Token : आने,  Total Output : 4
+  															 |  [ Root : आना, Class : D, Category : noun, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : आन, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : आ, Class : , Category : verb, Suffix : ने ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+  															 |  		े -> [ Gender : +masc, Number : +-pl, Person : x, Case : x, Tense : , Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	7	की	PSP	I-VGNN	o	-
+ 															MorphAnalysis : Token : की,  Total Output : 2
+  															 |  [ Root : की, Class : B, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : की, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	8	एक	QC	B-NP	B-NUMBER	-
+ 															MorphAnalysis : Token : एक,  Total Output : 2
+  															 |  [ Root : एक, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : एक, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	9	वजह	NN	I-NP	o	-
+ 															MorphAnalysis : Token : वजह,  Total Output : 1
+  															 |  [ Root : वजह, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	10	हो	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : हो,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	11	सकती	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : सकती,  Total Output : 1
+  															 |  [ Root : सक, Class : , Category : verb_aux, Suffix : ती ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : x, Tense : x, Aspect : +conditional, Mood : (+probability : +ability) ]
+  															 | 
+story55.txt	0	12	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	13	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	उधर	NST	B-NP	o	-
+ 															MorphAnalysis : Token : उधर,  Total Output : 2
+  															 |  [ Root : उधर, Class : , Category : nst, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : उधर, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	1	,	SYM	I-NP	o	-
+ 															MorphAnalysis : 
+story55.txt	0	2	अध्ययन	NN	B-NP	o	-
+ 															MorphAnalysis : Token : अध्ययन,  Total Output : 1
+  															 |  [ Root : अध्ययन, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	3	करने	VM	B-VGNN	o	-
+ 															MorphAnalysis : Token : करने,  Total Output : 2
+  															 |  [ Root : करना, Class : D, Category : noun, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कर, Class : , Category : verb, Suffix : ने ]
+  															 | 
+story55.txt	0	4	वाले	PSP	I-VGNN	o	-
+ 															MorphAnalysis : Token : वाले,  Total Output : 3
+  															 |  [ Root : वाले, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : वाल, Class : , Category : verb_aux, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : +inceptive ]
+  															 |  [ Root : वाल, Class : , Category : verb_aux, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : +inceptive ]
+  															 | 
+story55.txt	0	5	विज्ञानी	JJ	B-NP	o	(3
+ 															MorphAnalysis : Token : विज्ञानी,  Total Output : 1
+  															 |  [ Root : विज्ञानी, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	6	प्रोफेसर	NN	I-NP	o	-
+ 															MorphAnalysis : Token : प्रोफेसर,  Total Output : 2
+  															 |  [ Root : प्रोफेसर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : प्रोफेसर, Class : F, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	7	फिलिप	XC	I-NP	B-PERSON	-
+ 															MorphAnalysis : Token : फिलिप,  Total Output : 0
+  															 | 
+story55.txt	0	8	आर	XC	I-NP	B-PERSON	-
+ 															MorphAnalysis : Token : आर,  Total Output : 2
+  															 |  [ Root : आर, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : आर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	9	गुडी	NNP	I-NP	o	-
+ 															MorphAnalysis : Token : गुडी,  Total Output : 0
+  															 | 
+story55.txt	0	10	ने	PSP	I-NP	o	3)
+ 															MorphAnalysis : Token : ने,  Total Output : 1
+  															 |  [ Root : न, Class : , Category : adverb, Suffix : े ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	11	'1	SYM	B-NP	o	-
+ 															MorphAnalysis : Token : 1,  Total Output : 2
+  															 |  [ Root : 1, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : 1, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	12	दि	XC	I-NP	B-ORGANIZATION	-
+ 															MorphAnalysis : Token : दि,  Total Output : 1
+  															 |  [ Root : दे, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	13	इंडिपेंडेंट	NNP	I-NP	B-ORGANIZATION	-
+ 															MorphAnalysis : Token : इंडिपेंडेंट,  Total Output : 0
+  															 | 
+story55.txt	0	14	'2	SYM	I-NP	o	-
+ 															MorphAnalysis : Token : 2,  Total Output : 2
+  															 |  [ Root : 2, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : 2, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	15	से	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : से,  Total Output : 5
+  															 |  [ Root : से, Class : , Category : particle, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 |  [ Root : से, Class : , Category : verb, Suffix : े ]
+  															 |  	[ Gender : x, Number : -pl, Person : 2p, Case : x, Tense : +conditional, Aspect : x, Mood : (+imperative : +intimate) ]
+  															 | 
+story55.txt	0	16	बातचीत	NN	B-NP	o	-
+ 															MorphAnalysis : Token : बातचीत,  Total Output : 1
+  															 |  [ Root : बातचीत, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	17	में	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : में,  Total Output : 1
+  															 |  [ Root : में, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	18	बताया	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : बताया,  Total Output : 2
+  															 |  [ Root : बताया, Class : C, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : बता, Class : , Category : verb, Suffix : या ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	19	कि	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : कि,  Total Output : 1
+  															 |  [ Root : कि, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	20	पहले	NST	B-NP	o	-
+ 															MorphAnalysis : Token : पहले,  Total Output : 5
+  															 |  [ Root : पहले, Class : , Category : nst, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पहले, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पहला, Class : D, Category : noun, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : पहला, Class : A, Category : ordinal, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : पहला, Class : A, Category : ordinal, Suffix : े ]
+  															 | 
+story55.txt	0	21	के	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : के,  Total Output : 0
+  															 | 
+story55.txt	0	22	मुकाबले	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : मुकाबले,  Total Output : 2
+  															 |  [ Root : मुकाबले, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : मुकाबला, Class : D, Category : noun, Suffix : े ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : +oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	23	धुंधलापन	NN	B-NP	o	-
+ 															MorphAnalysis : Token : धुंधलापन,  Total Output : 0
+  															 | 
+story55.txt	0	24	बढ़ा	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : बढ़ा,  Total Output : 0
+  															 | 
+story55.txt	0	25	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	26	और	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : और,  Total Output : 5
+  															 |  [ Root : और, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : और, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : और, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : और, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : और, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	27	यह	PRP	B-NP	o	-
+ 															MorphAnalysis : Token : यह,  Total Output : 2
+  															 |  [ Root : यह, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : यह, Class : , Category : demonstrative, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	28	एक	QC	B-NP	B-NUMBER	(4
+ 															MorphAnalysis : Token : एक,  Total Output : 2
+  															 |  [ Root : एक, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : एक, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	29	प्राकृतिक	JJ	I-NP	o	-
+ 															MorphAnalysis : Token : प्राकृतिक,  Total Output : 1
+  															 |  [ Root : प्राकृतिक, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	30	घटना	NN	I-NP	o	-
+ 															MorphAnalysis : Token : घटना,  Total Output : 3
+  															 |  [ Root : घटना, Class : C, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : घट, Class : , Category : verb, Suffix : ना ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : घट, Class : , Category : verb, Suffix : ना ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	31	मात्र	RP	I-NP	o	4)
+ 															MorphAnalysis : Token : मात्र,  Total Output : 4
+  															 |  [ Root : मात्र, Class : , Category : adverb, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : मात्र, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : मात्र, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : +-masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : मात्र, Class : A, Category : quantifier, Suffix : Null ]
+  															 |  	[ Gender : -masc, Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	32	है	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	33	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
+story55.txt	0	0	उन्होंने	PRP	B-NP	o	(3)
+ 															MorphAnalysis : Token : उन्होंने,  Total Output : 1
+  															 |  [ Root : उन्होंने, Class : , Category : pronoun, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	1	कहा	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : कहा,  Total Output : 3
+  															 |  [ Root : कहा, Class : D, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : कहा, Class : C, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : -obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : कह, Class : , Category : verb, Suffix : ा ]
+  															 |  	[ Gender : +masc, Number : -pl, Person : x, Case : x, Tense : x, Aspect : +perfect, Mood : x ]
+  															 | 
+story55.txt	0	2	कि	CC	B-CCP	o	-
+ 															MorphAnalysis : Token : कि,  Total Output : 1
+  															 |  [ Root : कि, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	3	आम	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : आम,  Total Output : 2
+  															 |  [ Root : आम, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : आम, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	4	जन	XC	I-NP	o	-
+ 															MorphAnalysis : Token : जन,  Total Output : 3
+  															 |  [ Root : जन, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : जन, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : जन, Class : , Category : verb, Suffix : Null ]
+  															 |  	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	5	-	SYM	I-NP	o	-
+ 															MorphAnalysis : 
+story55.txt	0	6	जीवन	NN	I-NP	o	-
+ 															MorphAnalysis : Token : जीवन,  Total Output : 2
+  															 |  [ Root : जीवन, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 |  [ Root : जीवन, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	7	पर	PSP	I-NP	o	-
+ 															MorphAnalysis : Token : पर,  Total Output : 3
+  															 |  [ Root : पर, Class : , Category : conjunction, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : , Category : post position, Suffix : Null ]
+  															 |  	[ Gender : , Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 |  [ Root : पर, Class : E, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+  															 | 
+story55.txt	0	8	इसका	PRP	B-NP	o	(4)
+ 															MorphAnalysis : Token : इसका,  Total Output : 0
+  															 | 
+story55.txt	0	9	व्यापक	JJ	B-NP	o	-
+ 															MorphAnalysis : Token : व्यापक,  Total Output : 1
+  															 |  [ Root : व्यापक, Class : A, Category : adjective, Suffix : Null ]
+  															 |  	[ Gender : , Number : +-pl, Person : x, Case : +-obl, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	10	असर	NN	I-NP	o	-
+ 															MorphAnalysis : Token : असर,  Total Output : 1
+  															 |  [ Root : असर, Class : A, Category : noun, Suffix : Null ]
+  															 |  	[ Gender : +masc, Number : +-pl, Person : x, Case : -oblique, Tense : x, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	11	पड़	VM	B-VGF	o	-
+ 															MorphAnalysis : Token : पड़,  Total Output : 0
+  															 | 
+story55.txt	0	12	सकता	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : सकता,  Total Output : 1
+  															 |  [ Root : सक, Class : , Category : verb_aux, Suffix : ता ]
+  															 |  	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : +conditional, Mood : (+probability : +ability) ]
+  															 | 
+story55.txt	0	13	है	VAUX	I-VGF	o	-
+ 															MorphAnalysis : Token : है,  Total Output : 1
+  															 |  [ Root : हो, Class : , Category : verb, Suffix :  ]
+  															 |  	[ Gender : x, Number : -pl, Person : x, Case : x, Tense : -past, Aspect : x, Mood : x ]
+  															 | 
+story55.txt	0	14	।	SYM	I-VGF	o	-
+ 															MorphAnalysis : 
