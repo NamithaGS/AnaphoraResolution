@@ -1,0 +1,26 @@
+#begin document (story38.txt); part 000
+
+story38.txt	0	0	छत्तीसगढ़	XC	B-NP	B-LOCATION	-
+story38.txt	0	1	एक्सप्रेस	NNP	I-NP	o	-
+story38.txt	0	2	के	PSP	I-NP	o	-
+story38.txt	0	3	पार्सल	XC	B-NP	o	-
+story38.txt	0	4	यान	NN	I-NP	o	-
+story38.txt	0	5	से	PSP	I-NP	o	-
+story38.txt	0	6	माल	NN	B-NP	o	-
+story38.txt	0	7	चुराने	VM	B-VGNN	o	-
+story38.txt	0	8	के	PSP	I-VGNN	o	-
+story38.txt	0	9	लिए	PSP	I-VGNN	o	-
+story38.txt	0	10	चढ़े	VM	B-VGNF	o	-
+story38.txt	0	11	बदमाशों	NN	B-NP	o	-
+story38.txt	0	12	ने	PSP	I-NP	o	-
+story38.txt	0	13	सोमवार	NNP	B-NP	o	-
+story38.txt	0	14	को	PSP	I-NP	o	-
+
+story38.txt	0	12	यात्री	NN	I-NP	o	-
+story38.txt	0	13	आगे	NST	B-NP	o	-
+story38.txt	0	14	नहीं	NEG	B-VGF	o	-
+story38.txt	0	15	आया	VM	I-VGF	o	-
+story38.txt	0	16	.	SYM	I-VGF	o	-
+
+
+#end document

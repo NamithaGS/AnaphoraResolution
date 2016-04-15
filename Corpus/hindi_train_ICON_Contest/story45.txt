@@ -1,0 +1,95 @@
+#begin document (story45.txt); part 000
+
+story45.txt	0	0	इराक	NNP	B-NP	B-LOCATION	-
+story45.txt	0	1	में	PSP	I-NP	o	-
+story45.txt	0	2	तेल	XC	B-NP	o	-
+story45.txt	0	3	के	XC	I-NP	o	-
+story45.txt	0	4	बदले	XC	I-NP	o	-
+story45.txt	0	5	अनाज	XC	I-NP	o	-
+story45.txt	0	6	कार्यक्रम	NNP	I-NP	o	-
+story45.txt	0	7	में	PSP	I-NP	o	-
+story45.txt	0	8	कुछ	QF	B-NP	o	-
+story45.txt	0	9	लोगों	NN	I-NP	o	-
+story45.txt	0	10	के	PSP	I-NP	o	-
+story45.txt	0	11	कथित	JJ	B-NP	o	-
+story45.txt	0	12	रूप	NN	I-NP	o	-
+story45.txt	0	13	से	PSP	I-NP	o	-
+story45.txt	0	14	लाभान्वित	JJ	B-JJP	o	-
+story45.txt	0	15	होने	VM	B-VGNN	o	-
+story45.txt	0	16	के	PSP	I-VGNN	o	-
+story45.txt	0	17	मामले	NN	B-NP	o	-
+story45.txt	0	18	में	PSP	I-NP	o	-
+story45.txt	0	19	प्रवर्तन	XC	B-NP	o	-
+story45.txt	0	20	निदेशालय	NNP	I-NP	B-ORGANIZATION	-
+story45.txt	0	21	ने	PSP	I-NP	o	-
+story45.txt	0	22	अंतरिम	JJ	B-NP	o	-
+story45.txt	0	23	रिपोर्ट	NN	I-NP	o	-
+story45.txt	0	24	तैयार	JJ	B-JJP	o	-
+story45.txt	0	25	कर	VM	B-VGF	o	-
+story45.txt	0	26	ली	VAUX	I-VGF	o	-
+story45.txt	0	27	है	VAUX	I-VGF	o	-
+story45.txt	0	28	.	SYM	I-VGF	o	-
+
+story45.txt	0	0	निदेशालय	NN	B-NP	B-ORGANIZATION	-
+story45.txt	0	1	का	PSP	I-NP	o	-
+story45.txt	0	2	कहना	VM	B-VGF	o	-
+story45.txt	0	3	है	VAUX	I-VGF	o	-
+story45.txt	0	4	कि	CC	B-CCP	o	-
+story45.txt	0	5	अंतरिम	JJ	B-NP	o	(1
+story45.txt	0	6	रिपोर्ट	NN	I-NP	o	1)
+story45.txt	0	7	तैयार	JJ	B-JJP	o	-
+story45.txt	0	8	है	VM	B-VGF	o	-
+story45.txt	0	9	और	CC	B-CCP	o	-
+story45.txt	0	10	इसे	PRP	B-NP	o	(1)
+story45.txt	0	11	जल्द	RB	B-RBP	o	-
+story45.txt	0	12	ही	RP	I-RBP	o	-
+story45.txt	0	13	सरकार	NN	B-NP	o	-
+story45.txt	0	14	को	PSP	I-NP	o	-
+story45.txt	0	15	सौंप	VM	B-VGF	o	-
+story45.txt	0	16	दिया	VAUX	I-VGF	o	-
+story45.txt	0	17	जाएगा	VAUX	I-VGF	o	-
+story45.txt	0	18	.	SYM	I-VGF	o	-
+
+story45.txt	0	0	इस	DEM	B-NP	o	-
+story45.txt	0	1	मामले	NN	I-NP	o	-
+story45.txt	0	2	में	PSP	I-NP	o	-
+story45.txt	0	3	पूर्व	JJ	B-NP	o	(2
+story45.txt	0	4	विदेश	XC	I-NP	o	-
+story45.txt	0	5	मंत्री	XC	I-NP	o	-
+story45.txt	0	6	नटवर	XC	I-NP	o	-
+story45.txt	0	7	सिंह	NNP	I-NP	B-PERSON	2)
+story45.txt	0	8	,	SYM	B-CCP	o	-
+story45.txt	0	9	उनके	PRP	B-NP	o	(2)
+story45.txt	0	10	बेटे	NN	B-NP	o	-
+story45.txt	0	11	जगत	XC	B-NP	B-PERSON	-
+story45.txt	0	12	सिंह	NNP	I-NP	I-PERSON	-
+story45.txt	0	13	समेत	PSP	I-NP	o	-
+story45.txt	0	14	कई	QF	B-NP	o	-
+story45.txt	0	15	जाने	XC	I-NP	o	-
+story45.txt	0	16	माने	JJ	I-NP	o	-
+story45.txt	0	17	लोग	NN	I-NP	o	-
+story45.txt	0	18	आरोपी	NN	B-NP	o	-
+story45.txt	0	19	हैं	VM	B-VGF	o	-
+story45.txt	0	20	.	SYM	I-VGF	o	-
+
+story45.txt	0	0	इस	DEM	B-NP	o	-
+story45.txt	0	1	मामले	NN	I-NP	o	-
+story45.txt	0	2	में	PSP	I-NP	o	-
+story45.txt	0	3	NULL	NN	B-NULL__NP	o	-
+story45.txt	0	4	फंसने	VM	B-VGNN	o	-
+story45.txt	0	5	के	PSP	I-VGNN	o	-
+story45.txt	0	6	चलते	PSP	I-VGNN	o	-
+story45.txt	0	7	नटवर	XC	B-NP	o	-
+story45.txt	0	8	सिंह	NNP	I-NP	B-PERSON	-
+story45.txt	0	9	को	PSP	I-NP	o	-
+story45.txt	0	10	विदेश	XC	B-NP	o	-
+story45.txt	0	11	मंत्री	NN	I-NP	o	-
+story45.txt	0	12	का	PSP	I-NP	o	-
+story45.txt	0	13	पद	NN	B-NP	o	-
+story45.txt	0	14	गंवाना	VM	B-VGF	o	-
+story45.txt	0	15	पड़ा	VAUX	I-VGF	o	-
+story45.txt	0	16	था	VAUX	I-VGF	o	-
+story45.txt	0	17	.	SYM	I-VGF	o	-
+
+
+#end document
