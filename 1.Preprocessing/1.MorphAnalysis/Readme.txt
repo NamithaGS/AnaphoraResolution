@@ -8,14 +8,6 @@ newfoldername = 'Training folder with morphological analysis'
 
 Format of output:
 
-story38.txt	0	6	???	NN	B-NP	o	-
- 					MorphAnalysis : Token : ???,  Total Output : 1
-  					 |  [ Root : ???, Class : E, Category : noun, Suffix : Null ]
-  					 |  [ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
-  					 | 
-story38.txt	0	7	??????	VM	B-VGNN	o	-
- 					MorphAnalysis : Token : ??????,  Total Output : 1
-  					 |  [ Root : ????, Class : , Category : verb, Suffix : ?? ]
-  					 |  [ Gender : +masc, Number : +-pl, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
-  					 | 
+story38.txt	0	0	छत्तीसगढ़	XC	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='छत्तीसगढ़,n,m,sg,3,d,0,0'> | < fs af='छत्तीसगढ़,n,m,pl,3,d,0,0'> | < fs af='छत्तीसगढ़,n,m,sg,3,o,0,0'> | < fs af='छत्तीसगढ़,n,m,pl,3,o,0,0'>
+story38.txt	0	1	एक्सप्रेस	NNP	I-NP	o	-	MorphAnalysis : | < fs af='एक्सप्रेस,n,m,sg,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,sg,3,o,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,o,0,0'>
 															 
