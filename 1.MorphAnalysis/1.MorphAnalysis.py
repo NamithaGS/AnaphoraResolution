@@ -9,6 +9,8 @@ import time
 import urllib2, urllib
 
 import sys
+import requests
+import re
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -17,6 +19,21 @@ sys.setdefaultencoding('utf8')
 trainfoldername = 'C:\Users\Namithaa\Desktop\NLP\project\corpus\DATADATADATA\hindi_train_ICON_Contest'
 
 newfoldername = 'C:\Users\Namithaa\Desktop\NLP\project\corpus\DATADATADATA\hindi_train_ICON_Contest_new'
+
+def getdata(page):
+    aa = page.split("\n")
+    bb =  aa.index('<p><b>Morph Analyzer Output</b></p>')
+    returndata = []
+    for eachline in aa[bb:]:
+
+        start = '&lt;'
+        end = '&gt;'
+        r = re.compile('&lt;(.*?)&gt;')
+        m = r.search(eachline)
+        if m:
+            lyrics = "| < "+ m.group(1) +">"
+            returndata.append(lyrics)
+    return returndata
 
 
 for path1,dir,files in os.walk(trainfoldername):
@@ -36,34 +53,42 @@ for path1,dir,files in os.walk(trainfoldername):
                        #print unicode.encode(" ".join(sentence),'utf-8')
 
                        morpheddata = unicode.encode(word,'utf-8')
-                       mydata={'batch_query':morpheddata}    #The first is the var name the second is the value
+                       #mydata={'batch_query':morpheddata}    #The first is the var name the second is the value
+                       mydata={'yourtext':morpheddata , 'outtype': 'utf', 'submit':"Submit"}    #The first is the var name the second is the value
+
                        mydata=urllib.urlencode(mydata)
-                       path='http://www.cfilt.iitb.ac.in/~ankitb/ma/batch_submit.php'    #the url you want to POST to
+                       #path='http://www.cfilt.iitb.ac.in/~ankitb/ma/batch_submit.php'    #the url you want to POST to
+                       path='http://sampark.iiit.ac.in/hindimorph/web/restapi.php/indic/morphclient'
                        req=urllib2.Request(path, mydata)
                        req.add_header("Content-type", "application/x-www-form-urlencoded")
                        page=urllib2.urlopen(req).read()
 
-                       outputfile = "http://www.cfilt.iitb.ac.in/~ankitb/ma/output.txt"
-                       data = urllib2.urlopen(outputfile)
+                       page1 = requests.post(path,   params=mydata)
 
-                       start = False
-                       outputno = 0
-                       allinfo = []
-                       for line in data: # files are iterable
-                           #print line
-                           if line.startswith("NOT IN LEXICON"):
-                               continue
-                           if line.startswith("Token : "):
-                               outputno = (int(line.split(":")[-1].strip("\n")) * 2 ) + 1
-                               if outputno!=0:
-                                   start = True
-                           if start == True and outputno!=0:
-                               outputno -=1
-                               allinfo.append(line)
-                               allinfo.append(" \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t | ")
+                       printtext = getdata(page1.text)
+                       #outputfile = "http://www.cfilt.iitb.ac.in/~ankitb/ma/output.txt"
+                       #data = urllib2.urlopen(outputfile)
 
-                       datatoappend = eachline + " \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + "MorphAnalysis : " + str(" ".join(allinfo)).decode() +"\n"
+                       #start = False
+                       #outputno = 0
+                       #allinfo = []
+                       # for line in data: # files are iterable
+                       #     #print line
+                       #     if line.startswith("NOT IN LEXICON"):
+                       #         continue
+                       #     if line.startswith("Token : "):
+                       #         outputno = (int(line.split(":")[-1].strip("\n")) * 2 ) + 1
+                       #         if outputno!=0:
+                       #             start = True
+                       #     if start == True and outputno!=0:
+                       #         outputno -=1
+                       #         allinfo.append(line)
+                       #         allinfo.append(" \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t | ")
+
+                       datatoappend = eachline.rstrip('\n') + "\t" + "MorphAnalysis : " + str(" ".join(printtext)).decode() +"\n"
                        #stringto = unicode(datatoappend,'utf-8')
                        new_file_fp.write(datatoappend)
+                    else:
+                        new_file_fp.write(eachline)
 
 
