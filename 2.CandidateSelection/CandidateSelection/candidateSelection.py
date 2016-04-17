@@ -1,65 +1,60 @@
+import codecs
 from collections import defaultdict,Counter
+from trainStoryProcessor import createDict
 
-dictionary = defaultdict()
-wordDict=defaultdict()
+rootDir=dict()
+stop_list=[]
 
-def getGender(word):
-    return "m"
-
-def getPOSTag(word):
-    return "NN"
-
-def getSP(word):
-    return "s"
-
-def isAnaphora(word):
+def isAnaphora(word,POS,stop_list):
+    if POS == "PRP" and word not in stop_list:
+        return True
     return False
 
-def candidateSelection(word,lineNum,gender):
+def candidateSelection(rootDir,word,sentenceNum,gender):
     possibleCandidates=[]
-    previousLine = dictionary[lineNum - 1]
-    if gender=="m" or gender=="f" or gender=="n" or gender=="fn" :
-        for word in previousLine:
-            if word.getGender == gender:
-                possibleCandidates.add(word)
-    elif gender=="mf":
-        for word in previousLine:
-            if word.getGender == "m" or word.getGender == "f" or word.getGender == "mf" :
-                possibleCandidates.add(word)
-    elif gender=="any":
-        for word in previousLine:
-                possibleCandidates.add(word)
-    return possibleCandidates
 
-def processLine(line,lineNum):
+    if sentenceNum > 0:
+        previousLine = rootDir[sentenceNum - 1]
+        if gender=="m" or gender=="f" or gender=="n" or gender=="fn" :
+            for wordDict in previousLine:
+                if len(rootDir[sentenceNum-1][wordDict]) > 5:
+                    if ( ( rootDir[sentenceNum-1][wordDict][5] == gender) and (rootDir[sentenceNum-1][wordDict][1] == "NN" or rootDir[sentenceNum-1][wordDict][1]=="NNP") ):
+                        possibleCandidates.append(wordDict)
+        elif gender=="mf":
+            for wordDict in previousLine:
+                if len(rootDir[sentenceNum - 1][wordDict]) > 5:
+                    currentWordGender = rootDir[sentenceNum][wordDict][5]
+                    if( (currentWordGender == "m" or currentWordGender == "f" or currentWordGender == "mf") and (rootDir[sentenceNum-1][wordDict][1] == "NN" or rootDir[sentenceNum-1][wordDict][1]=="NNP") ):
+                        possibleCandidates.append(wordDict)
+        elif gender=="any":
+            for wordDict in previousLine:
+                if ( rootDir[sentenceNum-1][wordDict][1] == "NN" or rootDir[sentenceNum-1][wordDict][1]=="NNP" ):
+                    if len(rootDir[sentenceNum - 1][wordDict]) > 5:
+                        possibleCandidates.append(wordDict)
 
-    list = []
+        return possibleCandidates
 
-    for word in line.split(" "):
-        gender = getGender(word)
 
-        if not isAnaphora(word):
-            POS= getPOSTag(word)
-            if POS == "NN":
-                sp=getSP(word)
-                list.append(gender)
-                list.append(sp)
-                wordDict[word]=list
-        else:
-            possibleCand= candidateSelection(word,lineNum,gender)
-            for candidate in possibleCand:
-                print candidate
 
-        dictionary[lineNum] = wordDict
+def processLineByLine(rootDir,stop_list):
+    for i in range (0,len(rootDir)):
+        for wordDict in rootDir[i]:
+            word=rootDir[i][wordDict][0]
+            POS = rootDir[i][wordDict][1]
+            if isAnaphora(word,POS,stop_list):
+                if len(rootDir[i][wordDict]) > 5:
+                    gender = rootDir[i][wordDict][5]
+                    possibleCand = candidateSelection(rootDir,word, i, gender)
+                    for candidate in possibleCand:
+                        print word, "--->" ,rootDir[i-1][candidate][0]
 
 def main():
-    input_file=open("story10.txt","rb")
-    lines= input_file.read().split("|")
-    count=1
-    for line in lines:
-        processLine(line,count)
-        count+=1
+    stop_list = []
+    fp = codecs.open("stop_list.txt", "rb")
+    for line in fp:
+        stop_list.append(line)
 
-    print dictionary
+    rootDir= createDict()
+    processLineByLine(rootDir,stop_list)
 
 if __name__ == '__main__':main()
