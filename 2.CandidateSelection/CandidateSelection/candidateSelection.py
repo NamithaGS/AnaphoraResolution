@@ -37,6 +37,7 @@ def candidateSelection(rootDir,word,sentenceNum,gender):
 
 
 def processLineByLine(rootDir,stop_list):
+    result=""
     for i in range (0,len(rootDir)):
         for wordDict in rootDir[i]:
             word=rootDir[i][wordDict][0]
@@ -46,7 +47,10 @@ def processLineByLine(rootDir,stop_list):
                     gender = rootDir[i][wordDict][5]
                     possibleCand = candidateSelection(rootDir,word, i, gender)
                     for candidate in possibleCand:
-                        print word, "--->" ,rootDir[i-1][candidate][0]
+
+                        result =  result + word + "\t"  + (rootDir[i-1][candidate][0] or "-") +  "\t"+ (rootDir[i-1][candidate][1] or "-") + "\t"+(rootDir[i][wordDict][5] or "-")+ "\t" + (rootDir[i-1][candidate][5] or "-") + "\t" + (rootDir[i][wordDict][6] or "-") + "\t" + (rootDir[i-1][candidate][6] or "-")
+                        result = result + "\n"
+    return result
 
 def main():
     stop_list = []
@@ -54,7 +58,10 @@ def main():
     for line in fp:
         stop_list.append(line)
 
+    out_file=open("out.txt","wb")
+
     rootDir= createDict()
-    processLineByLine(rootDir,stop_list)
+    result= processLineByLine(rootDir,stop_list)
+    out_file.write(result)
 
 if __name__ == '__main__':main()
