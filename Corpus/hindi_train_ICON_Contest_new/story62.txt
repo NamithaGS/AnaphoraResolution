@@ -9,7 +9,7 @@ story62.txt	0	5	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,
 story62.txt	0	6	सुप्रसिद्ध	JJ	B-NP	o	-	MorphAnalysis : | < fs af='सुप्रसिद्ध,n,m,sg,3,d,0,0'> | < fs af='सुप्रसिद्ध,n,m,pl,3,d,0,0'> | < fs af='सुप्रसिद्ध,n,m,sg,3,o,0,0'> | < fs af='सुप्रसिद्ध,adj,any,any,,any,,'>
 story62.txt	0	7	लेखिका	NN	I-NP	o	-	MorphAnalysis : | < fs af='लेखिका,n,f,sg,3,d,0,0'> | < fs af='लेखिका,n,f,sg,3,o,0,0'>
 story62.txt	0	8	अमृता	XC	B-NP	B-PERSON	(1	MorphAnalysis : | < fs af='अमृता,n,f,sg,3,d,0,0'> | < fs af='अमृता,n,f,sg,3,o,0,0'>
-story62.txt	0	9	प्रीतम	NNP	I-NP	I-PERSON	-	MorphAnalysis : | < fs af='प्रीतम,n,m,sg,3,d,0,0'> | < fs af='प्रीतम,n,m,pl,3,d,0,0'> | < fs af='प्रीतम,n,m,sg,3,o,0,0'>
+story62.txt	0	9	प्रीतम	NNP	I-NP	I-PERSON	1	MorphAnalysis : | < fs af='प्रीतम,n,m,sg,3,d,0,0'> | < fs af='प्रीतम,n,m,pl,3,d,0,0'> | < fs af='प्रीतम,n,m,sg,3,o,0,0'>
 story62.txt	0	10	का	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='का,psp,m,sg,,d,का,kA'>
 story62.txt	0	11	सोमवार	NNP	B-NP	B-TIME	-	MorphAnalysis : | < fs af='सोमवार,n,m,sg,3,d,0,0'> | < fs af='सोमवार,n,m,pl,3,d,0,0'> | < fs af='सोमवार,n,m,sg,3,o,0,0'>
 story62.txt	0	12	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
@@ -67,7 +67,7 @@ story62.txt	0	4	हैं	VM	B-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,p
 story62.txt	0	5	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story62.txt	0	0	अमृता	XC	B-NP	B-PERSON	(6	MorphAnalysis : | < fs af='अमृता,n,f,sg,3,d,0,0'> | < fs af='अमृता,n,f,sg,3,o,0,0'>
-story62.txt	0	1	प्रीतम	NNP	I-NP	I-PERSON	-	MorphAnalysis : | < fs af='प्रीतम,n,m,sg,3,d,0,0'> | < fs af='प्रीतम,n,m,pl,3,d,0,0'> | < fs af='प्रीतम,n,m,sg,3,o,0,0'>
+story62.txt	0	1	प्रीतम	NNP	I-NP	I-PERSON	6	MorphAnalysis : | < fs af='प्रीतम,n,m,sg,3,d,0,0'> | < fs af='प्रीतम,n,m,pl,3,d,0,0'> | < fs af='प्रीतम,n,m,sg,3,o,0,0'>
 story62.txt	0	2	के	PSP	I-NP	o	6)	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story62.txt	0	3	परिवार	NN	B-NP	o	-	MorphAnalysis : | < fs af='परिवार,n,m,sg,3,d,0,0'> | < fs af='परिवार,n,m,pl,3,d,0,0'> | < fs af='परिवार,n,m,sg,3,o,0,0'>
 story62.txt	0	4	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
@@ -103,7 +103,7 @@ story62.txt	0	1	पुरस्कार	NNP	I-NP	o	-	MorphAnalysis : | < fs af=
 story62.txt	0	2	से	PSP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
 story62.txt	0	3	सम्मानित	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='सम्मानित,n,m,sg,3,d,0,0'> | < fs af='सम्मानित,n,m,pl,3,d,0,0'> | < fs af='सम्मानित,n,m,sg,3,o,0,0'> | < fs af='सम्मानित,adj,any,any,,any,,'>
 story62.txt	0	4	अमृता	XC	B-NP	B-PERSON	(7	MorphAnalysis : | < fs af='अमृता,n,f,sg,3,d,0,0'> | < fs af='अमृता,n,f,sg,3,o,0,0'>
-story62.txt	0	5	प्रीतम	NNP	I-NP	I-PERSON	-	MorphAnalysis : | < fs af='प्रीतम,n,m,sg,3,d,0,0'> | < fs af='प्रीतम,n,m,pl,3,d,0,0'> | < fs af='प्रीतम,n,m,sg,3,o,0,0'>
+story62.txt	0	5	प्रीतम	NNP	I-NP	I-PERSON	7	MorphAnalysis : | < fs af='प्रीतम,n,m,sg,3,d,0,0'> | < fs af='प्रीतम,n,m,pl,3,d,0,0'> | < fs af='प्रीतम,n,m,sg,3,o,0,0'>
 story62.txt	0	6	ने	PSP	I-NP	o	7)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story62.txt	0	7	सौ	QC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='सौ,adj,any,pl,,d,,'> | < fs af='सौ,adj,any,pl,,o,,'> | < fs af='सौ,n,m,sg,3,d,0,0'> | < fs af='सौ,n,m,pl,3,d,0,0'> | < fs af='सौ,n,m,sg,3,o,0,0'> | < fs af='सौ,n,m,pl,3,o,0,0'>
 story62.txt	0	8	से	RP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
@@ -148,7 +148,7 @@ story62.txt	0	6	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'
 story62.txt	0	7	पैदा	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='पैदा,adj,any,any,,any,,'>
 story62.txt	0	8	हुई	VM	B-VGNF	o	-	MorphAnalysis : | < fs af='हो,v,f,sg,any,,या,yA'>
 story62.txt	0	9	अमृता	XC	B-NP	B-PERSON	(10	MorphAnalysis : | < fs af='अमृता,n,f,sg,3,d,0,0'> | < fs af='अमृता,n,f,sg,3,o,0,0'>
-story62.txt	0	10	प्रीतम	NNP	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='प्रीतम,n,m,sg,3,d,0,0'> | < fs af='प्रीतम,n,m,pl,3,d,0,0'> | < fs af='प्रीतम,n,m,sg,3,o,0,0'>
+story62.txt	0	10	प्रीतम	NNP	I-NP	B-PERSON	10	MorphAnalysis : | < fs af='प्रीतम,n,m,sg,3,d,0,0'> | < fs af='प्रीतम,n,m,pl,3,d,0,0'> | < fs af='प्रीतम,n,m,sg,3,o,0,0'>
 story62.txt	0	11	को	PSP	I-NP	o	10)	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story62.txt	0	12	साहित्य	XC	B-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='साहित्य,n,m,sg,3,d,0,0'> | < fs af='साहित्य,n,m,pl,3,d,0,0'> | < fs af='साहित्य,n,m,sg,3,o,0,0'>
 story62.txt	0	13	अकादमी	XC	I-NP	I-ORGANIZATION	-	MorphAnalysis : | < fs af='अकादमी,n,f,sg,3,d,0,0'> | < fs af='अकादमी,n,f,sg,3,o,0,0'>

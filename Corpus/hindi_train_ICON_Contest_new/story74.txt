@@ -214,7 +214,7 @@ story74.txt	0	9	अधिकृत	JJ	B-NP	o	-	MorphAnalysis : | < fs af='अध
 story74.txt	0	10	तौर	NN	I-NP	o	-	MorphAnalysis : | < fs af='तौर,n,m,sg,3,d,0,0'> | < fs af='तौर,n,m,pl,3,d,0,0'> | < fs af='तौर,n,m,sg,3,o,0,0'>
 story74.txt	0	11	पर	PSP	I-NP	o	-	MorphAnalysis : | < fs af='पर,n,m,sg,3,d,0,0'> | < fs af='पर,n,m,pl,3,d,0,0'> | < fs af='पर,n,m,sg,3,o,0,0'> | < fs af='पर,avy,,,,,,'> | < fs af='पर,psp,,,,,,'>
 story74.txt	0	12	शिक्षकों	NN	B-NP	o	(3	MorphAnalysis : | < fs af='शिक्षक,n,m,pl,3,o,0,0'>
-story74.txt	0	13	और	CC	B-CCP	o	-	MorphAnalysis : | < fs af='और,n,m,sg,3,d,0,0'> | < fs af='और,n,m,pl,3,d,0,0'> | < fs af='और,n,m,sg,3,o,0,0'> | < fs af='और,adv,,,,,,'> | < fs af='और,avy,,,,,,'> | < fs af='और,adj,any,any,,any,,'>
+story74.txt	0	13	और	CC	B-CCP	o	3	MorphAnalysis : | < fs af='और,n,m,sg,3,d,0,0'> | < fs af='और,n,m,pl,3,d,0,0'> | < fs af='और,n,m,sg,3,o,0,0'> | < fs af='और,adv,,,,,,'> | < fs af='और,avy,,,,,,'> | < fs af='और,adj,any,any,,any,,'>
 story74.txt	0	14	लेखकों	NN	B-NP	o	3)	MorphAnalysis : | < fs af='लेखक,n,m,pl,3,o,0,0'>
 story74.txt	0	15	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story74.txt	0	16	निर्देश	NN	B-NP	o	-	MorphAnalysis : | < fs af='निर्देश,n,m,sg,3,d,0,0'> | < fs af='निर्देश,n,m,pl,3,d,0,0'> | < fs af='निर्देश,n,m,sg,3,o,0,0'>
@@ -351,7 +351,7 @@ story74.txt	0	10	करीब	RB	B-NP	o	-	MorphAnalysis : | < fs af='करी�
 story74.txt	0	11	४०	XC	I-NP	B-MEASURE	-	MorphAnalysis : | < fs af='40,num,,,,,,'>
 story74.txt	0	12	लाख	QC	I-NP	B-MEASURE	-	MorphAnalysis : | < fs af='लाख,n,m,sg,3,d,0,0'> | < fs af='लाख,n,m,pl,3,d,0,0'> | < fs af='लाख,n,m,sg,3,o,0,0'> | < fs af='लाख,adj,any,pl,,d,,'> | < fs af='लाख,adj,any,pl,,o,,'>
 story74.txt	0	13	मिडिल	XC	B-NP	o	(5	MorphAnalysis : | < fs af='मिडिल,adj,any,any,,any,,'>
-story74.txt	0	14	स्कूलों	NN	I-NP	o	-	MorphAnalysis : | < fs af='स्कूल,n,m,pl,3,o,0,0'>
+story74.txt	0	14	स्कूलों	NN	I-NP	o	5	MorphAnalysis : | < fs af='स्कूल,n,m,pl,3,o,0,0'>
 story74.txt	0	15	में	PSP	I-NP	o	5)	MorphAnalysis : | < fs af='में,psp,,,,,,'>
 story74.txt	0	16	प्रवेश	NN	B-NP	o	-	MorphAnalysis : | < fs af='प्रवेश,n,m,sg,3,d,0,0'> | < fs af='प्रवेश,n,m,pl,3,d,0,0'> | < fs af='प्रवेश,n,m,sg,3,o,0,0'>
 story74.txt	0	17	करते	VM	B-VGF	o	-	MorphAnalysis : | < fs af='करता,n,m,pl,3,d,0,0'> | < fs af='करता,n,m,sg,3,o,0,0'> | < fs af='कर,v,m,pl,any,,ता,wA'>

@@ -209,9 +209,9 @@ story89.txt	0	6	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,
 story89.txt	0	7	बाद	NST	I-NP	o	-	MorphAnalysis : | < fs af='बाद,adv,,,,,,'> | < fs af='बाद,psp,,,,,,'>
 story89.txt	0	8	से	PSP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
 story89.txt	0	9	कांग्रेस	NNP	B-NP	o	(2	MorphAnalysis : | < fs af='कांग्रेस,n,f,sg,3,d,0,0'> | < fs af='कांग्रेस,n,f,pl,3,d,0,0'> | < fs af='कांग्रेस,n,f,sg,3,o,0,0'> | < fs af='कांग्रेस,n,f,pl,3,o,0,0'>
-story89.txt	0	10	तथा	CC	B-CCP	o	-	MorphAnalysis : | < fs af='तथा,avy,,,,,,'>
+story89.txt	0	10	तथा	CC	B-CCP	o	2	MorphAnalysis : | < fs af='तथा,avy,,,,,,'>
 story89.txt	0	11	वामपंथी	XC	B-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='वामपंथी,n,m,sg,3,d,0,0'> | < fs af='वामपंथी,n,m,pl,3,d,0,0'> | < fs af='वामपंथी,n,m,sg,3,o,0,0'>
-story89.txt	0	12	दलों	NN	I-NP	o	-	MorphAnalysis : | < fs af='दल,n,m,pl,3,o,0,0'>
+story89.txt	0	12	दलों	NN	I-NP	o	2	MorphAnalysis : | < fs af='दल,n,m,pl,3,o,0,0'>
 story89.txt	0	13	ने	PSP	I-NP	o	2)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story89.txt	0	14	संयुक्त	JJ	B-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='संयुक्त,n,m,sg,3,d,0,0'> | < fs af='संयुक्त,n,m,pl,3,d,0,0'> | < fs af='संयुक्त,n,m,sg,3,o,0,0'> | < fs af='संयुक्त,adj,any,any,,any,,'>
 story89.txt	0	15	प्रगतिशील	JJ	I-NP	I-ORGANIZATION	-	MorphAnalysis : | < fs af='प्रगतिशील,n,m,sg,3,d,0,0'> | < fs af='प्रगतिशील,n,m,pl,3,d,0,0'> | < fs af='प्रगतिशील,n,m,sg,3,o,0,0'> | < fs af='प्रगतिशील,adj,any,any,,any,,'>

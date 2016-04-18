@@ -281,7 +281,7 @@ story53.txt	0	0	पाकिस्तान	NNP	B-NP	B-LOCATION	-	MorphAnalysis 
 story53.txt	0	1	ने	PSP	I-NP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story53.txt	0	2	भी	RP	I-NP	o	-	MorphAnalysis : | < fs af='भी,adv,,,,,,'> | < fs af='भी,avy,,,,,,'>
 story53.txt	0	3	३७	QC	B-NP	B-NUMBER	(4	MorphAnalysis : | < fs af='37,num,,,,,,'>
-story53.txt	0	4	लोगों	NN	I-NP	o	-	MorphAnalysis : | < fs af='लोग,n,m,pl,3,o,0,0'>
+story53.txt	0	4	लोगों	NN	I-NP	o	4	MorphAnalysis : | < fs af='लोग,n,m,pl,3,o,0,0'>
 story53.txt	0	5	के	PSP	I-NP	o	4)	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story53.txt	0	6	नाम	NN	B-NP	o	-	MorphAnalysis : | < fs af='नाम,n,m,sg,3,d,0,0'> | < fs af='नाम,n,m,pl,3,d,0,0'> | < fs af='नाम,n,m,sg,3,o,0,0'>
 story53.txt	0	7	भारत	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='भारत,n,m,sg,3,d,0,0'> | < fs af='भारत,n,m,pl,3,d,0,0'> | < fs af='भारत,n,m,sg,3,o,0,0'>
@@ -344,7 +344,7 @@ story53.txt	0	18	एजेंसियां	NNP	I-NP	o	-	MorphAnalysis : | < fs
 story53.txt	0	19	जल्द	RB	B-RBP	o	-	MorphAnalysis : | < fs af='जल्द,adv,,,,,,'> | < fs af='जल्द,adj,any,any,,any,,'>
 story53.txt	0	20	ही	RP	I-RBP	o	-	MorphAnalysis : | < fs af='ही,avy,,,,,,'>
 story53.txt	0	21	एक	QC	B-NP	B-NUMBER	(6	MorphAnalysis : | < fs af='एक,adj,any,any,,any,,'> | < fs af='एक,n,m,sg,3,d,0,0'> | < fs af='एक,n,m,pl,3,d,0,0'> | < fs af='एक,n,m,sg,3,o,0,0'> | < fs af='एक,n,m,pl,3,o,0,0'>
-story53.txt	0	22	सहमति	NN	I-NP	o	-	MorphAnalysis : | < fs af='सहमति,n,f,sg,3,d,0,0'> | < fs af='सहमति,n,f,pl,3,d,0,0'> | < fs af='सहमति,n,f,sg,3,o,0,0'> | < fs af='सहमति,n,f,pl,3,o,0,0'>
+story53.txt	0	22	सहमति	NN	I-NP	o	6	MorphAnalysis : | < fs af='सहमति,n,f,sg,3,d,0,0'> | < fs af='सहमति,n,f,pl,3,d,0,0'> | < fs af='सहमति,n,f,sg,3,o,0,0'> | < fs af='सहमति,n,f,pl,3,o,0,0'>
 story53.txt	0	23	पर	PSP	I-NP	o	6)	MorphAnalysis : | < fs af='पर,n,m,sg,3,d,0,0'> | < fs af='पर,n,m,pl,3,d,0,0'> | < fs af='पर,n,m,sg,3,o,0,0'> | < fs af='पर,avy,,,,,,'> | < fs af='पर,psp,,,,,,'>
 story53.txt	0	24	दस्तखत	NN	B-NP	o	-	MorphAnalysis : | < fs af='दस्तखत,n,f,sg,3,d,0,0'> | < fs af='दस्तखत,n,f,sg,3,o,0,0'>
 story53.txt	0	25	करेंगी	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कर,v,f,sg,2,,गा,gA' hon='y'> | < fs af='कर,v,f,pl,1,,गा,gA'> | < fs af='कर,v,f,pl,2,,गा,gA' hon='y'> | < fs af='कर,v,f,pl,3,,गा,gA'>

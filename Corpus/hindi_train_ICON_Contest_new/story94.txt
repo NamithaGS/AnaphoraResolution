@@ -92,9 +92,9 @@ story94.txt	0	19	गई	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,f,sg,
 story94.txt	0	20	थी	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='था,v,f,sg,any,,था,WA'>
 story94.txt	0	21	और	CC	B-CCP	o	-	MorphAnalysis : | < fs af='और,n,m,sg,3,d,0,0'> | < fs af='और,n,m,pl,3,d,0,0'> | < fs af='और,n,m,sg,3,o,0,0'> | < fs af='और,adv,,,,,,'> | < fs af='और,avy,,,,,,'> | < fs af='और,adj,any,any,,any,,'>
 story94.txt	0	22	४५	XC	B-NP	B-NUMBER	(1	MorphAnalysis : | < fs af='45,num,,,,,,'>
-story94.txt	0	23	हजार	QC	I-NP	I-NUMBER	-	MorphAnalysis : | < fs af='हजार,n,m,sg,3,d,0,0'> | < fs af='हजार,n,m,pl,3,d,0,0'> | < fs af='हजार,n,m,sg,3,o,0,0'> | < fs af='हजार,adj,any,pl,,d,,'> | < fs af='हजार,adj,any,pl,,o,,'>
-story94.txt	0	24	से	RP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
-story94.txt	0	25	अधिक	QF	I-NP	o	-	MorphAnalysis : | < fs af='अधिक,n,m,sg,3,d,0,0'> | < fs af='अधिक,n,m,pl,3,d,0,0'> | < fs af='अधिक,n,m,sg,3,o,0,0'> | < fs af='अधिक,adv,,,,,,'> | < fs af='अधिक,adj,any,any,,any,,'>
+story94.txt	0	23	हजार	QC	I-NP	I-NUMBER	1	MorphAnalysis : | < fs af='हजार,n,m,sg,3,d,0,0'> | < fs af='हजार,n,m,pl,3,d,0,0'> | < fs af='हजार,n,m,sg,3,o,0,0'> | < fs af='हजार,adj,any,pl,,d,,'> | < fs af='हजार,adj,any,pl,,o,,'>
+story94.txt	0	24	से	RP	I-NP	o	1	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
+story94.txt	0	25	अधिक	QF	I-NP	o	1	MorphAnalysis : | < fs af='अधिक,n,m,sg,3,d,0,0'> | < fs af='अधिक,n,m,pl,3,d,0,0'> | < fs af='अधिक,n,m,sg,3,o,0,0'> | < fs af='अधिक,adv,,,,,,'> | < fs af='अधिक,adj,any,any,,any,,'>
 story94.txt	0	26	लोग	NN	I-NP	o	1)	MorphAnalysis : | < fs af='लोग,n,m,sg,3,d,0,0'> | < fs af='लोग,n,m,pl,3,d,0,0'> | < fs af='लोग,n,m,sg,3,o,0,0'>
 story94.txt	0	27	विस्थापित	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='विस्थापित,n,m,sg,3,d,0,0'> | < fs af='विस्थापित,n,m,pl,3,d,0,0'> | < fs af='विस्थापित,n,m,sg,3,o,0,0'> | < fs af='विस्थापित,adj,any,any,,any,,'>
 story94.txt	0	28	हो	VM	B-VGF	o	-	MorphAnalysis : | < fs af='हो,n,f,sg,3,d,0,0'> | < fs af='हो,n,f,pl,3,d,0,0'> | < fs af='हो,n,f,sg,3,o,0,0'> | < fs af='हो,n,f,pl,3,o,0,0'> | < fs af='हो,v,any,any,any,,0,0'> | < fs af='है,v,any,pl,2,,है,hE'>

@@ -14,9 +14,9 @@ story71.txt	0	10	के	PSP	I-VGNN	o	-	MorphAnalysis : | < fs af='का,psp,m,s
 story71.txt	0	11	साथ	NST	I-VGNN	o	-	MorphAnalysis : | < fs af='साथ,n,m,sg,3,d,0,0'> | < fs af='साथ,n,m,pl,3,d,0,0'> | < fs af='साथ,n,m,sg,3,o,0,0'> | < fs af='साथ,adv,,,,,,'> | < fs af='साथ,psp,,,,,,'>
 story71.txt	0	12	ही	RP	I-VGNN	o	-	MorphAnalysis : | < fs af='ही,avy,,,,,,'>
 story71.txt	0	13	एक	QC	B-NP	B-NUMBER	(1	MorphAnalysis : | < fs af='एक,adj,any,any,,any,,'> | < fs af='एक,n,m,sg,3,d,0,0'> | < fs af='एक,n,m,pl,3,d,0,0'> | < fs af='एक,n,m,sg,3,o,0,0'> | < fs af='एक,n,m,pl,3,o,0,0'>
-story71.txt	0	14	और	QF	I-NP	o	-	MorphAnalysis : | < fs af='और,n,m,sg,3,d,0,0'> | < fs af='और,n,m,pl,3,d,0,0'> | < fs af='और,n,m,sg,3,o,0,0'> | < fs af='और,adv,,,,,,'> | < fs af='और,avy,,,,,,'> | < fs af='और,adj,any,any,,any,,'>
-story71.txt	0	15	नए	JJ	I-NP	o	-	MorphAnalysis : | < fs af='नया,adj,m,sg,,o,,'> | < fs af='नया,adj,m,pl,,d,,'> | < fs af='नया,adj,m,pl,,o,,'> | < fs af='नया,n,m,pl,,d,0,0'> | < fs af='नया,n,m,sg,,o,0,0'>
-story71.txt	0	16	वर्ष	NN	I-NP	B-TIME	-	MorphAnalysis : | < fs af='वर्ष,n,m,sg,3,d,0,0'> | < fs af='वर्ष,n,m,pl,3,d,0,0'> | < fs af='वर्ष,n,m,sg,3,o,0,0'>
+story71.txt	0	14	और	QF	I-NP	o	1	MorphAnalysis : | < fs af='और,n,m,sg,3,d,0,0'> | < fs af='और,n,m,pl,3,d,0,0'> | < fs af='और,n,m,sg,3,o,0,0'> | < fs af='और,adv,,,,,,'> | < fs af='और,avy,,,,,,'> | < fs af='और,adj,any,any,,any,,'>
+story71.txt	0	15	नए	JJ	I-NP	o	1	MorphAnalysis : | < fs af='नया,adj,m,sg,,o,,'> | < fs af='नया,adj,m,pl,,d,,'> | < fs af='नया,adj,m,pl,,o,,'> | < fs af='नया,n,m,pl,,d,0,0'> | < fs af='नया,n,m,sg,,o,0,0'>
+story71.txt	0	16	वर्ष	NN	I-NP	B-TIME	1	MorphAnalysis : | < fs af='वर्ष,n,m,sg,3,d,0,0'> | < fs af='वर्ष,n,m,pl,3,d,0,0'> | < fs af='वर्ष,n,m,sg,3,o,0,0'>
 story71.txt	0	17	का	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='का,psp,m,sg,,d,का,kA'>
 story71.txt	0	18	शुभारंभ	NN	B-NP	o	-	MorphAnalysis : | < fs af='शुभारंभ,n,m,sg,3,d,0,0'> | < fs af='शुभारंभ,n,m,pl,3,d,0,0'> | < fs af='शुभारंभ,n,m,sg,3,o,0,0'>
 story71.txt	0	19	हो	VM	B-VGF	o	-	MorphAnalysis : | < fs af='हो,n,f,sg,3,d,0,0'> | < fs af='हो,n,f,pl,3,d,0,0'> | < fs af='हो,n,f,sg,3,o,0,0'> | < fs af='हो,n,f,pl,3,o,0,0'> | < fs af='हो,v,any,any,any,,0,0'> | < fs af='है,v,any,pl,2,,है,hE'>

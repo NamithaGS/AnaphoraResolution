@@ -8,10 +8,10 @@ story63.txt	0	4	भाजपा	NNP	I-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs
 story63.txt	0	5	)	SYM	I-NP	o	-	MorphAnalysis : | < fs af='),punc,,,,,,'>
 story63.txt	0	6	के	PSP	B-FRAGP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story63.txt	0	7	पूर्व	JJ	B-NP	o	(1	MorphAnalysis : | < fs af='पूर्व,adv,,,,,,'> | < fs af='पूर्व,adj,any,any,,any,,'> | < fs af='पूर्व,n,m,sg,3,d,0,0'> | < fs af='पूर्व,n,m,pl,3,d,0,0'> | < fs af='पूर्व,n,m,sg,3,o,0,0'> | < fs af='पूर्व,n,m,pl,3,o,0,0'>
-story63.txt	0	8	अध्यक्ष	XC	I-NP	o	-	MorphAnalysis : | < fs af='अध्यक्ष,n,m,sg,3,d,0,0'> | < fs af='अध्यक्ष,n,m,pl,3,d,0,0'> | < fs af='अध्यक्ष,n,m,sg,3,o,0,0'>
-story63.txt	0	9	लाल	XC	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='लाल,n,m,sg,3,d,0,0'> | < fs af='लाल,n,m,pl,3,d,0,0'> | < fs af='लाल,n,m,sg,3,o,0,0'> | < fs af='लाल,adj,any,any,,any,,'>
-story63.txt	0	10	कृष्ण	XC	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='कृष्ण,n,m,sg,3,d,0,0'> | < fs af='कृष्ण,n,m,pl,3,d,0,0'> | < fs af='कृष्ण,n,m,sg,3,o,0,0'> | < fs af='कृष्ण,adj,any,any,,any,,'>
-story63.txt	0	11	आडवाणी	NNP	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='आडवाणी,n,m,sg,3,d,0,0'> | < fs af='आडवाणी,n,m,pl,3,d,0,0'> | < fs af='आडवाणी,n,m,sg,3,o,0,0'>
+story63.txt	0	8	अध्यक्ष	XC	I-NP	o	1	MorphAnalysis : | < fs af='अध्यक्ष,n,m,sg,3,d,0,0'> | < fs af='अध्यक्ष,n,m,pl,3,d,0,0'> | < fs af='अध्यक्ष,n,m,sg,3,o,0,0'>
+story63.txt	0	9	लाल	XC	I-NP	B-PERSON	1	MorphAnalysis : | < fs af='लाल,n,m,sg,3,d,0,0'> | < fs af='लाल,n,m,pl,3,d,0,0'> | < fs af='लाल,n,m,sg,3,o,0,0'> | < fs af='लाल,adj,any,any,,any,,'>
+story63.txt	0	10	कृष्ण	XC	I-NP	B-PERSON	1	MorphAnalysis : | < fs af='कृष्ण,n,m,sg,3,d,0,0'> | < fs af='कृष्ण,n,m,pl,3,d,0,0'> | < fs af='कृष्ण,n,m,sg,3,o,0,0'> | < fs af='कृष्ण,adj,any,any,,any,,'>
+story63.txt	0	11	आडवाणी	NNP	I-NP	B-PERSON	1	MorphAnalysis : | < fs af='आडवाणी,n,m,sg,3,d,0,0'> | < fs af='आडवाणी,n,m,pl,3,d,0,0'> | < fs af='आडवाणी,n,m,sg,3,o,0,0'>
 story63.txt	0	12	ने	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story63.txt	0	13	कहा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कहा,v,any,any,any,,0,0'> | < fs af='कहा,adj,m,sg,,d,,'> | < fs af='कहा,n,m,sg,3,d,0,0'> | < fs af='कह,v,m,sg,any,,या,yA'>
 story63.txt	0	14	है	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,sg,2,,है,hE'> | < fs af='है,v,any,sg,3,,है,hE'>
@@ -64,7 +64,7 @@ story63.txt	0	28	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story63.txt	0	0	उन्होंने	PRP	B-NP	o	(4)|(6)	MorphAnalysis : | < fs af='वह,pn,any,pl,3,o,ने,ne'>
 story63.txt	0	1	यूपीए	XC	B-NP	B-ORGANIZATION	(5	MorphAnalysis : | < fs af='यूपीए,unk,,,,,,'>
-story63.txt	0	2	सरकार	NNP	I-NP	o	-	MorphAnalysis : | < fs af='सरकार,n,f,sg,3,d,0,0'> | < fs af='सरकार,n,f,sg,3,o,0,0'>
+story63.txt	0	2	सरकार	NNP	I-NP	o	5	MorphAnalysis : | < fs af='सरकार,n,f,sg,3,d,0,0'> | < fs af='सरकार,n,f,sg,3,o,0,0'>
 story63.txt	0	3	पर	PSP	I-NP	o	5)	MorphAnalysis : | < fs af='पर,n,m,sg,3,d,0,0'> | < fs af='पर,n,m,pl,3,d,0,0'> | < fs af='पर,n,m,sg,3,o,0,0'> | < fs af='पर,avy,,,,,,'> | < fs af='पर,psp,,,,,,'>
 story63.txt	0	4	आरोप	NN	B-NP	o	-	MorphAnalysis : | < fs af='आरोप,n,m,sg,3,d,0,0'> | < fs af='आरोप,n,m,pl,3,d,0,0'> | < fs af='आरोप,n,m,sg,3,o,0,0'>
 story63.txt	0	5	लगाया	VM	B-VGF	o	-	MorphAnalysis : | < fs af='लगाया,adj,m,sg,,d,,'> | < fs af='लगा,v,m,sg,any,,या,yA'>
@@ -123,7 +123,7 @@ story63.txt	0	6	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,
 story63.txt	0	7	पार्टी	NN	B-NP	o	(9	MorphAnalysis : | < fs af='पार्टी,n,f,sg,3,d,0,0'> | < fs af='पार्टी,n,f,sg,3,o,0,0'>
 story63.txt	0	8	को	PSP	I-NP	o	9)	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story63.txt	0	9	जिन	DEM	B-NP	o	(8	MorphAnalysis : | < fs af='जिन,n,m,sg,3,d,0,0'> | < fs af='जिन,n,m,pl,3,d,0,0'> | < fs af='जिन,n,m,sg,3,o,0,0'> | < fs af='जो,pn,any,pl,3,o,0,0'>
-story63.txt	0	10	समस्याओं	NN	I-NP	o	-	MorphAnalysis : | < fs af='समस्या,n,f,pl,3,o,0,0'>
+story63.txt	0	10	समस्याओं	NN	I-NP	o	8	MorphAnalysis : | < fs af='समस्या,n,f,pl,3,o,0,0'>
 story63.txt	0	11	से	PSP	I-NP	o	8)	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
 story63.txt	0	12	दो	XC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='दो,adj,any,pl,,d,,'> | < fs af='दो,adj,any,pl,,o,,'> | < fs af='दो,n,m,sg,3,d,0,0'> | < fs af='दो,n,m,pl,3,d,0,0'> | < fs af='दो,n,m,sg,3,o,0,0'> | < fs af='दो,n,m,pl,3,o,0,0'> | < fs af='दे,v,any,pl,2,,ए,e'>
 story63.txt	0	13	-JOIN	SYM	I-NP	o	-	MorphAnalysis : | < fs af='-औईण्,unk,,,,,,'>
@@ -322,7 +322,7 @@ story63.txt	0	3	कि	CC	B-CCP	o	-	MorphAnalysis : | < fs af='कि,avy,,,,,,'
 story63.txt	0	4	आतंकवाद	NN	B-NP	o	-	MorphAnalysis : | < fs af='आतंकवाद,n,m,sg,3,d,0,0'> | < fs af='आतंकवाद,n,m,pl,3,d,0,0'> | < fs af='आतंकवाद,n,m,sg,3,o,0,0'>
 story63.txt	0	5	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story63.txt	0	6	खतरे	NN	B-NP	o	(23	MorphAnalysis : | < fs af='खतरा,n,m,pl,3,d,0,0'> | < fs af='खतरा,n,m,sg,3,o,0,0'> | < fs af='खतर,v,any,sg,2,,ए,e'> | < fs af='खतर,v,any,sg,3,,ए,e'> | < fs af='खतर,v,m,pl,any,,या,yA'>
-story63.txt	0	7	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story63.txt	0	7	के	PSP	I-NP	o	23	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story63.txt	0	8	मद्देनजर	PSP	I-NP	o	23)	MorphAnalysis : | < fs af='मद्देनजर,adv,,,,,,'>
 story63.txt	0	9	प्रधानमंत्री	NN	B-NP	o	-	MorphAnalysis : | < fs af='प्रधानमंत्री,n,m,sg,3,d,0,0'> | < fs af='प्रधानमंत्री,n,m,pl,3,d,0,0'> | < fs af='प्रधानमंत्री,n,m,sg,3,o,0,0'>
 story63.txt	0	10	ने	PSP	I-NP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
@@ -356,7 +356,7 @@ story63.txt	0	8	आतंकवाद	NN	B-NP	o	-	MorphAnalysis : | < fs af='आ
 story63.txt	0	9	पर	PSP	I-NP	o	-	MorphAnalysis : | < fs af='पर,n,m,sg,3,d,0,0'> | < fs af='पर,n,m,pl,3,d,0,0'> | < fs af='पर,n,m,sg,3,o,0,0'> | < fs af='पर,avy,,,,,,'> | < fs af='पर,psp,,,,,,'>
 story63.txt	0	10	सरकार	NN	B-NP	o	-	MorphAnalysis : | < fs af='सरकार,n,f,sg,3,d,0,0'> | < fs af='सरकार,n,f,sg,3,o,0,0'>
 story63.txt	0	11	एक	QC	B-NP	B-NUMBER	(25	MorphAnalysis : | < fs af='एक,adj,any,any,,any,,'> | < fs af='एक,n,m,sg,3,d,0,0'> | < fs af='एक,n,m,pl,3,d,0,0'> | < fs af='एक,n,m,sg,3,o,0,0'> | < fs af='एक,n,m,pl,3,o,0,0'>
-story63.txt	0	12	प्रभावी	JJ	I-NP	o	-	MorphAnalysis : | < fs af='प्रभावी,adj,any,any,,any,,'>
+story63.txt	0	12	प्रभावी	JJ	I-NP	o	25	MorphAnalysis : | < fs af='प्रभावी,adj,any,any,,any,,'>
 story63.txt	0	13	नीति	NN	I-NP	o	25)	MorphAnalysis : | < fs af='नीति,n,f,sg,3,d,0,0'> | < fs af='नीति,n,f,sg,3,o,0,0'>
 story63.txt	0	14	NULL	NN	B-NULL__NP	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
 story63.txt	0	15	बनाने	VM	B-VGNN	o	-	MorphAnalysis : | < fs af='बना,v,m,pl,any,,ना,nA'>
