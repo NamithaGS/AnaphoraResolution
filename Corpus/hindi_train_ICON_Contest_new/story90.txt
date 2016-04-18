@@ -307,8 +307,8 @@ story90.txt	0	13	है	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,s
 story90.txt	0	14	।	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story90.txt	0	0	इन	DEM	B-NP	o	(5	MorphAnalysis : | < fs af='यह,pn,any,pl,3,o,0,0'>
-story90.txt	0	1	नए	JJ	I-NP	o	-	MorphAnalysis : | < fs af='नया,adj,m,sg,,o,,'> | < fs af='नया,adj,m,pl,,d,,'> | < fs af='नया,adj,m,pl,,o,,'> | < fs af='नया,n,m,pl,,d,0,0'> | < fs af='नया,n,m,sg,,o,0,0'>
-story90.txt	0	2	ग्रहों	NN	I-NP	o	-	MorphAnalysis : | < fs af='ग्रह,n,m,pl,3,o,0,0'>
+story90.txt	0	1	नए	JJ	I-NP	o	5	MorphAnalysis : | < fs af='नया,adj,m,sg,,o,,'> | < fs af='नया,adj,m,pl,,d,,'> | < fs af='नया,adj,m,pl,,o,,'> | < fs af='नया,n,m,pl,,d,0,0'> | < fs af='नया,n,m,sg,,o,0,0'>
+story90.txt	0	2	ग्रहों	NN	I-NP	o	5	MorphAnalysis : | < fs af='ग्रह,n,m,pl,3,o,0,0'>
 story90.txt	0	3	का	PSP	I-NP	o	5)	MorphAnalysis : | < fs af='का,psp,m,sg,,d,का,kA'>
 story90.txt	0	4	द्र्रव्यमान	NN	B-NP	B-MEASURE	-	MorphAnalysis : | < fs af='द्र्रव्यमान,unk,,,,,,'>
 story90.txt	0	5	बृहस्पति	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='बृहस्पति,n,m,sg,3,d,0,0'> | < fs af='बृहस्पति,n,m,pl,3,d,0,0'> | < fs af='बृहस्पति,n,m,sg,3,o,0,0'> | < fs af='बृहस्पति,n,m,pl,3,o,0,0'>
@@ -399,8 +399,8 @@ story90.txt	0	12	बराबर	JJ	B-NP	o	-	MorphAnalysis : | < fs af='बर�
 story90.txt	0	13	द्रव्यमान	NN	I-NP	o	-	MorphAnalysis : | < fs af='द्रव्यमान,n,m,sg,3,d,0,0'> | < fs af='द्रव्यमान,n,m,pl,3,d,0,0'> | < fs af='द्रव्यमान,n,m,sg,3,o,0,0'> | < fs af='द्रव्यमान,n,m,pl,3,o,0,0'>
 story90.txt	0	14	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story90.txt	0	15	किसी	PRP	B-NP	o	(9	MorphAnalysis : | < fs af='कोई,pn,any,sg,3,o,0,0'>
-story90.txt	0	16	दूसरे	QO	I-NP	o	-	MorphAnalysis : | < fs af='दूसरा,adj,m,sg,,o,,'> | < fs af='दूसरा,adj,m,pl,,d,,'> | < fs af='दूसरा,adj,m,pl,,o,,'> | < fs af='दूसरा,n,m,pl,3,d,0,0'> | < fs af='दूसरा,n,m,sg,3,o,0,0'>
-story90.txt	0	17	ग्रह	NN	I-NP	o	-	MorphAnalysis : | < fs af='ग्रह,n,m,sg,3,d,0,0'> | < fs af='ग्रह,n,m,pl,3,d,0,0'> | < fs af='ग्रह,n,m,sg,3,o,0,0'>
+story90.txt	0	16	दूसरे	QO	I-NP	o	9	MorphAnalysis : | < fs af='दूसरा,adj,m,sg,,o,,'> | < fs af='दूसरा,adj,m,pl,,d,,'> | < fs af='दूसरा,adj,m,pl,,o,,'> | < fs af='दूसरा,n,m,pl,3,d,0,0'> | < fs af='दूसरा,n,m,sg,3,o,0,0'>
+story90.txt	0	17	ग्रह	NN	I-NP	o	9	MorphAnalysis : | < fs af='ग्रह,n,m,sg,3,d,0,0'> | < fs af='ग्रह,n,m,pl,3,d,0,0'> | < fs af='ग्रह,n,m,sg,3,o,0,0'>
 story90.txt	0	18	का	PSP	I-NP	o	9)	MorphAnalysis : | < fs af='का,psp,m,sg,,d,का,kA'>
 story90.txt	0	19	पता	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='पता,n,m,sg,3,d,0,0'>
 story90.txt	0	20	लगा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='लगा,v,any,any,any,,0,0'> | < fs af='लगा,adj,m,sg,,d,,'> | < fs af='लग,v,m,sg,any,,या,yA'>

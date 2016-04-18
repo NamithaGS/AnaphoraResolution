@@ -1,0 +1,514 @@
+#begin document (story20.txt); part 000
+
+story20.txt	0	0	कश्मीर	XC	B-NP	B-LOCATION	(1	MorphAnalysis : | < fs af='कश्मीर,n,m,sg,3,d,0,0'> | < fs af='कश्मीर,n,m,pl,3,d,0,0'> | < fs af='कश्मीर,n,m,sg,3,o,0,0'> | < fs af='कश्मीर,n,m,pl,3,o,0,0'>
+story20.txt	0	1	घाटी	NNP	I-NP	I-LOCATION	-	MorphAnalysis : | < fs af='घाटी,n,f,sg,3,d,0,0'> | < fs af='घाटी,n,f,sg,3,o,0,0'>
+story20.txt	0	2	में	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	3	ताजा	JJ	B-NP	o	-	MorphAnalysis : | < fs af='ताजा,adj,m,sg,,d,,'> | < fs af='ताजा,n,m,sg,3,d,0,0'>
+story20.txt	0	4	बर्फ़	NN	I-NP	o	-	MorphAnalysis : | < fs af='बर्फ़,n,f,sg,,d,0,0'> | < fs af='बर्फ़,n,f,sg,,o,0,0'>
+story20.txt	0	5	गिरने	VM	B-VGNN	o	-	MorphAnalysis : | < fs af='गिरना,n,m,pl,3,d,0,0'> | < fs af='गिरना,n,m,sg,3,o,0,0'> | < fs af='गिरना,n,m,pl,3,o,0,0'> | < fs af='गिर,v,m,pl,any,,ना,nA'>
+story20.txt	0	6	से	PSP	I-VGNN	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
+story20.txt	0	7	यहां	PRP	B-NP	o	(1)	MorphAnalysis : | < fs af='यहां,adv,,,,,,'> | < fs af='यहां,psp,,,,,,'>
+story20.txt	0	8	से	PSP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
+story20.txt	0	9	चली	VM	B-VGNF	o	-	MorphAnalysis : | < fs af='चला,adj,f,any,,any,,'> | < fs af='चल,v,f,sg,any,,या,yA'>
+story20.txt	0	10	शीत	XC	B-NP	B-TIME	-	MorphAnalysis : | < fs af='शीत,adj,any,any,,any,,'> | < fs af='शीत,n,f,sg,3,d,0,0'> | < fs af='शीत,n,f,sg,3,o,0,0'>
+story20.txt	0	11	लहर	NN	I-NP	o	-	MorphAnalysis : | < fs af='लहर,n,f,sg,3,d,0,0'> | < fs af='लहर,n,f,sg,3,o,0,0'> | < fs af='लहर,v,any,any,any,,0,0'>
+story20.txt	0	12	ने	PSP	I-NP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
+story20.txt	0	13	पर्वतीय	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='पर्वतीय,n,m,sg,3,d,0,0'> | < fs af='पर्वतीय,n,m,pl,3,d,0,0'> | < fs af='पर्वतीय,n,m,sg,3,o,0,0'> | < fs af='पर्वतीय,adj,any,any,,any,,'>
+story20.txt	0	14	ही	RP	I-JJP	o	-	MorphAnalysis : | < fs af='ही,avy,,,,,,'>
+story20.txt	0	15	नहीं	NEG	B-NEGP	o	-	MorphAnalysis : | < fs af='नहीं,n,f,sg,3,d,0,0'> | < fs af='नहीं,n,f,pl,3,d,0,0'> | < fs af='नहीं,n,f,sg,3,o,0,0'> | < fs af='नहीं,n,f,pl,3,o,0,0'> | < fs af='नहीं,adv,,,,,,'> | < fs af='नहीं,avy,,,,,,'> | < fs af='नह,v,f,pl,any,,या,yA'>
+story20.txt	0	16	बल्कि	CC	B-CCP	o	-	MorphAnalysis : | < fs af='बल्कि,avy,,,,,,'>
+story20.txt	0	17	मैदानी	JJ	B-JJP	B-LOCATION	-	MorphAnalysis : | < fs af='मैदानी,n,m,sg,3,d,0,0'> | < fs af='मैदानी,n,m,pl,3,d,0,0'> | < fs af='मैदानी,n,m,sg,3,o,0,0'> | < fs af='मैदानी,adj,any,any,,any,,'>
+story20.txt	0	18	इलाकों	NN	B-NP	o	-	MorphAnalysis : | < fs af='इलाका,n,m,pl,3,o,0,0'>
+story20.txt	0	19	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
+story20.txt	0	20	भी	RP	I-NP	o	-	MorphAnalysis : | < fs af='भी,adv,,,,,,'> | < fs af='भी,avy,,,,,,'>
+story20.txt	0	21	ठिठुरा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='ठिठुरा,v,any,any,any,,0,0'> | < fs af='ठिठुर,v,m,sg,any,,या,yA'>
+story20.txt	0	22	दिया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='दिया,n,f,sg,3,d,0,0'> | < fs af='दिया,n,f,sg,3,o,0,0'> | < fs af='दे,v,m,sg,any,,या,yA'>
+story20.txt	0	23	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	श्रीनगर	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='श्रीनगर,n,m,sg,3,d,0,0'> | < fs af='श्रीनगर,n,m,pl,3,d,0,0'> | < fs af='श्रीनगर,n,m,sg,3,o,0,0'> | < fs af='श्रीनगर,n,m,pl,3,o,0,0'>
+story20.txt	0	1	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	2	पारा	NN	B-NP	o	-	MorphAnalysis : | < fs af='पारा,n,m,sg,3,d,0,0'> | < fs af='पार,v,m,sg,any,,या,yA'>
+story20.txt	0	3	लुढ़ककर	VM	B-VGNF	o	-	MorphAnalysis : | < fs af='लुढ़क,v,any,any,any,,कर,kara'>
+story20.txt	0	4	०.५	QC	B-NP	B-MEASURE	-	MorphAnalysis : | < fs af='0.5,num,,,,,,'>
+story20.txt	0	5	डिग्री	XC	I-NP	I-MEASURE	-	MorphAnalysis : | < fs af='डिग्री,n,f,sg,3,d,0,0'> | < fs af='डिग्री,n,f,sg,3,o,0,0'>
+story20.txt	0	6	सेल्सियस	NN	I-NP	o	-	MorphAnalysis : | < fs af='सेल्सियस,n,m,sg,3,d,0,0'> | < fs af='सेल्सियस,n,m,pl,3,d,0,0'> | < fs af='सेल्सियस,n,m,sg,3,o,0,0'> | < fs af='सेल्सियस,n,m,pl,3,o,0,0'>
+story20.txt	0	7	हो	VM	B-VGF	o	-	MorphAnalysis : | < fs af='हो,n,f,sg,3,d,0,0'> | < fs af='हो,n,f,pl,3,d,0,0'> | < fs af='हो,n,f,sg,3,o,0,0'> | < fs af='हो,n,f,pl,3,o,0,0'> | < fs af='हो,v,any,any,any,,0,0'> | < fs af='है,v,any,pl,2,,है,hE'>
+story20.txt	0	8	गया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,m,sg,any,,या1,yA1'>
+story20.txt	0	9	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	वहीं	PRP	B-NP	o	-	MorphAnalysis : | < fs af='वहीं,adv,,,,,,'> | < fs af='वह,pn,any,sg,3,d,0,0' emph='y'>
+story20.txt	0	1	,	SYM	I-NP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
+story20.txt	0	2	राजस्थान	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='राजस्थान,n,m,sg,3,d,0,0'> | < fs af='राजस्थान,n,m,pl,3,d,0,0'> | < fs af='राजस्थान,n,m,sg,3,o,0,0'>
+story20.txt	0	3	का	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,d,का,kA'>
+story20.txt	0	4	पिलानी	XC	B-NP	o	(2	MorphAnalysis : | < fs af='पिला,v,f,sg,any,,ना,nA'>
+story20.txt	0	5	जिला	NNP	I-NP	B-LOCATION	2)	MorphAnalysis : | < fs af='जिला,v,any,any,any,,0,0'> | < fs af='जिला,n,m,sg,3,d,0,0'> | < fs af='जिल,v,m,sg,any,,या,yA'>
+story20.txt	0	6	सबसे	INTF	B-JJP	o	-	MorphAnalysis : | < fs af='सबसा,adj,m,sg,,o,,'> | < fs af='सबसा,adj,m,pl,,d,,'> | < fs af='सबसा,adj,m,pl,,o,,'> | < fs af='सब,pn,any,pl,3,o,से,se'>
+story20.txt	0	7	अधिक	QF	I-JJP	o	-	MorphAnalysis : | < fs af='अधिक,n,m,sg,3,d,0,0'> | < fs af='अधिक,n,m,pl,3,d,0,0'> | < fs af='अधिक,n,m,sg,3,o,0,0'> | < fs af='अधिक,adv,,,,,,'> | < fs af='अधिक,adj,any,any,,any,,'>
+story20.txt	0	8	ठंडा	JJ	I-JJP	o	-	MorphAnalysis : | < fs af='ठंडा,v,any,any,any,,0,0'> | < fs af='ठंडा,adj,m,sg,,d,,'> | < fs af='ठंडा,n,m,sg,3,d,0,0'>
+story20.txt	0	9	रहा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='रह,v,m,sg,any,,या,yA'>
+story20.txt	0	10	,	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
+story20.txt	0	11	जहां	PRP	B-NP	o	(2)	MorphAnalysis : | < fs af='जहां,adv,,,,,,'> | < fs af='जहां,n,m,sg,3,d,0,0'> | < fs af='जहां,n,m,pl,3,d,0,0'> | < fs af='जहां,n,m,sg,3,o,0,0'> | < fs af='जहां,n,m,pl,3,o,0,0'>
+story20.txt	0	12	पिछली	JJ	B-NP	o	-	MorphAnalysis : | < fs af='पिछली,adv,,,,,,'> | < fs af='पिछला,adj,f,any,,any,,'> | < fs af='पिछल,v,f,sg,any,,या,yA'>
+story20.txt	0	13	रात	NN	I-NP	o	-	MorphAnalysis : | < fs af='रात,n,f,sg,3,d,0,0'> | < fs af='रात,n,f,sg,3,o,0,0'> | < fs af='रात,v,any,any,any,,0,0'>
+story20.txt	0	14	तापमान	NN	B-NP	o	-	MorphAnalysis : | < fs af='तापमान,n,m,sg,3,d,0,0'> | < fs af='तापमान,n,m,pl,3,d,0,0'> | < fs af='तापमान,n,m,sg,3,o,0,0'>
+story20.txt	0	15	शून्य	NN	B-NP	o	-	MorphAnalysis : | < fs af='शून्य,n,m,sg,3,d,0,0'> | < fs af='शून्य,n,m,pl,3,d,0,0'> | < fs af='शून्य,n,m,sg,3,o,0,0'> | < fs af='शून्य,adj,any,any,,any,,'>
+story20.txt	0	16	पर	PSP	I-NP	o	-	MorphAnalysis : | < fs af='पर,n,m,sg,3,d,0,0'> | < fs af='पर,n,m,pl,3,d,0,0'> | < fs af='पर,n,m,sg,3,o,0,0'> | < fs af='पर,avy,,,,,,'> | < fs af='पर,psp,,,,,,'>
+story20.txt	0	17	अटक	VM	B-VGF	o	-	MorphAnalysis : | < fs af='अटक,v,any,any,any,,0,0'>
+story20.txt	0	18	गया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,m,sg,any,,या1,yA1'>
+story20.txt	0	19	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	दूसरी	QO	B-NP	o	-	MorphAnalysis : | < fs af='दूसरी,n,f,sg,3,d,0,0'> | < fs af='दूसरी,n,f,pl,3,d,0,0'> | < fs af='दूसरी,n,f,sg,3,o,0,0'> | < fs af='दूसरी,n,f,pl,3,o,0,0'> | < fs af='दूसरा,adj,f,any,,any,,'>
+story20.txt	0	1	ओर	NST	I-NP	o	-	MorphAnalysis : | < fs af='ओर,adv,,,,,,'> | < fs af='ओर,n,m,sg,3,d,0,0'> | < fs af='ओर,n,m,pl,3,d,0,0'> | < fs af='ओर,n,m,sg,3,o,0,0'> | < fs af='ओर,n,m,pl,3,o,0,0'>
+story20.txt	0	2	,	SYM	I-NP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
+story20.txt	0	3	राजधानी	NN	B-NP	o	-	MorphAnalysis : | < fs af='राजधानी,n,f,sg,3,d,0,0'> | < fs af='राजधानी,n,f,sg,3,o,0,0'>
+story20.txt	0	4	दिल्ली	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='दिल्ली,n,f,sg,3,d,0,0'> | < fs af='दिल्ली,n,f,pl,3,d,0,0'> | < fs af='दिल्ली,n,f,sg,3,o,0,0'> | < fs af='दिल्ली,n,f,pl,3,o,0,0'>
+story20.txt	0	5	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
+story20.txt	0	6	कोहरे	NN	B-NP	o	(3	MorphAnalysis : | < fs af='कोहरा,n,m,pl,3,d,0,0'> | < fs af='कोहरा,n,m,sg,3,o,0,0'>
+story20.txt	0	7	ने	PSP	I-NP	o	3)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
+story20.txt	0	8	अपनी	PRP	B-NP	o	(3)|(4	MorphAnalysis : | < fs af='अपना,adj,f,any,,any,,'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
+story20.txt	0	9	आगोश	NN	I-NP	o	-	MorphAnalysis : | < fs af='आगोश,n,m,sg,3,d,0,0'> | < fs af='आगोश,n,m,pl,3,d,0,0'> | < fs af='आगोश,n,m,sg,3,o,0,0'> | < fs af='आगोश,n,m,pl,3,o,0,0'>
+story20.txt	0	10	में	PSP	I-NP	o	4)	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	11	ले	VM	B-VGF	o	-	MorphAnalysis : | < fs af='ले,v,any,any,any,,0,0'>
+story20.txt	0	12	लिया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='ले,v,m,sg,any,,या,yA'>
+story20.txt	0	13	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	इसके	PRP	B-NP	o	(4)	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'> | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'> | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+story20.txt	0	1	चलते	PSP	I-NP	o	-	MorphAnalysis : | < fs af='चल,v,m,pl,any,,ता,wA'>
+story20.txt	0	2	सात	QC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='सात,n,m,sg,3,d,0,0'> | < fs af='सात,n,m,pl,3,d,0,0'> | < fs af='सात,n,m,sg,3,o,0,0'> | < fs af='सात,adj,any,pl,,d,,'> | < fs af='सात,adj,any,pl,,o,,'>
+story20.txt	0	3	ट्रेन	NN	I-NP	o	-	MorphAnalysis : | < fs af='ट्रेन,n,f,sg,3,d,0,0'> | < fs af='ट्रेन,n,f,sg,3,o,0,0'>
+story20.txt	0	4	तो	RP	I-NP	o	-	MorphAnalysis : | < fs af='तो,avy,,,,,,'>
+story20.txt	0	5	रद्द	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='रद्द,adj,any,any,,any,,'> | < fs af='रद्द,n,m,sg,3,d,0,0'> | < fs af='रद्द,n,m,pl,3,d,0,0'> | < fs af='रद्द,n,m,sg,3,o,0,0'> | < fs af='रद्द,n,m,pl,3,o,0,0'>
+story20.txt	0	6	हुईं	VM	B-VGF	o	-	MorphAnalysis : | < fs af='हो,v,f,pl,any,,या,yA'>
+story20.txt	0	7	ही	RP	I-VGF	o	-	MorphAnalysis : | < fs af='ही,avy,,,,,,'>
+story20.txt	0	8	,	SYM	B-CCP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
+story20.txt	0	9	विमानों	NN	B-NP	o	-	MorphAnalysis : | < fs af='विमान,n,m,pl,3,o,0,0'>
+story20.txt	0	10	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
+story20.txt	0	11	उड़ानों	NN	B-NP	o	-	MorphAnalysis : | < fs af='उड़ान,n,f,pl,3,o,0,0'>
+story20.txt	0	12	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	13	भी	RP	I-NP	o	-	MorphAnalysis : | < fs af='भी,adv,,,,,,'> | < fs af='भी,avy,,,,,,'>
+story20.txt	0	14	व्यवधान	NN	B-NP	o	-	MorphAnalysis : | < fs af='व्यवधान,n,m,sg,3,d,0,0'> | < fs af='व्यवधान,n,m,pl,3,d,0,0'> | < fs af='व्यवधान,n,m,sg,3,o,0,0'>
+story20.txt	0	15	रहा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='रह,v,m,sg,any,,या,yA'>
+story20.txt	0	16	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	दिल्ली	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='दिल्ली,n,f,sg,3,d,0,0'> | < fs af='दिल्ली,n,f,pl,3,d,0,0'> | < fs af='दिल्ली,n,f,sg,3,o,0,0'> | < fs af='दिल्ली,n,f,pl,3,o,0,0'>
+story20.txt	0	1	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	2	दो	QC	B-NP	B-TIME	-	MorphAnalysis : | < fs af='दो,adj,any,pl,,d,,'> | < fs af='दो,adj,any,pl,,o,,'> | < fs af='दो,n,m,sg,3,d,0,0'> | < fs af='दो,n,m,pl,3,d,0,0'> | < fs af='दो,n,m,sg,3,o,0,0'> | < fs af='दो,n,m,pl,3,o,0,0'> | < fs af='दे,v,any,pl,2,,ए,e'>
+story20.txt	0	3	दिन	NN	I-NP	o	-	MorphAnalysis : | < fs af='दिन,n,m,sg,3,d,0,0'> | < fs af='दिन,n,m,pl,3,d,0,0'> | < fs af='दिन,n,m,sg,3,o,0,0'>
+story20.txt	0	4	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
+story20.txt	0	5	चमकीली	JJ	B-NP	o	-	MorphAnalysis : | < fs af='चमकीला,adj,f,any,,any,,'>
+story20.txt	0	6	धूप	NN	I-NP	o	-	MorphAnalysis : | < fs af='धूप,n,f,sg,3,d,0,0'> | < fs af='धूप,n,f,sg,3,o,0,0'> | < fs af='धूप,v,any,any,any,,0,0'>
+story20.txt	0	7	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story20.txt	0	8	बाद	NST	I-NP	o	-	MorphAnalysis : | < fs af='बाद,adv,,,,,,'> | < fs af='बाद,psp,,,,,,'>
+story20.txt	0	9	मंगलवार	NNP	B-NP	B-TIME	-	MorphAnalysis : | < fs af='मंगलवार,n,m,sg,3,d,0,0'> | < fs af='मंगलवार,n,m,pl,3,d,0,0'> | < fs af='मंगलवार,n,m,sg,3,o,0,0'>
+story20.txt	0	10	का	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,d,का,kA'>
+story20.txt	0	11	दिन	NN	B-NP	o	-	MorphAnalysis : | < fs af='दिन,n,m,sg,3,d,0,0'> | < fs af='दिन,n,m,pl,3,d,0,0'> | < fs af='दिन,n,m,sg,3,o,0,0'>
+story20.txt	0	12	इस	DEM	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,0,0'>
+story20.txt	0	13	मौसम	NN	I-NP	o	-	MorphAnalysis : | < fs af='मौसम,n,m,sg,3,d,0,0'> | < fs af='मौसम,n,m,pl,3,d,0,0'> | < fs af='मौसम,n,m,sg,3,o,0,0'>
+story20.txt	0	14	का	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,d,का,kA'>
+story20.txt	0	15	सबसे	INTF	B-NP	o	-	MorphAnalysis : | < fs af='सबसा,adj,m,sg,,o,,'> | < fs af='सबसा,adj,m,pl,,d,,'> | < fs af='सबसा,adj,m,pl,,o,,'> | < fs af='सब,pn,any,pl,3,o,से,se'>
+story20.txt	0	16	ठंडा	JJ	I-NP	o	-	MorphAnalysis : | < fs af='ठंडा,v,any,any,any,,0,0'> | < fs af='ठंडा,adj,m,sg,,d,,'> | < fs af='ठंडा,n,m,sg,3,d,0,0'>
+story20.txt	0	17	दिन	NN	I-NP	o	-	MorphAnalysis : | < fs af='दिन,n,m,sg,3,d,0,0'> | < fs af='दिन,n,m,pl,3,d,0,0'> | < fs af='दिन,n,m,sg,3,o,0,0'>
+story20.txt	0	18	रहा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='रह,v,m,sg,any,,या,yA'>
+story20.txt	0	19	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	आधिकारिक	JJ	B-NP	o	-	MorphAnalysis : | < fs af='आधिकारिक,adj,any,any,,any,,'>
+story20.txt	0	1	सूत्रों	NN	I-NP	o	-	MorphAnalysis : | < fs af='सूत्र,n,m,pl,3,o,0,0'>
+story20.txt	0	2	ने	PSP	I-NP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
+story20.txt	0	3	बताया	VM	B-VGF	o	-	MorphAnalysis : | < fs af='बता,v,m,sg,any,,या,yA'>
+story20.txt	0	4	कि	CC	B-CCP	o	-	MorphAnalysis : | < fs af='कि,avy,,,,,,'>
+story20.txt	0	5	जम्मू	XC	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='जम्मू,n,m,sg,3,d,0,0'> | < fs af='जम्मू,n,m,pl,3,d,0,0'> | < fs af='जम्मू,n,m,sg,3,o,0,0'> | < fs af='जम्मू,n,m,pl,3,o,0,0'>
+story20.txt	0	6	व	XC	I-NP	o	-	MorphAnalysis : | < fs af='व,avy,,,,,,'>
+story20.txt	0	7	कश्मीर	NNP	I-NP	B-LOCATION	-	MorphAnalysis : | < fs af='कश्मीर,n,m,sg,3,d,0,0'> | < fs af='कश्मीर,n,m,pl,3,d,0,0'> | < fs af='कश्मीर,n,m,sg,3,o,0,0'> | < fs af='कश्मीर,n,m,pl,3,o,0,0'>
+story20.txt	0	8	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	9	बारामुला	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='बारामुला,n,m,sg,3,d,0,0'> | < fs af='बारामुला,n,m,pl,3,d,0,0'> | < fs af='बारामुला,n,m,sg,3,o,0,0'> | < fs af='बारामुला,n,m,pl,3,o,0,0'>
+story20.txt	0	10	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story20.txt	0	11	गुलमर्ग	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='गुलमर्ग,n,m,sg,3,d,0,0'> | < fs af='गुलमर्ग,n,m,pl,3,d,0,0'> | < fs af='गुलमर्ग,n,m,sg,3,o,0,0'> | < fs af='गुलमर्ग,n,m,pl,3,o,0,0'>
+story20.txt	0	12	स्थित	NN	B-JJP	o	-	MorphAnalysis : | < fs af='स्थित,adj,any,any,,any,,'>
+story20.txt	0	13	स्कींग	XC	B-NP	o	-	MorphAnalysis : | < fs af='स्कींग,unk,,,,,,'>
+story20.txt	0	14	रिजार्ट	NNP	I-NP	o	-	MorphAnalysis : | < fs af='रिजार्ट,unk,,,,,,'>
+story20.txt	0	15	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	16	बर्फ़	NN	B-NP	o	-	MorphAnalysis : | < fs af='बर्फ़,n,f,sg,,d,0,0'> | < fs af='बर्फ़,n,f,sg,,o,0,0'>
+story20.txt	0	17	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
+story20.txt	0	18	पांच	QC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='पांच,n,m,sg,3,d,0,0'> | < fs af='पांच,n,m,pl,3,d,0,0'> | < fs af='पांच,n,m,sg,3,o,0,0'> | < fs af='पांच,adj,any,pl,,d,,'> | < fs af='पांच,adj,any,pl,,o,,'>
+story20.txt	0	19	इंच	NN	I-NP	B-MEASURE	-	MorphAnalysis : | < fs af='इंच,n,m,sg,3,d,0,0'> | < fs af='इंच,n,m,pl,3,d,0,0'> | < fs af='इंच,n,m,sg,3,o,0,0'> | < fs af='इंच,v,any,any,any,,0,0'>
+story20.txt	0	20	मोटी	JJ	B-NP	o	-	MorphAnalysis : | < fs af='मोटा,adj,f,any,,any,,'>
+story20.txt	0	21	परत	NN	I-NP	o	-	MorphAnalysis : | < fs af='परत,n,f,sg,3,d,0,0'> | < fs af='परत,n,f,sg,3,o,0,0'>
+story20.txt	0	22	बिछ	VM	B-VGF	o	-	MorphAnalysis : | < fs af='बिछ,v,any,any,any,,0,0'>
+story20.txt	0	23	गई	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,f,sg,any,,या1,yA1'>
+story20.txt	0	24	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	इतना	QF	B-NP	o	-	MorphAnalysis : | < fs af='इतना,adv,,,,,,'> | < fs af='इतना,avy,,,,,,'> | < fs af='इतना,adj,m,sg,,d,,'> | < fs af='इतना,n,m,sg,3,d,0,0'>
+story20.txt	0	1	ही	RP	I-NP	o	-	MorphAnalysis : | < fs af='ही,avy,,,,,,'>
+story20.txt	0	2	नहीं	NEG	I-NP	o	-	MorphAnalysis : | < fs af='नहीं,n,f,sg,3,d,0,0'> | < fs af='नहीं,n,f,pl,3,d,0,0'> | < fs af='नहीं,n,f,sg,3,o,0,0'> | < fs af='नहीं,n,f,pl,3,o,0,0'> | < fs af='नहीं,adv,,,,,,'> | < fs af='नहीं,avy,,,,,,'> | < fs af='नह,v,f,pl,any,,या,yA'>
+story20.txt	0	3	पूरे	JJ	B-NP	o	-	MorphAnalysis : | < fs af='पूरा,adj,m,sg,,o,,'> | < fs af='पूरा,adj,m,pl,,d,,'> | < fs af='पूरा,adj,m,pl,,o,,'> | < fs af='पूरा,n,m,pl,3,d,0,0'> | < fs af='पूरा,n,m,sg,3,o,0,0'> | < fs af='पूर,v,any,sg,2,,ए,e'> | < fs af='पूर,v,any,sg,3,,ए,e'> | < fs af='पूर,v,m,pl,any,,या,yA'>
+story20.txt	0	4	राज्य	NN	I-NP	o	-	MorphAnalysis : | < fs af='राज्य,n,m,sg,3,d,0,0'> | < fs af='राज्य,n,m,pl,3,d,0,0'> | < fs af='राज्य,n,m,sg,3,o,0,0'>
+story20.txt	0	5	,	SYM	I-NP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
+story20.txt	0	6	खासकर	RB	B-RBP	o	-	MorphAnalysis : | < fs af='खासकर,adv,,,,,,'> | < fs af='खास,v,any,any,any,,कर,kara'>
+story20.txt	0	7	उत्तरी	JJ	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='उत्तरी,adj,any,any,,any,,'>
+story20.txt	0	8	कश्मीर	NNP	I-NP	I-LOCATION	-	MorphAnalysis : | < fs af='कश्मीर,n,m,sg,3,d,0,0'> | < fs af='कश्मीर,n,m,pl,3,d,0,0'> | < fs af='कश्मीर,n,m,sg,3,o,0,0'> | < fs af='कश्मीर,n,m,pl,3,o,0,0'>
+story20.txt	0	9	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	10	हुई	VM	B-VGNF	o	-	MorphAnalysis : | < fs af='हो,v,f,sg,any,,या,yA'>
+story20.txt	0	11	जबरदस्त	JJ	B-NP	o	-	MorphAnalysis : | < fs af='जबरदस्त,adj,any,any,,any,,'>
+story20.txt	0	12	बर्फ़बारी	NN	I-NP	o	-	MorphAnalysis : | < fs af='बर्फ़बारी,n,f,sg,,d,0,0'> | < fs af='बर्फ़बारी,n,f,sg,,o,0,0'>
+story20.txt	0	13	से	PSP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
+story20.txt	0	14	शीत	XC	B-NP	o	-	MorphAnalysis : | < fs af='शीत,adj,any,any,,any,,'> | < fs af='शीत,n,f,sg,3,d,0,0'> | < fs af='शीत,n,f,sg,3,o,0,0'>
+story20.txt	0	15	लहर	NN	I-NP	o	-	MorphAnalysis : | < fs af='लहर,n,f,sg,3,d,0,0'> | < fs af='लहर,n,f,sg,3,o,0,0'> | < fs af='लहर,v,any,any,any,,0,0'>
+story20.txt	0	16	ने	PSP	I-NP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
+story20.txt	0	17	जोर	NN	B-NP	o	-	MorphAnalysis : | < fs af='जोर,n,m,sg,3,d,0,0'> | < fs af='जोर,n,m,pl,3,d,0,0'> | < fs af='जोर,n,m,sg,3,o,0,0'>
+story20.txt	0	18	पकड़	VM	B-VGF	o	-	MorphAnalysis : | < fs af='पकड़,n,f,sg,3,d,0,0'> | < fs af='पकड़,n,f,pl,3,d,0,0'> | < fs af='पकड़,n,f,sg,3,o,0,0'> | < fs af='पकड़,n,f,pl,3,o,0,0'> | < fs af='पकड़,v,any,any,any,,0,0'>
+story20.txt	0	19	लिया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='ले,v,m,sg,any,,या,yA'>
+story20.txt	0	20	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	पूरे	JJ	B-NP	o	-	MorphAnalysis : | < fs af='पूरा,adj,m,sg,,o,,'> | < fs af='पूरा,adj,m,pl,,d,,'> | < fs af='पूरा,adj,m,pl,,o,,'> | < fs af='पूरा,n,m,pl,3,d,0,0'> | < fs af='पूरा,n,m,sg,3,o,0,0'> | < fs af='पूर,v,any,sg,2,,ए,e'> | < fs af='पूर,v,any,sg,3,,ए,e'> | < fs af='पूर,v,m,pl,any,,या,yA'>
+story20.txt	0	1	कुपवाड़ा	XC	I-NP	B-LOCATION	-	MorphAnalysis : | < fs af='कुपवाड़ा,n,m,sg,3,d,0,0'>
+story20.txt	0	2	जिले	NNP	I-NP	B-LOCATION	-	MorphAnalysis : | < fs af='जिला,n,m,pl,3,d,0,0'> | < fs af='जिला,n,m,sg,3,o,0,0'> | < fs af='जिल,v,any,sg,2,,ए,e'> | < fs af='जिल,v,any,sg,3,,ए,e'> | < fs af='जिल,v,m,pl,any,,या,yA'>
+story20.txt	0	3	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	4	जगह	NN	B-NP	o	-	MorphAnalysis : | < fs af='जगह,adv,,,,,,'> | < fs af='जगह,n,f,sg,3,d,0,0'> | < fs af='जगह,n,f,sg,3,o,0,0'>
+story20.txt	0	5	-JOIN	SYM	I-NP	o	-	MorphAnalysis : | < fs af='-औईण्,unk,,,,,,'>
+story20.txt	0	6	जगह	RDP	I-NP	o	-	MorphAnalysis : | < fs af='जगह,adv,,,,,,'> | < fs af='जगह,n,f,sg,3,d,0,0'> | < fs af='जगह,n,f,sg,3,o,0,0'>
+story20.txt	0	7	बर्फ़	NN	B-NP	o	-	MorphAnalysis : | < fs af='बर्फ़,n,f,sg,,d,0,0'> | < fs af='बर्फ़,n,f,sg,,o,0,0'>
+story20.txt	0	8	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
+story20.txt	0	9	छह	QC	B-NP	B-MEASURE	-	MorphAnalysis : | < fs af='छह,n,m,sg,3,d,0,0'> | < fs af='छह,n,m,pl,3,d,0,0'> | < fs af='छह,n,m,sg,3,o,0,0'> | < fs af='छह,adj,any,pl,,d,,'> | < fs af='छह,adj,any,pl,,o,,'>
+story20.txt	0	10	इंच	NN	I-NP	I-MEASURE	-	MorphAnalysis : | < fs af='इंच,n,m,sg,3,d,0,0'> | < fs af='इंच,n,m,pl,3,d,0,0'> | < fs af='इंच,n,m,sg,3,o,0,0'> | < fs af='इंच,v,any,any,any,,0,0'>
+story20.txt	0	11	से	PSP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
+story20.txt	0	12	लेकर	VM	I-NP	o	-	MorphAnalysis : | < fs af='ले,v,any,any,any,,कर,kara'>
+story20.txt	0	13	दो	QC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='दो,adj,any,pl,,d,,'> | < fs af='दो,adj,any,pl,,o,,'> | < fs af='दो,n,m,sg,3,d,0,0'> | < fs af='दो,n,m,pl,3,d,0,0'> | < fs af='दो,n,m,sg,3,o,0,0'> | < fs af='दो,n,m,pl,3,o,0,0'> | < fs af='दे,v,any,pl,2,,ए,e'>
+story20.txt	0	14	फीट	NN	I-NP	B-MEASURE	-	MorphAnalysis : | < fs af='फीट,n,m,sg,3,d,0,0'> | < fs af='फीट,n,m,pl,3,d,0,0'> | < fs af='फीट,n,m,sg,3,o,0,0'> | < fs af='फीट,adj,any,any,,any,,'>
+story20.txt	0	15	मोटी	JJ	B-NP	o	-	MorphAnalysis : | < fs af='मोटा,adj,f,any,,any,,'>
+story20.txt	0	16	पर्त	NN	I-NP	o	-	MorphAnalysis : | < fs af='पर्त,n,f,sg,3,d,0,0'> | < fs af='पर्त,n,f,sg,3,o,0,0'>
+story20.txt	0	17	तक	RP	I-NP	o	-	MorphAnalysis : | < fs af='तक,n,m,sg,3,d,0,0'> | < fs af='तक,n,m,pl,3,d,0,0'> | < fs af='तक,n,m,sg,3,o,0,0'> | < fs af='तक,adv,,,,,,'> | < fs af='तक,psp,,,,,,'> | < fs af='तक,v,any,any,any,,0,0'>
+story20.txt	0	18	देखी	VM	B-VGF	o	-	MorphAnalysis : | < fs af='देख,v,f,sg,any,,या,yA'>
+story20.txt	0	19	गई	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,f,sg,any,,या1,yA1'>
+story20.txt	0	20	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	श्रीनगर	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='श्रीनगर,n,m,sg,3,d,0,0'> | < fs af='श्रीनगर,n,m,pl,3,d,0,0'> | < fs af='श्रीनगर,n,m,sg,3,o,0,0'> | < fs af='श्रीनगर,n,m,pl,3,o,0,0'>
+story20.txt	0	1	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	2	आज	NN	B-NP	o	-	MorphAnalysis : | < fs af='आज,adv,,,,,,'> | < fs af='आज,n,m,sg,3,d,0,0'> | < fs af='आज,n,m,pl,3,d,0,0'> | < fs af='आज,n,m,sg,3,o,0,0'> | < fs af='आज,n,m,pl,3,o,0,0'>
+story20.txt	0	3	हुई	VM	B-VGNF	o	-	MorphAnalysis : | < fs af='हो,v,f,sg,any,,या,yA'>
+story20.txt	0	4	बर्फ़बारी	NN	B-NP	o	-	MorphAnalysis : | < fs af='बर्फ़बारी,n,f,sg,,d,0,0'> | < fs af='बर्फ़बारी,n,f,sg,,o,0,0'>
+story20.txt	0	5	से	PSP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
+story20.txt	0	6	तापमान	NN	B-NP	o	-	MorphAnalysis : | < fs af='तापमान,n,m,sg,3,d,0,0'> | < fs af='तापमान,n,m,pl,3,d,0,0'> | < fs af='तापमान,n,m,sg,3,o,0,0'>
+story20.txt	0	7	NULL	NN	B-NULL__NP	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
+story20.txt	0	8	गिरकर	VM	B-VGNF	o	-	MorphAnalysis : | < fs af='गिर,v,any,any,any,,कर,kara'>
+story20.txt	0	9	०.५	QC	B-NP	B-MEASURE	-	MorphAnalysis : | < fs af='0.5,num,,,,,,'>
+story20.txt	0	10	डिग्री	XC	I-NP	I-MEASURE	-	MorphAnalysis : | < fs af='डिग्री,n,f,sg,3,d,0,0'> | < fs af='डिग्री,n,f,sg,3,o,0,0'>
+story20.txt	0	11	सेल्सियस	NN	I-NP	o	-	MorphAnalysis : | < fs af='सेल्सियस,n,m,sg,3,d,0,0'> | < fs af='सेल्सियस,n,m,pl,3,d,0,0'> | < fs af='सेल्सियस,n,m,sg,3,o,0,0'> | < fs af='सेल्सियस,n,m,pl,3,o,0,0'>
+story20.txt	0	12	हो	VM	B-VGF	o	-	MorphAnalysis : | < fs af='हो,n,f,sg,3,d,0,0'> | < fs af='हो,n,f,pl,3,d,0,0'> | < fs af='हो,n,f,sg,3,o,0,0'> | < fs af='हो,n,f,pl,3,o,0,0'> | < fs af='हो,v,any,any,any,,0,0'> | < fs af='है,v,any,pl,2,,है,hE'>
+story20.txt	0	13	गया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,m,sg,any,,या1,yA1'>
+story20.txt	0	14	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	पहाड़ों	NN	B-NP	o	-	MorphAnalysis : | < fs af='पहाड़,n,m,pl,3,o,0,0'>
+story20.txt	0	1	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
+story20.txt	0	2	यह	DEM	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,any,sg,3,d,0,0'>
+story20.txt	0	3	सर्दी	NN	I-NP	o	-	MorphAnalysis : | < fs af='सर्दी,n,f,sg,3,d,0,0'> | < fs af='सर्दी,n,f,sg,3,o,0,0'>
+story20.txt	0	4	मैदानी	JJ	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='मैदानी,n,m,sg,3,d,0,0'> | < fs af='मैदानी,n,m,pl,3,d,0,0'> | < fs af='मैदानी,n,m,sg,3,o,0,0'> | < fs af='मैदानी,adj,any,any,,any,,'>
+story20.txt	0	5	इलाकों	NN	I-NP	o	-	MorphAnalysis : | < fs af='इलाका,n,m,pl,3,o,0,0'>
+story20.txt	0	6	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
+story20.txt	0	7	भी	RP	I-NP	o	-	MorphAnalysis : | < fs af='भी,adv,,,,,,'> | < fs af='भी,avy,,,,,,'>
+story20.txt	0	8	कंपकंपा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कंपकंपा,unk,,,,,,'>
+story20.txt	0	9	गई	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,f,sg,any,,या1,yA1'>
+story20.txt	0	10	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	शीतलहर	NN	B-NP	o	(5	MorphAnalysis : | < fs af='शीतलहर,n,f,sg,3,d,0,0'> | < fs af='शीतलहर,n,f,sg,3,o,0,0'>
+story20.txt	0	1	ने	PSP	I-NP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
+story20.txt	0	2	यूं	RP	I-NP	o	-	MorphAnalysis : | < fs af='यूँ,adv,,,,,,'> | < fs af='यूँ,n,m,sg,,d,0,0'> | < fs af='यूँ,n,m,pl,,d,0,0'> | < fs af='यूँ,n,m,sg,,o,0,0'> | < fs af='यूँ,n,m,pl,,o,0,0'>
+story20.txt	0	3	तो	RP	I-NP	o	5)	MorphAnalysis : | < fs af='तो,avy,,,,,,'>
+story20.txt	0	4	समूचे	JJ	B-NP	o	-	MorphAnalysis : | < fs af='समूचा,adj,m,sg,,o,,'> | < fs af='समूचा,adj,m,pl,,d,,'> | < fs af='समूचा,adj,m,pl,,o,,'>
+story20.txt	0	5	उत्तर	XC	I-NP	B-LOCATION	-	MorphAnalysis : | < fs af='उत्तर,n,m,sg,3,d,0,0'> | < fs af='उत्तर,n,m,pl,3,d,0,0'> | < fs af='उत्तर,n,m,sg,3,o,0,0'>
+story20.txt	0	6	भारत	NNP	I-NP	B-LOCATION	-	MorphAnalysis : | < fs af='भारत,n,m,sg,3,d,0,0'> | < fs af='भारत,n,m,pl,3,d,0,0'> | < fs af='भारत,n,m,sg,3,o,0,0'>
+story20.txt	0	7	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
+story20.txt	0	8	प्रभावित	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='प्रभावित,n,m,sg,3,d,0,0'> | < fs af='प्रभावित,n,m,pl,3,d,0,0'> | < fs af='प्रभावित,n,m,sg,3,o,0,0'> | < fs af='प्रभावित,adj,any,any,,any,,'>
+story20.txt	0	9	किया	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कर,v,m,sg,any,,या,yA'>
+story20.txt	0	10	लेकिन	CC	B-CCP	o	-	MorphAnalysis : | < fs af='लेकिन,avy,,,,,,'>
+story20.txt	0	11	इसका	PRP	B-NP	o	(5)	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='sg'>
+story20.txt	0	12	सबसे	INTF	I-NP	o	-	MorphAnalysis : | < fs af='सबसा,adj,m,sg,,o,,'> | < fs af='सबसा,adj,m,pl,,d,,'> | < fs af='सबसा,adj,m,pl,,o,,'> | < fs af='सब,pn,any,pl,3,o,से,se'>
+story20.txt	0	13	अधिक	QF	I-NP	o	-	MorphAnalysis : | < fs af='अधिक,n,m,sg,3,d,0,0'> | < fs af='अधिक,n,m,pl,3,d,0,0'> | < fs af='अधिक,n,m,sg,3,o,0,0'> | < fs af='अधिक,adv,,,,,,'> | < fs af='अधिक,adj,any,any,,any,,'>
+story20.txt	0	14	असर	NN	I-NP	o	-	MorphAnalysis : | < fs af='असर,n,m,sg,3,d,0,0'> | < fs af='असर,n,m,pl,3,d,0,0'> | < fs af='असर,n,m,sg,3,o,0,0'>
+story20.txt	0	15	आज	NN	B-NP	o	-	MorphAnalysis : | < fs af='आज,adv,,,,,,'> | < fs af='आज,n,m,sg,3,d,0,0'> | < fs af='आज,n,m,pl,3,d,0,0'> | < fs af='आज,n,m,sg,3,o,0,0'> | < fs af='आज,n,m,pl,3,o,0,0'>
+story20.txt	0	16	राजस्थान	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='राजस्थान,n,m,sg,3,d,0,0'> | < fs af='राजस्थान,n,m,pl,3,d,0,0'> | < fs af='राजस्थान,n,m,sg,3,o,0,0'>
+story20.txt	0	17	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story20.txt	0	18	पिलानी	XC	B-NP	o	(6	MorphAnalysis : | < fs af='पिला,v,f,sg,any,,ना,nA'>
+story20.txt	0	19	जिले	NNP	I-NP	B-LOCATION	-	MorphAnalysis : | < fs af='जिला,n,m,pl,3,d,0,0'> | < fs af='जिला,n,m,sg,3,o,0,0'> | < fs af='जिल,v,any,sg,2,,ए,e'> | < fs af='जिल,v,any,sg,3,,ए,e'> | < fs af='जिल,v,m,pl,any,,या,yA'>
+story20.txt	0	20	में	PSP	I-NP	o	6)	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	21	देखा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='देखा,v,any,any,any,,0,0'> | < fs af='देख,v,m,sg,any,,या,yA'>
+story20.txt	0	22	गया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,m,sg,any,,या1,yA1'>
+story20.txt	0	23	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	यहां	PRP	B-NP	o	(6)	MorphAnalysis : | < fs af='यहां,adv,,,,,,'> | < fs af='यहां,psp,,,,,,'>
+story20.txt	0	1	पारा	NN	B-NP	o	-	MorphAnalysis : | < fs af='पारा,n,m,sg,3,d,0,0'> | < fs af='पार,v,m,sg,any,,या,yA'>
+story20.txt	0	2	NULL	NN	B-NULL__NP	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
+story20.txt	0	3	लुढ़कर	VM	B-VGNF	o	-	MorphAnalysis : | < fs af='लुढ़,v,any,any,any,,कर,kara'>
+story20.txt	0	4	शून्य	QC	B-NP	o	-	MorphAnalysis : | < fs af='शून्य,n,m,sg,3,d,0,0'> | < fs af='शून्य,n,m,pl,3,d,0,0'> | < fs af='शून्य,n,m,sg,3,o,0,0'> | < fs af='शून्य,adj,any,any,,any,,'>
+story20.txt	0	5	डिग्री	NN	I-NP	B-MEASURE	-	MorphAnalysis : | < fs af='डिग्री,n,f,sg,3,d,0,0'> | < fs af='डिग्री,n,f,sg,3,o,0,0'>
+story20.txt	0	6	हो	VM	B-VGF	o	-	MorphAnalysis : | < fs af='हो,n,f,sg,3,d,0,0'> | < fs af='हो,n,f,pl,3,d,0,0'> | < fs af='हो,n,f,sg,3,o,0,0'> | < fs af='हो,n,f,pl,3,o,0,0'> | < fs af='हो,v,any,any,any,,0,0'> | < fs af='है,v,any,pl,2,,है,hE'>
+story20.txt	0	7	गया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,m,sg,any,,या1,yA1'>
+story20.txt	0	8	है	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,sg,2,,है,hE'> | < fs af='है,v,any,sg,3,,है,hE'>
+story20.txt	0	9	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	इसके	PRP	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'> | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'> | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+story20.txt	0	1	अलावा	PSP	I-NP	o	-	MorphAnalysis : | < fs af='अलावा,adv,,,,,,'>
+story20.txt	0	2	माउंट	XC	B-NP	B-LOCATION	(7	MorphAnalysis : | < fs af='माउंट,n,m,sg,3,d,0,0'> | < fs af='माउंट,n,m,pl,3,d,0,0'> | < fs af='माउंट,n,m,sg,3,o,0,0'>
+story20.txt	0	3	आबू	NNP	I-NP	I-LOCATION	-	MorphAnalysis : | < fs af='आबू,unk,,,,,,'>
+story20.txt	0	4	में	PSP	I-NP	o	7)	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	5	तापमान	NN	B-NP	o	-	MorphAnalysis : | < fs af='तापमान,n,m,sg,3,d,0,0'> | < fs af='तापमान,n,m,pl,3,d,0,0'> | < fs af='तापमान,n,m,sg,3,o,0,0'>
+story20.txt	0	6	दो	QC	B-NP	B-MEASURE	-	MorphAnalysis : | < fs af='दो,adj,any,pl,,d,,'> | < fs af='दो,adj,any,pl,,o,,'> | < fs af='दो,n,m,sg,3,d,0,0'> | < fs af='दो,n,m,pl,3,d,0,0'> | < fs af='दो,n,m,sg,3,o,0,0'> | < fs af='दो,n,m,pl,3,o,0,0'> | < fs af='दे,v,any,pl,2,,ए,e'>
+story20.txt	0	7	डिग्री	NN	I-NP	I-MEASURE	-	MorphAnalysis : | < fs af='डिग्री,n,f,sg,3,d,0,0'> | < fs af='डिग्री,n,f,sg,3,o,0,0'>
+story20.txt	0	8	रहा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='रह,v,m,sg,any,,या,yA'>
+story20.txt	0	9	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	यहां	PRP	B-NP	o	(7)	MorphAnalysis : | < fs af='यहां,adv,,,,,,'> | < fs af='यहां,psp,,,,,,'>
+story20.txt	0	1	कल	XC	B-NP	B-TIME	-	MorphAnalysis : | < fs af='कल,adv,,,,,,'> | < fs af='कल,n,m,sg,3,d,0,0'> | < fs af='कल,n,m,pl,3,d,0,0'> | < fs af='कल,n,m,sg,3,o,0,0'> | < fs af='कल,n,m,pl,3,o,0,0'>
+story20.txt	0	2	रात	NN	I-NP	o	-	MorphAnalysis : | < fs af='रात,n,f,sg,3,d,0,0'> | < fs af='रात,n,f,sg,3,o,0,0'> | < fs af='रात,v,any,any,any,,0,0'>
+story20.txt	0	3	तापमान	NN	B-NP	o	-	MorphAnalysis : | < fs af='तापमान,n,m,sg,3,d,0,0'> | < fs af='तापमान,n,m,pl,3,d,0,0'> | < fs af='तापमान,n,m,sg,3,o,0,0'>
+story20.txt	0	4	शून्य	QC	B-NP	o	-	MorphAnalysis : | < fs af='शून्य,n,m,sg,3,d,0,0'> | < fs af='शून्य,n,m,pl,3,d,0,0'> | < fs af='शून्य,n,m,sg,3,o,0,0'> | < fs af='शून्य,adj,any,any,,any,,'>
+story20.txt	0	5	था	VM	B-VGF	o	-	MorphAnalysis : | < fs af='था,v,m,sg,any,,था,WA'>
+story20.txt	0	6	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	चुरु	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='चुरु,unk,,,,,,'>
+story20.txt	0	1	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	2	तीन	QC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='तीन,n,m,sg,3,d,0,0'> | < fs af='तीन,n,m,pl,3,d,0,0'> | < fs af='तीन,n,m,sg,3,o,0,0'> | < fs af='तीन,adj,any,pl,,d,,'> | < fs af='तीन,adj,any,pl,,o,,'>
+story20.txt	0	3	,	SYM	I-NP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
+story20.txt	0	4	NULL	NN	B-NULL__NP	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
+story20.txt	0	5	NULL	JJ	B-NULL__JJP	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
+story20.txt	0	6	NULL	VM	B-NULL__VGF	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
+story20.txt	0	7	ढोलपुर	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='ढोलपुर,unk,,,,,,'>
+story20.txt	0	8	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	9	पांच	QC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='पांच,n,m,sg,3,d,0,0'> | < fs af='पांच,n,m,pl,3,d,0,0'> | < fs af='पांच,n,m,sg,3,o,0,0'> | < fs af='पांच,adj,any,pl,,d,,'> | < fs af='पांच,adj,any,pl,,o,,'>
+story20.txt	0	10	,	SYM	I-NP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
+story20.txt	0	11	NULL	NN	B-NULL__NP	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
+story20.txt	0	12	NULL	JJ	B-NULL__JJP	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
+story20.txt	0	13	NULL	VM	B-NULL__VGF	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
+story20.txt	0	14	भरतपुर	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='भरतपुर,n,m,sg,3,d,0,0'> | < fs af='भरतपुर,n,m,pl,3,d,0,0'> | < fs af='भरतपुर,n,m,sg,3,o,0,0'> | < fs af='भरतपुर,n,m,pl,3,o,0,0'>
+story20.txt	0	15	व	CC	B-CCP	o	-	MorphAnalysis : | < fs af='व,avy,,,,,,'>
+story20.txt	0	16	गंगानगर	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='गंगानगर,n,m,sg,3,d,0,0'> | < fs af='गंगानगर,n,m,pl,3,d,0,0'> | < fs af='गंगानगर,n,m,sg,3,o,0,0'> | < fs af='गंगानगर,n,m,pl,3,o,0,0'>
+story20.txt	0	17	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	18	छह	QC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='छह,n,m,sg,3,d,0,0'> | < fs af='छह,n,m,pl,3,d,0,0'> | < fs af='छह,n,m,sg,3,o,0,0'> | < fs af='छह,adj,any,pl,,d,,'> | < fs af='छह,adj,any,pl,,o,,'>
+story20.txt	0	19	NULL	NN	B-NULL__NP	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
+story20.txt	0	20	NULL	JJ	B-NULL__JJP	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
+story20.txt	0	21	NULL	VM	B-NULL__VGF	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
+story20.txt	0	22	और	CC	B-CCP	o	-	MorphAnalysis : | < fs af='और,n,m,sg,3,d,0,0'> | < fs af='और,n,m,pl,3,d,0,0'> | < fs af='और,n,m,sg,3,o,0,0'> | < fs af='और,adv,,,,,,'> | < fs af='और,avy,,,,,,'> | < fs af='और,adj,any,any,,any,,'>
+story20.txt	0	23	जयपुर	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='जयपुर,n,m,sg,3,d,0,0'> | < fs af='जयपुर,n,m,pl,3,d,0,0'> | < fs af='जयपुर,n,m,sg,3,o,0,0'> | < fs af='जयपुर,n,m,pl,3,o,0,0'>
+story20.txt	0	24	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	25	सात	QC	B-NP	B-MEASURE	-	MorphAnalysis : | < fs af='सात,n,m,sg,3,d,0,0'> | < fs af='सात,n,m,pl,3,d,0,0'> | < fs af='सात,n,m,sg,3,o,0,0'> | < fs af='सात,adj,any,pl,,d,,'> | < fs af='सात,adj,any,pl,,o,,'>
+story20.txt	0	26	डिग्री	NN	B-NP	B-MEASURE	-	MorphAnalysis : | < fs af='डिग्री,n,f,sg,3,d,0,0'> | < fs af='डिग्री,n,f,sg,3,o,0,0'>
+story20.txt	0	27	दर्ज	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='दर्ज,adj,any,any,,any,,'>
+story20.txt	0	28	किया	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कर,v,m,sg,any,,या,yA'>
+story20.txt	0	29	गया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,m,sg,any,,या1,yA1'>
+story20.txt	0	30	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	जबकि	CC	B-CCP	o	-	MorphAnalysis : | < fs af='जबकि,avy,,,,,,'>
+story20.txt	0	1	राष्ट्रीय	JJ	B-NP	o	-	MorphAnalysis : | < fs af='राष्ट्रीय,adj,any,any,,any,,'>
+story20.txt	0	2	राजधानी	NN	I-NP	o	-	MorphAnalysis : | < fs af='राजधानी,n,f,sg,3,d,0,0'> | < fs af='राजधानी,n,f,sg,3,o,0,0'>
+story20.txt	0	3	दिल्ली	NNP	B-NP	B-LOCATION	(8	MorphAnalysis : | < fs af='दिल्ली,n,f,sg,3,d,0,0'> | < fs af='दिल्ली,n,f,pl,3,d,0,0'> | < fs af='दिल्ली,n,f,sg,3,o,0,0'> | < fs af='दिल्ली,n,f,pl,3,o,0,0'>
+story20.txt	0	4	में	PSP	I-NP	o	8)	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	5	मंगलवार	NNP	B-NP	B-TIME	-	MorphAnalysis : | < fs af='मंगलवार,n,m,sg,3,d,0,0'> | < fs af='मंगलवार,n,m,pl,3,d,0,0'> | < fs af='मंगलवार,n,m,sg,3,o,0,0'>
+story20.txt	0	6	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
+story20.txt	0	7	इस	DEM	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,0,0'>
+story20.txt	0	8	मौसम	NN	I-NP	o	-	MorphAnalysis : | < fs af='मौसम,n,m,sg,3,d,0,0'> | < fs af='मौसम,n,m,pl,3,d,0,0'> | < fs af='मौसम,n,m,sg,3,o,0,0'>
+story20.txt	0	9	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
+story20.txt	0	10	सबसे	INTF	B-NP	o	-	MorphAnalysis : | < fs af='सबसा,adj,m,sg,,o,,'> | < fs af='सबसा,adj,m,pl,,d,,'> | < fs af='सबसा,adj,m,pl,,o,,'> | < fs af='सब,pn,any,pl,3,o,से,se'>
+story20.txt	0	11	अधिक	QF	I-NP	o	-	MorphAnalysis : | < fs af='अधिक,n,m,sg,3,d,0,0'> | < fs af='अधिक,n,m,pl,3,d,0,0'> | < fs af='अधिक,n,m,sg,3,o,0,0'> | < fs af='अधिक,adv,,,,,,'> | < fs af='अधिक,adj,any,any,,any,,'>
+story20.txt	0	12	ठंड	NN	I-NP	o	-	MorphAnalysis : | < fs af='ठंड,n,f,sg,3,d,0,0'> | < fs af='ठंड,n,f,pl,3,d,0,0'> | < fs af='ठंड,n,f,sg,3,o,0,0'> | < fs af='ठंड,n,f,pl,3,o,0,0'>
+story20.txt	0	13	पड़ी	VM	B-VGF	o	-	MorphAnalysis : | < fs af='पड़ा,adj,f,any,,any,,'> | < fs af='पड़,v,f,sg,any,,या,yA'>
+story20.txt	0	14	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	यहां	PRP	B-NP	o	(8)	MorphAnalysis : | < fs af='यहां,adv,,,,,,'> | < fs af='यहां,psp,,,,,,'>
+story20.txt	0	1	न्यूनतम	JJ	B-NP	o	(9	MorphAnalysis : | < fs af='न्यूनतम,adj,any,any,,any,,'>
+story20.txt	0	2	तापमान	NN	I-NP	o	9)	MorphAnalysis : | < fs af='तापमान,n,m,sg,3,d,0,0'> | < fs af='तापमान,n,m,pl,3,d,0,0'> | < fs af='तापमान,n,m,sg,3,o,0,0'>
+story20.txt	0	3	५.१	QC	B-NP	B-MEASURE	-	MorphAnalysis : | < fs af='5.1,num,,,,,,'>
+story20.txt	0	4	डिग्री	XC	I-NP	I-MEASURE	-	MorphAnalysis : | < fs af='डिग्री,n,f,sg,3,d,0,0'> | < fs af='डिग्री,n,f,sg,3,o,0,0'>
+story20.txt	0	5	सेल्सियस	NN	I-NP	o	-	MorphAnalysis : | < fs af='सेल्सियस,n,m,sg,3,d,0,0'> | < fs af='सेल्सियस,n,m,pl,3,d,0,0'> | < fs af='सेल्सियस,n,m,sg,3,o,0,0'> | < fs af='सेल्सियस,n,m,pl,3,o,0,0'>
+story20.txt	0	6	रहा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='रह,v,m,sg,any,,या,yA'>
+story20.txt	0	7	जोकि	PRP	B-NP	o	(9)	MorphAnalysis : | < fs af='जोकि,avy,,,,,,'>
+story20.txt	0	8	सोमवार	NNP	B-NP	o	-	MorphAnalysis : | < fs af='सोमवार,n,m,sg,3,d,0,0'> | < fs af='सोमवार,n,m,pl,3,d,0,0'> | < fs af='सोमवार,n,m,sg,3,o,0,0'>
+story20.txt	0	9	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
+story20.txt	0	10	५.७	QC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='5.7,num,,,,,,'>
+story20.txt	0	11	था	VM	B-VGF	o	-	MorphAnalysis : | < fs af='था,v,m,sg,any,,था,WA'>
+story20.txt	0	12	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	इसी	PRP	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,0,0' emph='y'>
+story20.txt	0	1	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story20.txt	0	2	साथ	NST	I-NP	o	-	MorphAnalysis : | < fs af='साथ,n,m,sg,3,d,0,0'> | < fs af='साथ,n,m,pl,3,d,0,0'> | < fs af='साथ,n,m,sg,3,o,0,0'> | < fs af='साथ,adv,,,,,,'> | < fs af='साथ,psp,,,,,,'>
+story20.txt	0	3	पूरे	JJ	B-NP	o	-	MorphAnalysis : | < fs af='पूरा,adj,m,sg,,o,,'> | < fs af='पूरा,adj,m,pl,,d,,'> | < fs af='पूरा,adj,m,pl,,o,,'> | < fs af='पूरा,n,m,pl,3,d,0,0'> | < fs af='पूरा,n,m,sg,3,o,0,0'> | < fs af='पूर,v,any,sg,2,,ए,e'> | < fs af='पूर,v,any,sg,3,,ए,e'> | < fs af='पूर,v,m,pl,any,,या,yA'>
+story20.txt	0	4	महानगर	NN	I-NP	o	-	MorphAnalysis : | < fs af='महानगर,n,m,sg,3,d,0,0'> | < fs af='महानगर,n,m,pl,3,d,0,0'> | < fs af='महानगर,n,m,sg,3,o,0,0'>
+story20.txt	0	5	पर	PSP	I-NP	o	-	MorphAnalysis : | < fs af='पर,n,m,sg,3,d,0,0'> | < fs af='पर,n,m,pl,3,d,0,0'> | < fs af='पर,n,m,sg,3,o,0,0'> | < fs af='पर,avy,,,,,,'> | < fs af='पर,psp,,,,,,'>
+story20.txt	0	6	कोहरे	NN	B-NP	o	-	MorphAnalysis : | < fs af='कोहरा,n,m,pl,3,d,0,0'> | < fs af='कोहरा,n,m,sg,3,o,0,0'>
+story20.txt	0	7	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
+story20.txt	0	8	घनी	JJ	B-NP	o	-	MorphAnalysis : | < fs af='घना,adj,f,any,,any,,'>
+story20.txt	0	9	परत	NN	I-NP	o	-	MorphAnalysis : | < fs af='परत,n,f,sg,3,d,0,0'> | < fs af='परत,n,f,sg,3,o,0,0'>
+story20.txt	0	10	छाई	VM	B-VGF	o	-	MorphAnalysis : | < fs af='छा,v,f,sg,any,,या,yA'>
+story20.txt	0	11	रही	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='रह,v,f,sg,any,,या,yA'>
+story20.txt	0	12	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	मौसम	XC	B-NP	o	-	MorphAnalysis : | < fs af='मौसम,n,m,sg,3,d,0,0'> | < fs af='मौसम,n,m,pl,3,d,0,0'> | < fs af='मौसम,n,m,sg,3,o,0,0'>
+story20.txt	0	1	विभाग	NN	I-NP	o	-	MorphAnalysis : | < fs af='विभाग,n,m,sg,3,d,0,0'> | < fs af='विभाग,n,m,pl,3,d,0,0'> | < fs af='विभाग,n,m,sg,3,o,0,0'>
+story20.txt	0	2	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story20.txt	0	3	अधिकारियों	NN	B-NP	o	-	MorphAnalysis : | < fs af='अधिकारी,n,m,pl,3,o,0,0'>
+story20.txt	0	4	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story20.txt	0	5	मुताबिक	PSP	I-NP	o	-	MorphAnalysis : | < fs af='मुताबिक,adv,,,,,,'> | < fs af='मुताबिक,adj,any,any,,any,,'>
+story20.txt	0	6	कुछ	QF	B-NP	o	-	MorphAnalysis : | < fs af='कुछ,adv,,,,,,'> | < fs af='कुछ,adj,any,any,,any,,'> | < fs af='कुछ,n,m,sg,3,d,0,0'> | < fs af='कुछ,n,m,pl,3,d,0,0'> | < fs af='कुछ,n,m,sg,3,o,0,0'> | < fs af='कुछ,n,m,pl,3,o,0,0'>
+story20.txt	0	7	समय	NN	I-NP	o	-	MorphAnalysis : | < fs af='समय,n,m,sg,3,d,0,0'> | < fs af='समय,n,m,pl,3,d,0,0'> | < fs af='समय,n,m,sg,3,o,0,0'>
+story20.txt	0	8	तक	RP	I-NP	o	-	MorphAnalysis : | < fs af='तक,n,m,sg,3,d,0,0'> | < fs af='तक,n,m,pl,3,d,0,0'> | < fs af='तक,n,m,sg,3,o,0,0'> | < fs af='तक,adv,,,,,,'> | < fs af='तक,psp,,,,,,'> | < fs af='तक,v,any,any,any,,0,0'>
+story20.txt	0	9	कोहरे	NN	B-NP	o	-	MorphAnalysis : | < fs af='कोहरा,n,m,pl,3,d,0,0'> | < fs af='कोहरा,n,m,sg,3,o,0,0'>
+story20.txt	0	10	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
+story20.txt	0	11	यही	DEM	B-NP	o	-	MorphAnalysis : | < fs af='यही,adv,,,,,,'> | < fs af='यही,avy,,,,,,'> | < fs af='यह,pn,any,sg,3,d,0,0' emph='y'>
+story20.txt	0	12	स्थिति	NN	I-NP	o	-	MorphAnalysis : | < fs af='स्थिति,n,f,sg,3,d,0,0'> | < fs af='स्थिति,n,f,sg,3,o,0,0'>
+story20.txt	0	13	बनी	VM	B-VGF	o	-	MorphAnalysis : | < fs af='बन,v,f,sg,any,,या,yA'>
+story20.txt	0	14	रहेगी	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='रह,v,f,sg,2,,गा,gA'> | < fs af='रह,v,f,sg,3,,गा,gA'>
+story20.txt	0	15	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	पालम	XC	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='पालम,unk,,,,,,'>
+story20.txt	0	1	क्षेत्र	NNP	I-NP	o	-	MorphAnalysis : | < fs af='क्षेत्र,n,m,sg,3,d,0,0'> | < fs af='क्षेत्र,n,m,pl,3,d,0,0'> | < fs af='क्षेत्र,n,m,sg,3,o,0,0'>
+story20.txt	0	2	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	3	तड़के	NN	B-NP	o	-	MorphAnalysis : | < fs af='तड़के,adv,,,,,,'> | < fs af='तड़का,n,m,pl,3,d,0,0'> | < fs af='तड़का,n,m,sg,3,o,0,0'> | < fs af='तड़क,v,any,sg,2,,ए,e'> | < fs af='तड़क,v,any,sg,3,,ए,e'> | < fs af='तड़क,v,m,pl,any,,या,yA'>
+story20.txt	0	4	जबरदस्त	JJ	B-NP	o	(10	MorphAnalysis : | < fs af='जबरदस्त,adj,any,any,,any,,'>
+story20.txt	0	5	कोहरा	NN	I-NP	o	10)	MorphAnalysis : | < fs af='कोहरा,n,m,sg,3,d,0,0'>
+story20.txt	0	6	छा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='छा,v,any,any,any,,0,0'>
+story20.txt	0	7	गया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,m,sg,any,,या1,yA1'>
+story20.txt	0	8	जिसके	PRP	B-NP	o	(10)	MorphAnalysis : | < fs af='जो,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'> | < fs af='जो,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'> | < fs af='जो,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+story20.txt	0	9	कारण	PSP	I-NP	o	-	MorphAnalysis : | < fs af='कारण,n,m,sg,3,d,0,0'> | < fs af='कारण,n,m,pl,3,d,0,0'> | < fs af='कारण,n,m,sg,3,o,0,0'> | < fs af='कारण,psp,,,,,,'>
+story20.txt	0	10	पांच	XC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='पांच,n,m,sg,3,d,0,0'> | < fs af='पांच,n,m,pl,3,d,0,0'> | < fs af='पांच,n,m,sg,3,o,0,0'> | < fs af='पांच,adj,any,pl,,d,,'> | < fs af='पांच,adj,any,pl,,o,,'>
+story20.txt	0	11	सौ	QC	I-NP	B-MEASURE	-	MorphAnalysis : | < fs af='सौ,adj,any,pl,,d,,'> | < fs af='सौ,adj,any,pl,,o,,'> | < fs af='सौ,n,m,sg,3,d,0,0'> | < fs af='सौ,n,m,pl,3,d,0,0'> | < fs af='सौ,n,m,sg,3,o,0,0'> | < fs af='सौ,n,m,pl,3,o,0,0'>
+story20.txt	0	12	मीटर	NN	I-NP	B-MEASURE	-	MorphAnalysis : | < fs af='मीटर,n,m,sg,3,d,0,0'> | < fs af='मीटर,n,m,pl,3,d,0,0'> | < fs af='मीटर,n,m,sg,3,o,0,0'>
+story20.txt	0	13	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
+story20.txt	0	14	दूरी	NN	B-NP	o	-	MorphAnalysis : | < fs af='दूरी,n,f,sg,3,d,0,0'> | < fs af='दूरी,n,f,sg,3,o,0,0'>
+story20.txt	0	15	पर	PSP	I-NP	o	-	MorphAnalysis : | < fs af='पर,n,m,sg,3,d,0,0'> | < fs af='पर,n,m,pl,3,d,0,0'> | < fs af='पर,n,m,sg,3,o,0,0'> | < fs af='पर,avy,,,,,,'> | < fs af='पर,psp,,,,,,'>
+story20.txt	0	16	भी	RP	I-NP	o	-	MorphAnalysis : | < fs af='भी,adv,,,,,,'> | < fs af='भी,avy,,,,,,'>
+story20.txt	0	17	दिखना	VM	B-VGNN	o	-	MorphAnalysis : | < fs af='दिख,v,m,sg,any,,ना,nA'>
+story20.txt	0	18	बंद	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='बंद,n,m,sg,3,d,0,0'> | < fs af='बंद,n,m,pl,3,d,0,0'> | < fs af='बंद,n,m,sg,3,o,0,0'> | < fs af='बंद,adj,any,any,,any,,'>
+story20.txt	0	19	हो	VM	B-VGF	o	-	MorphAnalysis : | < fs af='हो,n,f,sg,3,d,0,0'> | < fs af='हो,n,f,pl,3,d,0,0'> | < fs af='हो,n,f,sg,3,o,0,0'> | < fs af='हो,n,f,pl,3,o,0,0'> | < fs af='हो,v,any,any,any,,0,0'> | < fs af='है,v,any,pl,2,,है,hE'>
+story20.txt	0	20	गया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,m,sg,any,,या1,yA1'>
+story20.txt	0	21	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	इसके	PRP	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'> | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'> | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
+story20.txt	0	1	चलते	PSP	I-NP	o	-	MorphAnalysis : | < fs af='चल,v,m,pl,any,,ता,wA'>
+story20.txt	0	2	समय	NN	B-NP	o	-	MorphAnalysis : | < fs af='समय,n,m,sg,3,d,0,0'> | < fs af='समय,n,m,pl,3,d,0,0'> | < fs af='समय,n,m,sg,3,o,0,0'>
+story20.txt	0	3	पर	PSP	I-NP	o	-	MorphAnalysis : | < fs af='पर,n,m,sg,3,d,0,0'> | < fs af='पर,n,m,pl,3,d,0,0'> | < fs af='पर,n,m,sg,3,o,0,0'> | < fs af='पर,avy,,,,,,'> | < fs af='पर,psp,,,,,,'>
+story20.txt	0	4	विमानों	NN	B-NP	o	-	MorphAnalysis : | < fs af='विमान,n,m,pl,3,o,0,0'>
+story20.txt	0	5	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
+story20.txt	0	6	उड़ानों	NN	B-NP	o	-	MorphAnalysis : | < fs af='उड़ान,n,f,pl,3,o,0,0'>
+story20.txt	0	7	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	8	दिक्कतें	NN	B-NP	o	-	MorphAnalysis : | < fs af='दिक्कत,n,f,pl,3,d,0,0'>
+story20.txt	0	9	आई	VM	B-VGF	o	-	MorphAnalysis : | < fs af='आ,v,f,sg,any,,या,yA'>
+story20.txt	0	10	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	लेकिन	CC	B-CCP	o	-	MorphAnalysis : | < fs af='लेकिन,avy,,,,,,'>
+story20.txt	0	1	भारतीय	JJ	B-NP	o	-	MorphAnalysis : | < fs af='भारतीय,n,m,sg,3,d,0,0'> | < fs af='भारतीय,n,m,pl,3,d,0,0'> | < fs af='भारतीय,n,m,sg,3,o,0,0'> | < fs af='भारतीय,adj,any,any,,any,,'>
+story20.txt	0	2	विमान	XC	I-NP	o	-	MorphAnalysis : | < fs af='विमान,n,m,sg,3,d,0,0'> | < fs af='विमान,n,m,pl,3,d,0,0'> | < fs af='विमान,n,m,sg,3,o,0,0'>
+story20.txt	0	3	पत्तन	NN	I-NP	o	-	MorphAnalysis : | < fs af='पत्तन,n,m,sg,3,d,0,0'> | < fs af='पत्तन,n,m,pl,3,d,0,0'> | < fs af='पत्तन,n,m,sg,3,o,0,0'>
+story20.txt	0	4	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story20.txt	0	5	प्रवक्ता	NN	B-NP	o	-	MorphAnalysis : | < fs af='प्रवक्ता,adj,any,any,,any,,'> | < fs af='प्रवक्ता,n,m,sg,3,d,0,0'> | < fs af='प्रवक्ता,n,m,pl,3,d,0,0'> | < fs af='प्रवक्ता,n,m,sg,3,o,0,0'>
+story20.txt	0	6	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story20.txt	0	7	अनुसार	PSP	I-NP	o	-	MorphAnalysis : | < fs af='अनुसार,adv,,,,,,'> | < fs af='अनुसार,psp,,,,,,'>
+story20.txt	0	8	विमानों	NN	B-NP	o	-	MorphAnalysis : | < fs af='विमान,n,m,pl,3,o,0,0'>
+story20.txt	0	9	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story20.txt	0	10	उतरने	VM	B-VGNN	o	-	MorphAnalysis : | < fs af='उतर,v,m,pl,any,,ना,nA'>
+story20.txt	0	11	व	CC	B-CCP	o	-	MorphAnalysis : | < fs af='व,avy,,,,,,'>
+story20.txt	0	12	उड़ान	NN	B-NP	o	-	MorphAnalysis : | < fs af='उड़ान,n,f,sg,3,d,0,0'> | < fs af='उड़ान,n,f,sg,3,o,0,0'>
+story20.txt	0	13	भरने	VM	B-VGNN	o	-	MorphAnalysis : | < fs af='भर,v,m,pl,any,,ना,nA'>
+story20.txt	0	14	भर	RP	I-VGNN	o	-	MorphAnalysis : | < fs af='भर,adv,,,,,,'> | < fs af='भर,adj,any,any,,any,,'> | < fs af='भर,n,m,sg,3,d,0,0'> | < fs af='भर,n,m,pl,3,d,0,0'> | < fs af='भर,n,m,sg,3,o,0,0'> | < fs af='भर,n,m,pl,3,o,0,0'> | < fs af='भर,v,any,any,any,,0,0'>
+story20.txt	0	15	की	PSP	I-VGNN	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
+story20.txt	0	16	रोशनी	NN	B-NP	o	-	MorphAnalysis : | < fs af='रोशनी,n,f,sg,3,d,0,0'> | < fs af='रोशनी,n,f,sg,3,o,0,0'>
+story20.txt	0	17	थी	VM	B-VGF	o	-	MorphAnalysis : | < fs af='था,v,f,sg,any,,था,WA'>
+story20.txt	0	18	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	सुबह	NN	B-NP	o	-	MorphAnalysis : | < fs af='सुबह,adv,,,,,,'> | < fs af='सुबह,n,f,sg,3,d,0,0'> | < fs af='सुबह,n,f,sg,3,o,0,0'>
+story20.txt	0	1	नौ	QC	B-NP	B-TIME	-	MorphAnalysis : | < fs af='नौ,adj,any,pl,,d,,'> | < fs af='नौ,adj,any,pl,,o,,'> | < fs af='नौ,n,m,sg,3,d,0,0'> | < fs af='नौ,n,m,pl,3,d,0,0'> | < fs af='नौ,n,m,sg,3,o,0,0'> | < fs af='नौ,n,m,pl,3,o,0,0'>
+story20.txt	0	2	बजे	NN	I-NP	I-TIME	-	MorphAnalysis : | < fs af='बजे,adv,,,,,,'> | < fs af='बजा,adj,m,sg,,o,,'> | < fs af='बजा,adj,m,pl,,d,,'> | < fs af='बजा,adj,m,pl,,o,,'> | < fs af='बज,v,any,sg,2,,ए,e'> | < fs af='बज,v,any,sg,3,,ए,e'> | < fs af='बज,v,m,pl,any,,या,yA'>
+story20.txt	0	3	सफदरजंग	XC	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='सफदरजंग,n,m,sg,3,d,0,0'> | < fs af='सफदरजंग,n,m,pl,3,d,0,0'> | < fs af='सफदरजंग,n,m,sg,3,o,0,0'> | < fs af='सफदरजंग,n,m,pl,3,o,0,0'>
+story20.txt	0	4	इलाके	NNP	I-NP	o	-	MorphAnalysis : | < fs af='इलाका,n,m,pl,3,d,0,0'> | < fs af='इलाका,n,m,sg,3,o,0,0'>
+story20.txt	0	5	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	6	पचास	QC	B-NP	B-MEASURE	-	MorphAnalysis : | < fs af='पचास,n,m,sg,3,d,0,0'> | < fs af='पचास,n,m,pl,3,d,0,0'> | < fs af='पचास,n,m,sg,3,o,0,0'> | < fs af='पचास,adj,any,pl,,d,,'> | < fs af='पचास,adj,any,pl,,o,,'>
+story20.txt	0	7	मीटर	NN	I-NP	I-MEASURE	-	MorphAnalysis : | < fs af='मीटर,n,m,sg,3,d,0,0'> | < fs af='मीटर,n,m,pl,3,d,0,0'> | < fs af='मीटर,n,m,sg,3,o,0,0'>
+story20.txt	0	8	तक	RP	I-NP	o	-	MorphAnalysis : | < fs af='तक,n,m,sg,3,d,0,0'> | < fs af='तक,n,m,pl,3,d,0,0'> | < fs af='तक,n,m,sg,3,o,0,0'> | < fs af='तक,adv,,,,,,'> | < fs af='तक,psp,,,,,,'> | < fs af='तक,v,any,any,any,,0,0'>
+story20.txt	0	9	भी	RP	I-NP	o	-	MorphAnalysis : | < fs af='भी,adv,,,,,,'> | < fs af='भी,avy,,,,,,'>
+story20.txt	0	10	नहीं	NEG	B-VGF	o	-	MorphAnalysis : | < fs af='नहीं,n,f,sg,3,d,0,0'> | < fs af='नहीं,n,f,pl,3,d,0,0'> | < fs af='नहीं,n,f,sg,3,o,0,0'> | < fs af='नहीं,n,f,pl,3,o,0,0'> | < fs af='नहीं,adv,,,,,,'> | < fs af='नहीं,avy,,,,,,'> | < fs af='नह,v,f,pl,any,,या,yA'>
+story20.txt	0	11	देखा	VM	I-VGF	o	-	MorphAnalysis : | < fs af='देखा,v,any,any,any,,0,0'> | < fs af='देख,v,m,sg,any,,या,yA'>
+story20.txt	0	12	जा	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,n,f,sg,3,d,0,0'> | < fs af='जा,n,f,sg,3,o,0,0'> | < fs af='जा,v,any,any,any,,0,0'>
+story20.txt	0	13	सकता	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='सकता,n,m,sg,3,d,0,0'> | < fs af='सक,v,m,sg,any,,ता,wA'>
+story20.txt	0	14	था	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='था,v,m,sg,any,,था,WA'>
+story20.txt	0	15	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	इसलिए	CC	B-CCP	o	-	MorphAnalysis : | < fs af='इसलिए,adv,,,,,,'> | < fs af='इसलिए,avy,,,,,,'>
+story20.txt	0	1	सुबह	NN	B-NP	o	-	MorphAnalysis : | < fs af='सुबह,adv,,,,,,'> | < fs af='सुबह,n,f,sg,3,d,0,0'> | < fs af='सुबह,n,f,sg,3,o,0,0'>
+story20.txt	0	2	सड़कों	NN	B-NP	o	-	MorphAnalysis : | < fs af='सड़क,n,f,pl,3,o,0,0'>
+story20.txt	0	3	पर	PSP	I-NP	o	-	MorphAnalysis : | < fs af='पर,n,m,sg,3,d,0,0'> | < fs af='पर,n,m,pl,3,d,0,0'> | < fs af='पर,n,m,sg,3,o,0,0'> | < fs af='पर,avy,,,,,,'> | < fs af='पर,psp,,,,,,'>
+story20.txt	0	4	भी	RP	I-NP	o	-	MorphAnalysis : | < fs af='भी,adv,,,,,,'> | < fs af='भी,avy,,,,,,'>
+story20.txt	0	5	यातायात	NN	B-NP	o	-	MorphAnalysis : | < fs af='यातायात,n,m,sg,3,d,0,0'> | < fs af='यातायात,n,m,pl,3,d,0,0'> | < fs af='यातायात,n,m,sg,3,o,0,0'> | < fs af='यातायात,n,m,pl,3,o,0,0'>
+story20.txt	0	6	न	NEG	B-NEGP	o	-	MorphAnalysis : | < fs af='न,adv,,,,,,'> | < fs af='न,avy,,,,,,'> | < fs af='न,n,m,sg,3,d,0,0'> | < fs af='न,n,m,pl,3,d,0,0'> | < fs af='न,n,m,sg,3,o,0,0'> | < fs af='न,n,m,pl,3,o,0,0'>
+story20.txt	0	7	के	PSP	I-NEGP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story20.txt	0	8	बराबर	PSP	I-NEGP	o	-	MorphAnalysis : | < fs af='बराबर,n,m,sg,3,d,0,0'> | < fs af='बराबर,n,m,pl,3,d,0,0'> | < fs af='बराबर,n,m,sg,3,o,0,0'> | < fs af='बराबर,adv,,,,,,'> | < fs af='बराबर,adj,any,any,,any,,'>
+story20.txt	0	9	रहा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='रह,v,m,sg,any,,या,yA'>
+story20.txt	0	10	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	राजधानी	NN	B-NP	o	-	MorphAnalysis : | < fs af='राजधानी,n,f,sg,3,d,0,0'> | < fs af='राजधानी,n,f,sg,3,o,0,0'>
+story20.txt	0	1	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
+story20.txt	0	2	वाहन	XC	B-NP	o	-	MorphAnalysis : | < fs af='वाहन,n,m,sg,3,d,0,0'> | < fs af='वाहन,n,m,pl,3,d,0,0'> | < fs af='वाहन,n,m,sg,3,o,0,0'>
+story20.txt	0	3	फ़ॉग	XC	I-NP	o	-	MorphAnalysis : | < fs af='फ़ौYग,unk,,,,,,'>
+story20.txt	0	4	लाइट	NN	I-NP	o	-	MorphAnalysis : | < fs af='लाइट,n,f,sg,3,d,0,0'> | < fs af='लाइट,n,f,sg,3,o,0,0'>
+story20.txt	0	5	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story20.txt	0	6	बावजूद	PSP	I-NP	o	-	MorphAnalysis : | < fs af='बावजूद,adv,,,,,,'> | < fs af='बावजूद,psp,,,,,,'>
+story20.txt	0	7	रेंगते	VM	B-VGNF	o	-	MorphAnalysis : | < fs af='रेंग,v,m,pl,any,,ता,wA'>
+story20.txt	0	8	नज़र	NN	B-NP	o	-	MorphAnalysis : | < fs af='नज़र,n,f,sg,3,d,0,0'> | < fs af='नज़र,n,f,sg,3,o,0,0'>
+story20.txt	0	9	आए	VM	B-VGF	o	-	MorphAnalysis : | < fs af='आ,v,any,sg,2,,ए,e'> | < fs af='आ,v,any,sg,3,,ए,e'> | < fs af='आ,v,m,pl,any,,या,yA'>
+story20.txt	0	10	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	इसी	DEM	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,0,0' emph='y'>
+story20.txt	0	1	कारण	NN	I-NP	o	-	MorphAnalysis : | < fs af='कारण,n,m,sg,3,d,0,0'> | < fs af='कारण,n,m,pl,3,d,0,0'> | < fs af='कारण,n,m,sg,3,o,0,0'> | < fs af='कारण,psp,,,,,,'>
+story20.txt	0	2	रेल	XC	B-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='रेल,n,f,sg,3,d,0,0'> | < fs af='रेल,n,f,sg,3,o,0,0'> | < fs af='रेल,v,any,any,any,,0,0'>
+story20.txt	0	3	विभाग	NN	I-NP	o	-	MorphAnalysis : | < fs af='विभाग,n,m,sg,3,d,0,0'> | < fs af='विभाग,n,m,pl,3,d,0,0'> | < fs af='विभाग,n,m,sg,3,o,0,0'>
+story20.txt	0	4	ने	PSP	I-NP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
+story20.txt	0	5	आज	NN	B-NP	o	-	MorphAnalysis : | < fs af='आज,adv,,,,,,'> | < fs af='आज,n,m,sg,3,d,0,0'> | < fs af='आज,n,m,pl,3,d,0,0'> | < fs af='आज,n,m,sg,3,o,0,0'> | < fs af='आज,n,m,pl,3,o,0,0'>
+story20.txt	0	6	सात	QC	B-NP	B-NUMBER	(11	MorphAnalysis : | < fs af='सात,n,m,sg,3,d,0,0'> | < fs af='सात,n,m,pl,3,d,0,0'> | < fs af='सात,n,m,sg,3,o,0,0'> | < fs af='सात,adj,any,pl,,d,,'> | < fs af='सात,adj,any,pl,,o,,'>
+story20.txt	0	7	ट्रेनें	NN	I-NP	o	11)	MorphAnalysis : | < fs af='ट्रेन,n,f,pl,3,d,0,0'>
+story20.txt	0	8	रद्द	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='रद्द,adj,any,any,,any,,'> | < fs af='रद्द,n,m,sg,3,d,0,0'> | < fs af='रद्द,n,m,pl,3,d,0,0'> | < fs af='रद्द,n,m,sg,3,o,0,0'> | < fs af='रद्द,n,m,pl,3,o,0,0'>
+story20.txt	0	9	कर	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कर,n,m,sg,3,d,0,0'> | < fs af='कर,n,m,pl,3,d,0,0'> | < fs af='कर,n,m,sg,3,o,0,0'> | < fs af='कर,v,any,any,any,,0,0'>
+story20.txt	0	10	दी	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='दे,v,f,sg,any,,या,yA'>
+story20.txt	0	11	हैं	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,pl,1,,है,hE'> | < fs af='है,v,any,pl,3,,है,hE'> | < fs af='है,v,any,any,2,,है,hE' hon='y'>
+story20.txt	0	12	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+story20.txt	0	0	इनमें	PRP	B-NP	o	(11)	MorphAnalysis : | < fs af='यह,pn,any,pl,3,o,में,meM'>
+story20.txt	0	1	दिल्ली	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='दिल्ली,n,f,sg,3,d,0,0'> | < fs af='दिल्ली,n,f,pl,3,d,0,0'> | < fs af='दिल्ली,n,f,sg,3,o,0,0'> | < fs af='दिल्ली,n,f,pl,3,o,0,0'>
+story20.txt	0	2	से	PSP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
+story20.txt	0	3	हावड़ा	XC	I-NP	o	-	MorphAnalysis : | < fs af='हावड़ा,n,m,sg,3,d,0,0'> | < fs af='हावड़ा,n,m,pl,3,d,0,0'> | < fs af='हावड़ा,n,m,sg,3,o,0,0'> | < fs af='हावड़ा,n,m,pl,3,o,0,0'>
+story20.txt	0	4	जनता	XC	I-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='जनता,n,f,sg,3,d,0,0'> | < fs af='जनता,n,f,sg,3,o,0,0'> | < fs af='जन,v,m,sg,any,,ता,wA'>
+story20.txt	0	5	दिल्ली	XC	I-NP	B-LOCATION	-	MorphAnalysis : | < fs af='दिल्ली,n,f,sg,3,d,0,0'> | < fs af='दिल्ली,n,f,pl,3,d,0,0'> | < fs af='दिल्ली,n,f,sg,3,o,0,0'> | < fs af='दिल्ली,n,f,pl,3,o,0,0'>
+story20.txt	0	6	-	SYM	I-NP	o	-	MorphAnalysis : | < fs af='-,punc,,,,,,'>
+story20.txt	0	7	मालदा	XC	I-NP	o	-	MorphAnalysis : | < fs af='मालदा,n,m,sg,3,d,0,0'> | < fs af='मालदा,n,m,pl,3,d,0,0'> | < fs af='मालदा,n,m,sg,3,o,0,0'> | < fs af='मालदा,n,m,pl,3,o,0,0'>
+story20.txt	0	8	फरक्का	XC	I-NP	o	-	MorphAnalysis : | < fs af='फरक्का,unk,,,,,,'>
+story20.txt	0	9	एक्सप्रेस	NNP	I-NP	o	-	MorphAnalysis : | < fs af='एक्सप्रेस,n,m,sg,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,sg,3,o,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,o,0,0'>
+story20.txt	0	10	,	SYM	I-NP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
+story20.txt	0	11	मुगलसराय	XC	B-NP	o	-	MorphAnalysis : | < fs af='मुगलसराय,n,m,sg,3,d,0,0'> | < fs af='मुगलसराय,n,m,pl,3,d,0,0'> | < fs af='मुगलसराय,n,m,sg,3,o,0,0'> | < fs af='मुगलसराय,n,m,pl,3,o,0,0'>
+story20.txt	0	12	-JOIN	SYM	I-NP	o	-	MorphAnalysis : | < fs af='-औईण्,unk,,,,,,'>
+story20.txt	0	13	बरेली	XC	I-NP	B-LOCATION	-	MorphAnalysis : | < fs af='बरेली,n,m,sg,3,d,0,0'> | < fs af='बरेली,n,m,pl,3,d,0,0'> | < fs af='बरेली,n,m,sg,3,o,0,0'> | < fs af='बरेली,n,m,pl,3,o,0,0'>
+story20.txt	0	14	एक्सप्रेस	NNP	I-NP	o	-	MorphAnalysis : | < fs af='एक्सप्रेस,n,m,sg,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,sg,3,o,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,o,0,0'>
+story20.txt	0	15	,	SYM	I-NP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
+story20.txt	0	16	दिल्ली	XC	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='दिल्ली,n,f,sg,3,d,0,0'> | < fs af='दिल्ली,n,f,pl,3,d,0,0'> | < fs af='दिल्ली,n,f,sg,3,o,0,0'> | < fs af='दिल्ली,n,f,pl,3,o,0,0'>
+story20.txt	0	17	-	SYM	I-NP	o	-	MorphAnalysis : | < fs af='-,punc,,,,,,'>
+story20.txt	0	18	मुगलसराय	XC	I-NP	o	-	MorphAnalysis : | < fs af='मुगलसराय,n,m,sg,3,d,0,0'> | < fs af='मुगलसराय,n,m,pl,3,d,0,0'> | < fs af='मुगलसराय,n,m,sg,3,o,0,0'> | < fs af='मुगलसराय,n,m,pl,3,o,0,0'>
+story20.txt	0	19	लालकिला	XC	I-NP	B-LOCATION	-	MorphAnalysis : | < fs af='लालकिला,n,m,sg,3,d,0,0'> | < fs af='लालकिला,n,m,pl,3,d,0,0'> | < fs af='लालकिला,n,m,sg,3,o,0,0'> | < fs af='लालकिला,n,m,pl,3,o,0,0'>
+story20.txt	0	20	एक्सप्रेस	NNP	I-NP	o	-	MorphAnalysis : | < fs af='एक्सप्रेस,n,m,sg,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,sg,3,o,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,o,0,0'>
+story20.txt	0	21	,	SYM	I-NP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
+story20.txt	0	22	अंबाला	XC	B-NP	o	-	MorphAnalysis : | < fs af='अंबाला,n,m,sg,3,d,0,0'> | < fs af='अंबाला,n,m,pl,3,d,0,0'> | < fs af='अंबाला,n,m,sg,3,o,0,0'> | < fs af='अंबाला,n,m,pl,3,o,0,0'>
+story20.txt	0	23	-JOIN	SYM	I-NP	o	-	MorphAnalysis : | < fs af='-औईण्,unk,,,,,,'>
+story20.txt	0	24	इलाहाबाद	XC	I-NP	B-LOCATION	-	MorphAnalysis : | < fs af='इलाहाबाद,n,m,sg,3,d,0,0'> | < fs af='इलाहाबाद,n,m,pl,3,d,0,0'> | < fs af='इलाहाबाद,n,m,sg,3,o,0,0'> | < fs af='इलाहाबाद,n,m,pl,3,o,0,0'>
+story20.txt	0	25	ऊंचाहार	XC	I-NP	o	-	MorphAnalysis : | < fs af='ऊंचाहार,unk,,,,,,'>
+story20.txt	0	26	एक्सप्रेस	NNP	I-NP	o	-	MorphAnalysis : | < fs af='एक्सप्रेस,n,m,sg,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,sg,3,o,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,o,0,0'>
+story20.txt	0	27	,	SYM	I-NP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
+story20.txt	0	28	दिल्ली	XC	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='दिल्ली,n,f,sg,3,d,0,0'> | < fs af='दिल्ली,n,f,pl,3,d,0,0'> | < fs af='दिल्ली,n,f,sg,3,o,0,0'> | < fs af='दिल्ली,n,f,pl,3,o,0,0'>
+story20.txt	0	29	-	SYM	I-NP	o	-	MorphAnalysis : | < fs af='-,punc,,,,,,'>
+story20.txt	0	30	फरुखाबाद	XC	I-NP	B-LOCATION	-	MorphAnalysis : | < fs af='फरुखाबाद,unk,,,,,,'>
+story20.txt	0	31	कालिंदी	XC	I-NP	o	-	MorphAnalysis : | < fs af='कालिंदी,n,f,sg,3,d,0,0'> | < fs af='कालिंदी,n,f,pl,3,d,0,0'> | < fs af='कालिंदी,n,f,sg,3,o,0,0'> | < fs af='कालिंदी,n,f,pl,3,o,0,0'>
+story20.txt	0	32	एक्सप्रेस	NNP	I-NP	o	-	MorphAnalysis : | < fs af='एक्सप्रेस,n,m,sg,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,sg,3,o,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,o,0,0'>
+story20.txt	0	33	व	CC	B-CCP	o	-	MorphAnalysis : | < fs af='व,avy,,,,,,'>
+story20.txt	0	34	नई	XC	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='नयी,n,f,sg,,d,0,0'> | < fs af='नयी,n,f,pl,,d,0,0'> | < fs af='नयी,n,f,sg,,o,0,0'> | < fs af='नयी,n,f,pl,,o,0,0'> | < fs af='नया,adj,f,any,,any,0,0'>
+story20.txt	0	35	दिल्ली	XC	I-NP	I-LOCATION	-	MorphAnalysis : | < fs af='दिल्ली,n,f,sg,3,d,0,0'> | < fs af='दिल्ली,n,f,pl,3,d,0,0'> | < fs af='दिल्ली,n,f,sg,3,o,0,0'> | < fs af='दिल्ली,n,f,pl,3,o,0,0'>
+story20.txt	0	36	-	SYM	I-NP	o	-	MorphAnalysis : | < fs af='-,punc,,,,,,'>
+story20.txt	0	37	रीवां	XC	I-NP	B-LOCATION	-	MorphAnalysis : | < fs af='रीवां,n,m,sg,3,d,0,0'> | < fs af='रीवां,n,m,pl,3,d,0,0'> | < fs af='रीवां,n,m,sg,3,o,0,0'> | < fs af='रीवां,n,m,pl,3,o,0,0'>
+story20.txt	0	38	एक्सप्रेस	NNP	I-NP	o	-	MorphAnalysis : | < fs af='एक्सप्रेस,n,m,sg,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,d,0,0'> | < fs af='एक्सप्रेस,n,m,sg,3,o,0,0'> | < fs af='एक्सप्रेस,n,m,pl,3,o,0,0'>
+story20.txt	0	39	शामिल	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='शामिल,n,m,sg,3,d,0,0'> | < fs af='शामिल,n,m,pl,3,d,0,0'> | < fs af='शामिल,n,m,sg,3,o,0,0'> | < fs af='शामिल,adj,any,any,,any,,'>
+story20.txt	0	40	हैं	VM	B-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,pl,1,,है,hE'> | < fs af='है,v,any,pl,3,,है,hE'> | < fs af='है,v,any,any,2,,है,hE' hon='y'>
+story20.txt	0	41	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
+
+
+#end document

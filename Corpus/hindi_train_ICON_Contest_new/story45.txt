@@ -54,9 +54,9 @@ story45.txt	0	0	इस	DEM	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,any,sg,
 story45.txt	0	1	मामले	NN	I-NP	o	-	MorphAnalysis : | < fs af='मामला,n,m,pl,3,d,0,0'> | < fs af='मामला,n,m,sg,3,o,0,0'>
 story45.txt	0	2	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
 story45.txt	0	3	पूर्व	JJ	B-NP	o	(2	MorphAnalysis : | < fs af='पूर्व,adv,,,,,,'> | < fs af='पूर्व,adj,any,any,,any,,'> | < fs af='पूर्व,n,m,sg,3,d,0,0'> | < fs af='पूर्व,n,m,pl,3,d,0,0'> | < fs af='पूर्व,n,m,sg,3,o,0,0'> | < fs af='पूर्व,n,m,pl,3,o,0,0'>
-story45.txt	0	4	विदेश	XC	I-NP	o	-	MorphAnalysis : | < fs af='विदेश,n,m,sg,3,d,0,0'> | < fs af='विदेश,n,m,pl,3,d,0,0'> | < fs af='विदेश,n,m,sg,3,o,0,0'>
-story45.txt	0	5	मंत्री	XC	I-NP	o	-	MorphAnalysis : | < fs af='मंत्री,n,m,sg,3,d,0,0'> | < fs af='मंत्री,n,m,pl,3,d,0,0'> | < fs af='मंत्री,n,m,sg,3,o,0,0'>
-story45.txt	0	6	नटवर	XC	I-NP	o	-	MorphAnalysis : | < fs af='नटवर,n,m,sg,3,d,0,0'> | < fs af='नटवर,n,m,pl,3,d,0,0'> | < fs af='नटवर,n,m,sg,3,o,0,0'> | < fs af='नटवर,n,m,pl,3,o,0,0'>
+story45.txt	0	4	विदेश	XC	I-NP	o	2	MorphAnalysis : | < fs af='विदेश,n,m,sg,3,d,0,0'> | < fs af='विदेश,n,m,pl,3,d,0,0'> | < fs af='विदेश,n,m,sg,3,o,0,0'>
+story45.txt	0	5	मंत्री	XC	I-NP	o	2	MorphAnalysis : | < fs af='मंत्री,n,m,sg,3,d,0,0'> | < fs af='मंत्री,n,m,pl,3,d,0,0'> | < fs af='मंत्री,n,m,sg,3,o,0,0'>
+story45.txt	0	6	नटवर	XC	I-NP	o	2	MorphAnalysis : | < fs af='नटवर,n,m,sg,3,d,0,0'> | < fs af='नटवर,n,m,pl,3,d,0,0'> | < fs af='नटवर,n,m,sg,3,o,0,0'> | < fs af='नटवर,n,m,pl,3,o,0,0'>
 story45.txt	0	7	सिंह	NNP	I-NP	B-PERSON	2)	MorphAnalysis : | < fs af='सिंह,n,m,sg,3,d,0,0'> | < fs af='सिंह,n,m,pl,3,d,0,0'> | < fs af='सिंह,n,m,sg,3,o,0,0'>
 story45.txt	0	8	,	SYM	B-CCP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
 story45.txt	0	9	उनके	PRP	B-NP	o	(2)	MorphAnalysis : | < fs af='वह,pn,any,pl,3,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'> | < fs af='वह,pn,any,pl,3,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'> | < fs af='वह,pn,any,pl,3,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>

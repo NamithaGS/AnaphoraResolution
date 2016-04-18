@@ -146,7 +146,7 @@ story39.txt	0	17	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 story39.txt	0	0	इसके	PRP	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'> | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'> | < fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'>
 story39.txt	0	1	मद्देनजर	PSP	I-NP	o	-	MorphAnalysis : | < fs af='मद्देनजर,adv,,,,,,'>
 story39.txt	0	2	हवाई	XC	B-NP	B-LOCATION	(2	MorphAnalysis : | < fs af='हवाई,adj,any,any,,any,,'>
-story39.txt	0	3	अड्डों	NN	I-NP	o	-	MorphAnalysis : | < fs af='अड्डा,n,m,pl,3,o,0,0'>
+story39.txt	0	3	अड्डों	NN	I-NP	o	2	MorphAnalysis : | < fs af='अड्डा,n,m,pl,3,o,0,0'>
 story39.txt	0	4	का	PSP	I-NP	o	2)	MorphAnalysis : | < fs af='का,psp,m,sg,,d,का,kA'>
 story39.txt	0	5	वाणिज्यिक	JJ	B-NP	o	-	MorphAnalysis : | < fs af='वाणिज्यिक,adj,any,any,,any,,'>
 story39.txt	0	6	उपयोग	NN	I-NP	o	-	MorphAnalysis : | < fs af='उपयोग,n,m,sg,3,d,0,0'> | < fs af='उपयोग,n,m,pl,3,d,0,0'> | < fs af='उपयोग,n,m,sg,3,o,0,0'>
@@ -218,8 +218,8 @@ story39.txt	0	21	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story39.txt	0	0	यदि	CC	B-CCP	o	-	MorphAnalysis : | < fs af='यदि,adv,,,,,,'> | < fs af='यदि,avy,,,,,,'>
 story39.txt	0	1	किसी	PRP	B-NP	o	(3	MorphAnalysis : | < fs af='कोई,pn,any,sg,3,o,0,0'>
-story39.txt	0	2	प्रमुख	JJ	I-NP	o	-	MorphAnalysis : | < fs af='प्रमुख,n,m,sg,3,d,0,0'> | < fs af='प्रमुख,n,m,pl,3,d,0,0'> | < fs af='प्रमुख,n,m,sg,3,o,0,0'> | < fs af='प्रमुख,adj,any,any,,any,,'>
-story39.txt	0	3	स्थान	NN	I-NP	o	-	MorphAnalysis : | < fs af='स्थान,n,m,sg,3,d,0,0'> | < fs af='स्थान,n,m,pl,3,d,0,0'> | < fs af='स्थान,n,m,sg,3,o,0,0'>
+story39.txt	0	2	प्रमुख	JJ	I-NP	o	3	MorphAnalysis : | < fs af='प्रमुख,n,m,sg,3,d,0,0'> | < fs af='प्रमुख,n,m,pl,3,d,0,0'> | < fs af='प्रमुख,n,m,sg,3,o,0,0'> | < fs af='प्रमुख,adj,any,any,,any,,'>
+story39.txt	0	3	स्थान	NN	I-NP	o	3	MorphAnalysis : | < fs af='स्थान,n,m,sg,3,d,0,0'> | < fs af='स्थान,n,m,pl,3,d,0,0'> | < fs af='स्थान,n,m,sg,3,o,0,0'>
 story39.txt	0	4	पर	PSP	I-NP	o	3)	MorphAnalysis : | < fs af='पर,n,m,sg,3,d,0,0'> | < fs af='पर,n,m,pl,3,d,0,0'> | < fs af='पर,n,m,sg,3,o,0,0'> | < fs af='पर,avy,,,,,,'> | < fs af='पर,psp,,,,,,'>
 story39.txt	0	5	होटल	NN	B-NP	o	-	MorphAnalysis : | < fs af='होटल,n,m,sg,3,d,0,0'> | < fs af='होटल,n,m,pl,3,d,0,0'> | < fs af='होटल,n,m,sg,3,o,0,0'>
 story39.txt	0	6	से	PSP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>

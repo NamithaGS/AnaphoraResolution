@@ -21,8 +21,8 @@ story95.txt	0	17	पब्लिक	XC	I-NP	I-ORGANIZATION	-	MorphAnalysis : | <
 story95.txt	0	18	स्कूल	NNP	I-NP	I-ORGANIZATION	-	MorphAnalysis : | < fs af='स्कूल,n,m,sg,3,d,0,0'> | < fs af='स्कूल,n,m,pl,3,d,0,0'> | < fs af='स्कूल,n,m,sg,3,o,0,0'>
 story95.txt	0	19	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story95.txt	0	20	करीब	RP	B-NP	o	(1	MorphAnalysis : | < fs af='करीब,n,m,sg,3,d,0,0'> | < fs af='करीब,n,m,pl,3,d,0,0'> | < fs af='करीब,n,m,sg,3,o,0,0'> | < fs af='करीब,adv,,,,,,'> | < fs af='करीब,psp,,,,,,'>
-story95.txt	0	21	१०००	QC	I-NP	B-NUMBER	-	MorphAnalysis : | < fs af='1000,num,,,,,,'>
-story95.txt	0	22	छात्रों	NN	I-NP	o	-	MorphAnalysis : | < fs af='छात्र,n,m,pl,3,o,0,0'>
+story95.txt	0	21	१०००	QC	I-NP	B-NUMBER	1	MorphAnalysis : | < fs af='1000,num,,,,,,'>
+story95.txt	0	22	छात्रों	NN	I-NP	o	1	MorphAnalysis : | < fs af='छात्र,n,m,pl,3,o,0,0'>
 story95.txt	0	23	ने	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story95.txt	0	24	अपने	PRP	B-NP	o	(1)	MorphAnalysis : | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'> | < fs af='अपना,adj,m,sg,,o,,'> | < fs af='अपना,adj,m,pl,,d,,'> | < fs af='अपना,adj,m,pl,,o,,'>
 story95.txt	0	25	साथी	NN	I-NP	o	-	MorphAnalysis : | < fs af='साथी,n,m,sg,3,d,0,0'> | < fs af='साथी,n,m,pl,3,d,0,0'> | < fs af='साथी,n,m,sg,3,o,0,0'>
