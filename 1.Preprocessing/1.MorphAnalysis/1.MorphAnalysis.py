@@ -18,6 +18,7 @@ sys.setdefaultencoding('utf8')
 #input train data
 trainfoldername = 'C:\Users\Namithaa\Desktop\NLP\project\corpus\DATADATADATA\hi_test'
 
+#output morphologically analysed train data
 newfoldername = 'C:\Users\Namithaa\Desktop\NLP\project\corpus\DATADATADATA\hi_test_new'
 
 def getdata(page):
@@ -63,6 +64,7 @@ for path1,dir,files in os.walk(trainfoldername):
                        req.add_header("Content-type", "application/x-www-form-urlencoded")
                        page=urllib2.urlopen(req).read()
 
+					   # request to the sampark tool for morphological data for the word
                        page1 = requests.post(path,   params=mydata)
 
                        printtext = getdata(page1.text)

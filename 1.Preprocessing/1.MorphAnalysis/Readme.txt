@@ -1,6 +1,10 @@
 MorphAnalysis.py
 ----------------
+Morphological analysis is taken from the Sampark tool @:
+http://sampark.iiit.ac.in/hindimorph/web/restapi.php/indic/morphclient
+
 Input in the program:
+----------------------
 
 trainfoldername = 'Training folder name'
 newfoldername = 'Training folder with morphological analysis'
