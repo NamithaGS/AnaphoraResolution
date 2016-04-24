@@ -16,9 +16,9 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 #input train data
-trainfoldername = 'C:\Users\Namithaa\Desktop\NLP\project\corpus\DATADATADATA\hindi_train_ICON_Contest'
+trainfoldername = 'C:\Users\Namithaa\Desktop\NLP\project\corpus\DATADATADATA\hi_test'
 
-newfoldername = 'C:\Users\Namithaa\Desktop\NLP\project\corpus\DATADATADATA\hindi_train_ICON_Contest_new'
+newfoldername = 'C:\Users\Namithaa\Desktop\NLP\project\corpus\DATADATADATA\hi_test_new'
 
 def getdata(page):
     aa = page.split("\n")
