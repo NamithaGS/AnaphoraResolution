@@ -1,0 +1,17 @@
+उनकी	क्षेत्र	NN	any	m	pl	sg	1	o	3	3	False
+उनकी	देवगौड़ा	NNP	any	-	pl	-	1	I-PERSON	3	-	False
+उनकी	बुधवार	NNP	any	m	pl	sg	1	o	3	3	False
+उनकी	धड़े	NN	any	m	pl	pl	1	o	3	-	False
+उनकी	देश	NN	any	m	pl	sg	1	o	3	3	False
+उनकी	शो	NN	any	m	pl	sg	1	o	3	3	False
+उनकी	मंच	NN	any	m	pl	sg	1	o	3	3	False
+उनकी	इस्तेमाल	NN	any	m	pl	sg	1	o	3	3	False
+उनकी	प्रधानमंत्री	NN	any	m	pl	sg	1	o	3	3	False
+उनकी	एस	NNP	any	-	pl	-	1	o	3	-	False
+उनकी	निशाना	NN	any	m	pl	sg	1	o	3	3	False
+उनकी	सिरे	NN	any	m	pl	pl	1	o	3	3	False
+उनकी	प्रधानमंत्री	NN	any	m	pl	sg	0	o	3	3	True
+उनकी	दिग्गजों	NN	any	m	pl	pl	0	o	3	3	False
+उनकी	कर्नाटक	NN	any	m	pl	sg	0	B-LOCATION	3	3	False
+उनकी	कांग्रेस	NNP	any	f	pl	sg	0	B-ORGANIZATION	3	3	False
+

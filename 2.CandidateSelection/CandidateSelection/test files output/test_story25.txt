@@ -1,0 +1,5 @@
+इसके	एसबीआई	NNP	any	-	sg	-	1	B-ORGANIZATION	3	-	False
+इसके	स्कीम	NNP	any	m	sg	sg	1	o	3	3	True
+इसके	बैंक	NN	any	m	sg	sg	1	o	3	3	False
+इसके	लोगों	NN	any	m	sg	pl	1	o	3	3	False
+

@@ -1,0 +1,26 @@
+वहां	जरूरत	NN	-	f	-	sg	1	o	-	3	False
+वहां	अधिकारियों	NN	-	m	-	pl	1	o	-	3	False
+वहां	बारिश	NN	-	f	-	sg	1	o	-	3	False
+वहां	नुकसान	NN	-	m	-	sg	1	o	-	3	False
+वहां	आकलन	NN	-	m	-	sg	1	o	-	3	False
+वहां	राज्यों	NN	-	m	-	pl	1	o	-	3	False
+वहां	अधिकारियों	NN	-	m	-	pl	1	o	-	3	False
+वहां	टीम	NN	-	f	-	sg	1	o	-	3	False
+वहां	दल	NN	-	m	-	sg	0	o	-	3	False
+वहां	प्रदेश	NNP	-	m	-	sg	0	I-LOCATION	-	3	True
+वहां	दिनों	NN	-	m	-	pl	0	o	-	3	False
+वहां	बारिश	NN	-	f	-	sg	0	o	-	3	False
+वहां	तूफान	NN	-	m	-	sg	0	o	-	3	False
+वहां	नुकसान	NN	-	m	-	sg	0	o	-	3	False
+वहां	जायजा	NN	-	m	-	sg	0	o	-	3	False
+वहां	अधिकारियों	NN	-	m	-	pl	0	o	-	3	False
+वहां	मंत्रालय	NN	-	m	-	sg	3	B-ORGANIZATION	-	3	False
+वहां	बात	NN	-	f	-	sg	3	o	-	3	False
+वहां	सरकारें	NN	-	f	-	pl	2	o	-	3	False
+वहां	बारिश	NN	-	f	-	sg	2	o	-	3	False
+वहां	नुकसान	NN	-	m	-	sg	2	o	-	3	False
+वहां	भरपाई	NN	-	f	-	sg	2	o	-	3	False
+वहां	सरकार	NN	-	f	-	sg	2	I-ORGANIZATION	-	3	False
+वहां	मदद	NN	-	f	-	sg	2	o	-	3	False
+वहां	गुहार	NN	-	f	-	sg	2	o	-	3	False
+
