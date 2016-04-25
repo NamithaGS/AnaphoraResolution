@@ -4,45 +4,48 @@ import codecs
 import re
 
 #################################################################3
-#This program parses each input file line by line and returns a dictionary data structure of the required features
-# These are the fields in rootDir #
+#This program parses each input file line by line and returns a list data structure of the required features
+# These are the fields in rootList #
 # [0] -> Word #
 # [1] -> POS #
 # [2] -> Chunk Tag #
 # [3] -> NER #
-# [4] -> NER #
+# [4] -> Annaphora
 # [5] -> isAnnaphora #
 # [6] -> isCandidate #
 # [7] -> Gender#
 # [8] -> singular/plural #
-# [9] -> Ann number
-# [10] -> Candidate number#
-# Usage: rootDir[sentence number][word number][0-6]#
+# [9] -> 1st 2nd or 3rd person
+# [10] -> Ann number
+# [11] -> Candidate number#
+# Usage: rootList[sentence number][word number][0-11]#
  
-accepted_annaphora_list=[]
+#accepted_annaphora_list=[]
 #List of pronouns and their inflectional forms which are acceptable annaphoras 
-accepted_annaphora_list = ['जिन्हें','मैं','हम','आप' ,'तुम' ,'तू' ,'यह' ,'वह' ,'ये' ,'वे' ,'मुझे' ,'मुझको' ,'हमें' ,'हमको' ,'तुझे' ,'तुझको' ,'तुम्हें' ,'तुमको' ,'आपको' ,'इसे' ,'इसको' ,'इन्हें' ,'इनको' ,'उसे' ,'उस','उसको' ,'उन्हें' ,'उन','उनको' ,'मैंने' ,'हमने' ,'तुने' ,'तुमने' ,'आपने' ,'इसने' ,'इन्होंने' ,'उसने' ,'उन्होंने' ,'मुझसे' ,'हमसे' ,'तुझसे' ,'तुमसे' ,'आपसे' ,'इससे' ,'इनसे' ,'उससे' ,'उनसे' ,'मेरा' ,'मेरी' ,'मेरे' ,'तेरा' ,'तेरी' ,'तेरे' ,'हमारा' ,'हमारी' ,'हमारे' ,'आपका' ,'तुम्हारा' ,'इसका' ,'उसका' ,'इनका' ,'उनका' ,'उनकी' ,'उनके' ,'तुम्हारा' ,'तुम्हारी' ,'तुम्हारे' ,'आपकी' ,'आपके' ,'इसकी' ,'उसकी' ,'इसके' ,'उसके' ,'इनकी' ,'इनके' ,'मुझमे' ,'हममें' ,'तुझमें' ,'आपमें' ,'उसमें' ,'उनमें' ,'इसमें' ,'इनमें' ,'जो' ,'जिसने' ,'जिसे' ,'जिससे' ,'जिसको' ,'जिसका' ,'जिसकी' ,'जिसके' ,'जिसमें' ,'जिन्होनें' ,'जिन्हे' ,'जिनसे' ,'जिनको' ,'जिनका' ,'जिनकी' ,'जिनके' ,'जिनमें' ,'अपना' ,'अपने' ,'अपनी' ,'अपनों' ,'अपनेआप' ,'स्वयं' ,'खुद' ,'कोई' ,'कुछ' ,'सभी' ,'यहां' ,'यहाँ' ,'वहां' ,'वहाँ' ,'जहां' ,'जहाँ' ]
+#accepted_annaphora_list = ['जिन्हें','मैं','हम','आप' ,'तुम' ,'तू' ,'यह' ,'वह' ,'ये' ,'वे' ,'मुझे' ,'मुझको' ,'हमें' ,'हमको' ,'तुझे' ,'तुझको' ,'तुम्हें' ,'तुमको' ,'आपको' ,'इसे' ,'इसको' ,'इन्हें' ,'इनको' ,'उसे' ,'उस','उसको' ,'उन्हें' ,'उन','उनको' ,'मैंने' ,'हमने' ,'तुने' ,'तुमने' ,'आपने' ,'इसने' ,'इन्होंने' ,'उसने' ,'उन्होंने' ,'मुझसे' ,'हमसे' ,'तुझसे' ,'तुमसे' ,'आपसे' ,'इससे' ,'इनसे' ,'उससे' ,'उनसे' ,'मेरा' ,'मेरी' ,'मेरे' ,'तेरा' ,'तेरी' ,'तेरे' ,'हमारा' ,'हमारी' ,'हमारे' ,'आपका' ,'तुम्हारा' ,'इसका' ,'उसका' ,'इनका' ,'उनका' ,'उनकी' ,'उनके' ,'तुम्हारा' ,'तुम्हारी' ,'तुम्हारे' ,'आपकी' ,'आपके' ,'इसकी' ,'उसकी' ,'इसके' ,'उसके' ,'इनकी' ,'इनके' ,'मुझमे' ,'हममें' ,'तुझमें' ,'आपमें' ,'उसमें' ,'उनमें' ,'इसमें' ,'इनमें' ,'जो' ,'जिसने' ,'जिसे' ,'जिससे' ,'जिसको' ,'जिसका' ,'जिसकी' ,'जिसके' ,'जिसमें' ,'जिन्होनें' ,'जिन्हे' ,'जिनसे' ,'जिनको' ,'जिनका' ,'जिनकी' ,'जिनके' ,'जिनमें' ,'अपना' ,'अपने' ,'अपनी' ,'अपनों' ,'अपनेआप' ,'स्वयं' ,'खुद' ,'कोई' ,'कुछ' ,'सभी' ,'यहां' ,'यहाँ' ,'वहां' ,'वहाँ' ,'जहां' ,'जहाँ' ]
 
-def createDict(filename):
-    rootDir = dict()
-    newSentenceDict = dict()
+def createRootList(filename):
+    rootList = []
+    newSentenceDict = []
     sentenceCntr = 0
     begin=False
     ann_num=-1
     can_num=-1
+    line1=True
     with codecs.open(filename,"r",encoding="utf-8") as infile:
         for line in infile:
             isAnn=False
             isCan=False
-            #print(line.encode("utf-8"))
             lineTuples = line.encode('utf-8').split('\t')
-            #print(lineTuples)
             if (lineTuples[0][0] == '#'):
                 continue
+            elif line1:
+                line1=False
+                continue
             elif ((lineTuples[0] == '\r\n' or lineTuples[0] == '\n')):
-                rootDir[sentenceCntr] = newSentenceDict
+                rootList.insert(sentenceCntr, newSentenceDict)
                 sentenceCntr += 1
-                newSentenceDict = dict() 
+                newSentenceDict = [] 
                 continue
             else:
                 wordAttribList = list()
@@ -50,7 +53,6 @@ def createDict(filename):
                 m2 = re.search(r"\(([0-9]+)", lineTuples[7]) #Case (x
                 m3 = re.search(r"\(([0-9]+)\)[|]\(([0-9]+)", lineTuples[7]) #Case (x)|(y
                 m4 = re.search(r"\(([0-9]+)\)[|]\(([0-9]+)\)", lineTuples[7]) #Case (x)|(y)
-                #wordAttribList = lineTuples[3:8]
                 if(lineTuples[5]=='B-NP' and lineTuples[4]=='PRP' and lineTuples[7]!='-'):
                     m = re.search(r"\(([0-9]+)\)", lineTuples[7])
                     if(m != None ):
@@ -106,6 +108,7 @@ def createDict(filename):
                         
                         wordAttribList.append(morphKnowledge[2])
                         wordAttribList.append(morphKnowledge[3])
+                        wordAttribList.append(morphKnowledge[4])
                 
                 ##### End of Morph String #####
                 if isAnn:
@@ -116,13 +119,10 @@ def createDict(filename):
                     wordAttribList.append(can_num)
                 else:
                     wordAttribList.append(0)
-                newSentenceDict[lineTuples[2]] = wordAttribList # Added word attributes
+                newSentenceDict.insert(int(lineTuples[2]),wordAttribList) # Added word attributes
         
-        rootDir[sentenceCntr] = newSentenceDict     #once last sentence addition      
-    print(rootDir)
-    return rootDir
+        rootList.insert(sentenceCntr,newSentenceDict)     #once last sentence addition      
+    return rootList
     
-
-
 if __name__ == "__main__":
-    createDict()
+    createRootList()
