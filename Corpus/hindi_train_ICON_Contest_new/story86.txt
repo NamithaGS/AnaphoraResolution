@@ -46,8 +46,8 @@ story86.txt	0	8	ने	PSP	I-NP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,'
 story86.txt	0	9	कहा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कहा,v,any,any,any,,0,0'> | < fs af='कहा,adj,m,sg,,d,,'> | < fs af='कहा,n,m,sg,3,d,0,0'> | < fs af='कह,v,m,sg,any,,या,yA'>
 story86.txt	0	10	कि	CC	B-CCP	o	-	MorphAnalysis : | < fs af='कि,avy,,,,,,'>
 story86.txt	0	11	वित्त	XC	B-NP	o	(1	MorphAnalysis : | < fs af='वित्त,n,m,sg,3,d,0,0'> | < fs af='वित्त,n,m,pl,3,d,0,0'> | < fs af='वित्त,n,m,sg,3,o,0,0'>
-story86.txt	0	12	मंत्री	XC	I-NP	o	1	MorphAnalysis : | < fs af='मंत्री,n,m,sg,3,d,0,0'> | < fs af='मंत्री,n,m,pl,3,d,0,0'> | < fs af='मंत्री,n,m,sg,3,o,0,0'>
-story86.txt	0	13	पी.	XC	I-NP	B-PERSON	1	MorphAnalysis : | < fs af='पी,v,any,any,any,,0,0'> | < fs af='पी,v,f,sg,any,,या,yA'> | < fs af='.,punc,,,,,,'>
+story86.txt	0	12	मंत्री	XC	I-NP	o	-	MorphAnalysis : | < fs af='मंत्री,n,m,sg,3,d,0,0'> | < fs af='मंत्री,n,m,pl,3,d,0,0'> | < fs af='मंत्री,n,m,sg,3,o,0,0'>
+story86.txt	0	13	पी.	XC	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='पी,v,any,any,any,,0,0'> | < fs af='पी,v,f,sg,any,,या,yA'> | < fs af='.,punc,,,,,,'>
 story86.txt	0	14	चिदंबरम	NNP	I-NP	B-LOCATION	1)	MorphAnalysis : | < fs af='चिदंबरम,n,m,sg,3,d,0,0'> | < fs af='चिदंबरम,n,m,pl,3,d,0,0'> | < fs af='चिदंबरम,n,m,sg,3,o,0,0'> | < fs af='चिदंबरम,n,m,pl,3,o,0,0'>
 story86.txt	0	15	कह	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कह,v,any,any,any,,0,0'>
 story86.txt	0	16	चुके	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='चुक,v,any,sg,2,,ए,e'> | < fs af='चुक,v,any,sg,3,,ए,e'> | < fs af='चुक,v,m,pl,any,,या,yA'>
@@ -86,10 +86,10 @@ story86.txt	0	17	दी	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='दे,v,f,sg,
 story86.txt	0	18	।	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story86.txt	0	0	ऑल	XC	B-NP	o	(2	MorphAnalysis : | < fs af='ऑल,adj,any,any,,any,,'>
-story86.txt	0	1	इंडिया	XC	I-NP	B-ORGANIZATION	2	MorphAnalysis : | < fs af='इंडिया,n,m,sg,3,d,0,0'> | < fs af='इंडिया,n,m,pl,3,d,0,0'> | < fs af='इंडिया,n,m,sg,3,o,0,0'> | < fs af='इंडिया,n,m,pl,3,o,0,0'>
-story86.txt	0	2	एसबीआई	XC	I-NP	B-ORGANIZATION	2	MorphAnalysis : | < fs af='एसबीआई,unk,,,,,,'>
-story86.txt	0	3	स्टाफ	XC	I-NP	o	2	MorphAnalysis : | < fs af='स्टाफ,n,m,sg,3,d,0,0'> | < fs af='स्टाफ,n,m,pl,3,d,0,0'> | < fs af='स्टाफ,n,m,sg,3,o,0,0'>
-story86.txt	0	4	फेडरेशन	NNP	I-NP	B-ORGANIZATION	2	MorphAnalysis : | < fs af='फेडरेशन,n,m,sg,3,d,0,0'> | < fs af='फेडरेशन,n,m,pl,3,d,0,0'> | < fs af='फेडरेशन,n,m,sg,3,o,0,0'>
+story86.txt	0	1	इंडिया	XC	I-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='इंडिया,n,m,sg,3,d,0,0'> | < fs af='इंडिया,n,m,pl,3,d,0,0'> | < fs af='इंडिया,n,m,sg,3,o,0,0'> | < fs af='इंडिया,n,m,pl,3,o,0,0'>
+story86.txt	0	2	एसबीआई	XC	I-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='एसबीआई,unk,,,,,,'>
+story86.txt	0	3	स्टाफ	XC	I-NP	o	-	MorphAnalysis : | < fs af='स्टाफ,n,m,sg,3,d,0,0'> | < fs af='स्टाफ,n,m,pl,3,d,0,0'> | < fs af='स्टाफ,n,m,sg,3,o,0,0'>
+story86.txt	0	4	फेडरेशन	NNP	I-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='फेडरेशन,n,m,sg,3,d,0,0'> | < fs af='फेडरेशन,n,m,pl,3,d,0,0'> | < fs af='फेडरेशन,n,m,sg,3,o,0,0'>
 story86.txt	0	5	के	PSP	I-NP	o	2)	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story86.txt	0	6	उपाध्यक्ष	XC	B-NP	o	-	MorphAnalysis : | < fs af='उपाध्यक्ष,n,m,sg,3,d,0,0'> | < fs af='उपाध्यक्ष,n,m,pl,3,d,0,0'> | < fs af='उपाध्यक्ष,n,m,sg,3,o,0,0'> | < fs af='उपाध्यक्ष,adj,any,any,,any,,'>
 story86.txt	0	7	गुप्ता	NNP	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='गुप्ता,n,m,sg,3,d,0,0'> | < fs af='गुप्ता,n,m,pl,3,d,0,0'> | < fs af='गुप्ता,n,m,sg,3,o,0,0'>

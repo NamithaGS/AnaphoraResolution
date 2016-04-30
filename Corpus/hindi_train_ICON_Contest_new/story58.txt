@@ -6,8 +6,8 @@ story58.txt	0	2	ओबेरॉय	NNP	I-NP	I-PERSON	-	MorphAnalysis : | < fs af
 story58.txt	0	3	विश्व	NN	B-NP	o	-	MorphAnalysis : | < fs af='विश्व,n,m,sg,3,d,0,0'> | < fs af='विश्व,n,m,pl,3,d,0,0'> | < fs af='विश्व,n,m,sg,3,o,0,0'> | < fs af='विश्व,adj,any,any,,any,,'>
 story58.txt	0	4	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story58.txt	0	5	उन	DEM	B-NP	o	(1	MorphAnalysis : | < fs af='वह,pn,any,pl,3,o,0,0'>
-story58.txt	0	6	३२	QC	I-NP	B-NUMBER	1	MorphAnalysis : | < fs af='32,num,,,,,,'>
-story58.txt	0	7	लोगों	NN	I-NP	o	1	MorphAnalysis : | < fs af='लोग,n,m,pl,3,o,0,0'>
+story58.txt	0	6	३२	QC	I-NP	B-NUMBER	-	MorphAnalysis : | < fs af='32,num,,,,,,'>
+story58.txt	0	7	लोगों	NN	I-NP	o	-	MorphAnalysis : | < fs af='लोग,n,m,pl,3,o,0,0'>
 story58.txt	0	8	में	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='में,psp,,,,,,'>
 story58.txt	0	9	शामिल	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='शामिल,n,m,sg,3,d,0,0'> | < fs af='शामिल,n,m,pl,3,d,0,0'> | < fs af='शामिल,n,m,sg,3,o,0,0'> | < fs af='शामिल,adj,any,any,,any,,'>
 story58.txt	0	10	हैं	VM	B-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,pl,1,,है,hE'> | < fs af='है,v,any,pl,3,,है,hE'> | < fs af='है,v,any,any,2,,है,hE' hon='y'>
@@ -156,7 +156,7 @@ story58.txt	0	16	कि	CC	B-CCP	o	-	MorphAnalysis : | < fs af='कि,avy,,,,,,
 story58.txt	0	17	मुंबई	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='मुंबई,n,m,sg,3,d,0,0'> | < fs af='मुंबई,n,m,pl,3,d,0,0'> | < fs af='मुंबई,n,m,sg,3,o,0,0'> | < fs af='मुंबई,n,m,pl,3,o,0,0'>
 story58.txt	0	18	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story58.txt	0	19	तीन	QC	B-NP	B-NUMBER	(7	MorphAnalysis : | < fs af='तीन,n,m,sg,3,d,0,0'> | < fs af='तीन,n,m,pl,3,d,0,0'> | < fs af='तीन,n,m,sg,3,o,0,0'> | < fs af='तीन,adj,any,pl,,d,,'> | < fs af='तीन,adj,any,pl,,o,,'>
-story58.txt	0	20	अभिनेताओं	NN	I-NP	o	7	MorphAnalysis : | < fs af='अभिनेता,n,m,pl,3,o,0,0'>
+story58.txt	0	20	अभिनेताओं	NN	I-NP	o	-	MorphAnalysis : | < fs af='अभिनेता,n,m,pl,3,o,0,0'>
 story58.txt	0	21	में	PSP	I-NP	o	7)	MorphAnalysis : | < fs af='में,psp,,,,,,'>
 story58.txt	0	22	ओबेरॉय	NNP	B-NP	B-PERSON	-	MorphAnalysis : | < fs af='ओबेरॉय,unk,,,,,,'>
 story58.txt	0	23	नंबर	XC	B-NP	o	-	MorphAnalysis : | < fs af='नंबर,n,m,sg,3,d,0,0'> | < fs af='नंबर,n,m,pl,3,d,0,0'> | < fs af='नंबर,n,m,sg,3,o,0,0'>

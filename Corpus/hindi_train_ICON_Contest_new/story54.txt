@@ -98,9 +98,9 @@ story54.txt	0	6	छापा	NN	B-NP	o	-	MorphAnalysis : | < fs af='छापा
 story54.txt	0	7	NULL	NN	B-NULL__NP	o	-	MorphAnalysis : | < fs af='णूLL,unk,,,,,,'>
 story54.txt	0	8	मारकर	VM	B-VGNF	o	-	MorphAnalysis : | < fs af='मार,v,any,any,any,,कर,kara'>
 story54.txt	0	9	मिस्टर	XC	B-NP	o	(3	MorphAnalysis : | < fs af='मिस्टर,n,m,sg,3,d,0,0'> | < fs af='मिस्टर,n,m,pl,3,d,0,0'> | < fs af='मिस्टर,n,m,sg,3,o,0,0'> | < fs af='मिस्टर,n,m,pl,3,o,0,0'>
-story54.txt	0	10	एक्स	NNP	I-NP	o	3	MorphAnalysis : | < fs af='एक्स,n,m,sg,3,d,0,0'> | < fs af='एक्स,n,m,pl,3,d,0,0'> | < fs af='एक्स,n,m,sg,3,o,0,0'>
-story54.txt	0	11	व	CC	B-CCP	o	3	MorphAnalysis : | < fs af='व,avy,,,,,,'>
-story54.txt	0	12	अन्य	NN	B-NP	o	3	MorphAnalysis : | < fs af='अन्य,n,m,sg,3,d,0,0'> | < fs af='अन्य,n,m,pl,3,d,0,0'> | < fs af='अन्य,n,m,sg,3,o,0,0'> | < fs af='अन्य,adj,any,any,,any,,'>
+story54.txt	0	10	एक्स	NNP	I-NP	o	-	MorphAnalysis : | < fs af='एक्स,n,m,sg,3,d,0,0'> | < fs af='एक्स,n,m,pl,3,d,0,0'> | < fs af='एक्स,n,m,sg,3,o,0,0'>
+story54.txt	0	11	व	CC	B-CCP	o	-	MorphAnalysis : | < fs af='व,avy,,,,,,'>
+story54.txt	0	12	अन्य	NN	B-NP	o	-	MorphAnalysis : | < fs af='अन्य,n,m,sg,3,d,0,0'> | < fs af='अन्य,n,m,pl,3,d,0,0'> | < fs af='अन्य,n,m,sg,3,o,0,0'> | < fs af='अन्य,adj,any,any,,any,,'>
 story54.txt	0	13	को	PSP	I-NP	o	3)	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story54.txt	0	14	दबोच	VM	B-VGF	o	-	MorphAnalysis : | < fs af='दबोच,n,f,sg,3,d,0,0'> | < fs af='दबोच,n,f,pl,3,d,0,0'> | < fs af='दबोच,n,f,sg,3,o,0,0'> | < fs af='दबोच,n,f,pl,3,o,0,0'> | < fs af='दबोच,v,any,any,any,,0,0'>
 story54.txt	0	15	लिया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='ले,v,m,sg,any,,या,yA'>
@@ -441,9 +441,9 @@ story54.txt	0	14	देविंदर	XC	B-NP	o	-	MorphAnalysis : | < fs af='�
 story54.txt	0	15	कुमार	NNP	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='कुमार,n,m,sg,3,d,0,0'> | < fs af='कुमार,n,m,pl,3,d,0,0'> | < fs af='कुमार,n,m,sg,3,o,0,0'> | < fs af='कुमार,adj,m,sg,,any,,'>
 story54.txt	0	16	,	SYM	I-NP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
 story54.txt	0	17	सुरेश	XC	B-NP	B-PERSON	(12	MorphAnalysis : | < fs af='सुरेश,n,m,sg,3,d,0,0'> | < fs af='सुरेश,n,m,pl,3,d,0,0'> | < fs af='सुरेश,n,m,sg,3,o,0,0'>
-story54.txt	0	18	कुमार	NNP	I-NP	I-PERSON	12	MorphAnalysis : | < fs af='कुमार,n,m,sg,3,d,0,0'> | < fs af='कुमार,n,m,pl,3,d,0,0'> | < fs af='कुमार,n,m,sg,3,o,0,0'> | < fs af='कुमार,adj,m,sg,,any,,'>
+story54.txt	0	18	कुमार	NNP	I-NP	I-PERSON	-	MorphAnalysis : | < fs af='कुमार,n,m,sg,3,d,0,0'> | < fs af='कुमार,n,m,pl,3,d,0,0'> | < fs af='कुमार,n,m,sg,3,o,0,0'> | < fs af='कुमार,adj,m,sg,,any,,'>
 story54.txt	0	19	व	CC	B-CCP	o	-	MorphAnalysis : | < fs af='व,avy,,,,,,'>
-story54.txt	0	20	राकेश	XC	B-NP	B-PERSON	12	MorphAnalysis : | < fs af='राकेश,n,m,sg,3,d,0,0'> | < fs af='राकेश,n,m,pl,3,d,0,0'> | < fs af='राकेश,n,m,sg,3,o,0,0'> | < fs af='राकेश,n,m,pl,3,o,0,0'>
+story54.txt	0	20	राकेश	XC	B-NP	B-PERSON	-	MorphAnalysis : | < fs af='राकेश,n,m,sg,3,d,0,0'> | < fs af='राकेश,n,m,pl,3,d,0,0'> | < fs af='राकेश,n,m,sg,3,o,0,0'> | < fs af='राकेश,n,m,pl,3,o,0,0'>
 story54.txt	0	21	कुमार	NNP	I-NP	I-PERSON	12)	MorphAnalysis : | < fs af='कुमार,n,m,sg,3,d,0,0'> | < fs af='कुमार,n,m,pl,3,d,0,0'> | < fs af='कुमार,n,m,sg,3,o,0,0'> | < fs af='कुमार,adj,m,sg,,any,,'>
 story54.txt	0	22	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story54.txt	0	23	३	XC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='3,num,,,,,,'>

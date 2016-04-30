@@ -122,7 +122,7 @@ story81.txt	0	22	है	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,s
 story81.txt	0	23	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story81.txt	0	0	अमेरिका	NNP	B-NP	B-LOCATION	(3	MorphAnalysis : | < fs af='अमेरिका,n,m,sg,3,d,0,0'> | < fs af='अमेरिका,n,m,pl,3,d,0,0'> | < fs af='अमेरिका,n,m,sg,3,o,0,0'> | < fs af='अमेरिका,n,m,pl,3,o,0,0'>
-story81.txt	0	1	ने	PSP	I-NP	o	3	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
+story81.txt	0	1	ने	PSP	I-NP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story81.txt	0	2	भी	RP	I-NP	o	3)	MorphAnalysis : | < fs af='भी,adv,,,,,,'> | < fs af='भी,avy,,,,,,'>
 story81.txt	0	3	पाकिस्तान	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='पाकिस्तान,n,m,sg,3,d,0,0'> | < fs af='पाकिस्तान,n,m,pl,3,d,0,0'> | < fs af='पाकिस्तान,n,m,sg,3,o,0,0'> | < fs af='पाकिस्तान,n,m,pl,3,o,0,0'>
 story81.txt	0	4	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
@@ -150,8 +150,8 @@ story81.txt	0	11	ने	PSP	I-NP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,
 story81.txt	0	12	रविवार	NNP	B-NP	B-TIME	-	MorphAnalysis : | < fs af='रविवार,n,m,sg,3,d,0,0'> | < fs af='रविवार,n,m,pl,3,d,0,0'> | < fs af='रविवार,n,m,sg,3,o,0,0'>
 story81.txt	0	13	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story81.txt	0	14	खुफिया	JJ	B-NP	o	(4	MorphAnalysis : | < fs af='खुफिया,adj,any,any,,any,,'>
-story81.txt	0	15	अधिकारियों	NN	I-NP	o	4	MorphAnalysis : | < fs af='अधिकारी,n,m,pl,3,o,0,0'>
-story81.txt	0	16	के	PSP	I-NP	o	4)MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story81.txt	0	15	अधिकारियों	NN	I-NP	o	-	MorphAnalysis : | < fs af='अधिकारी,n,m,pl,3,o,0,0'>
+story81.txt	0	16	के	PSP	I-NP	o	4)	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story81.txt	0	17	हवाले	NN	B-NP	o	-	MorphAnalysis : | < fs af='हवाला,n,m,pl,3,d,0,0'> | < fs af='हवाला,n,m,sg,3,o,0,0'>
 story81.txt	0	18	से	PSP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
 story81.txt	0	19	कहा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कहा,v,any,any,any,,0,0'> | < fs af='कहा,adj,m,sg,,d,,'> | < fs af='कहा,n,m,sg,3,d,0,0'> | < fs af='कह,v,m,sg,any,,या,yA'>
@@ -205,8 +205,8 @@ story81.txt	0	0	इस	DEM	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,any,sg,
 story81.txt	0	1	बीच	NST	I-NP	o	-	MorphAnalysis : | < fs af='बीच,n,m,sg,3,d,0,0'> | < fs af='बीच,n,m,pl,3,d,0,0'> | < fs af='बीच,n,m,sg,3,o,0,0'> | < fs af='बीच,psp,,,,,,'>
 story81.txt	0	2	,	SYM	I-NP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
 story81.txt	0	3	फॉक्स	XC	B-NP	B-ORGANIZATION	(7	MorphAnalysis : | < fs af='फॉक्स,n,f,sg,3,d,0,0'> | < fs af='फॉक्स,n,f,sg,3,o,0,0'>
-story81.txt	0	4	न्यूज़	NNP	I-NP	I-ORGANIZATION	7	MorphAnalysis : | < fs af='न्यूज़,n,m,sg,,d,0,0'> | < fs af='न्यूज़,n,m,pl,,d,0,0'> | < fs af='न्यूज़,n,m,sg,,o,0,0'>
-story81.txt	0	5	के	PSP	I-NP	o	7	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story81.txt	0	4	न्यूज़	NNP	I-NP	I-ORGANIZATION	-	MorphAnalysis : | < fs af='न्यूज़,n,m,sg,,d,0,0'> | < fs af='न्यूज़,n,m,pl,,d,0,0'> | < fs af='न्यूज़,n,m,sg,,o,0,0'>
+story81.txt	0	5	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story81.txt	0	6	अनुसार	PSP	I-NP	o	7)	MorphAnalysis : | < fs af='अनुसार,adv,,,,,,'> | < fs af='अनुसार,psp,,,,,,'>
 story81.txt	0	7	भारतीय	JJ	B-NP	o	-	MorphAnalysis : | < fs af='भारतीय,n,m,sg,3,d,0,0'> | < fs af='भारतीय,n,m,pl,3,d,0,0'> | < fs af='भारतीय,n,m,sg,3,o,0,0'> | < fs af='भारतीय,adj,any,any,,any,,'>
 story81.txt	0	8	सेना	NN	I-NP	o	-	MorphAnalysis : | < fs af='सेना,n,f,sg,3,d,0,0'> | < fs af='सेना,n,f,sg,3,o,0,0'> | < fs af='से,v,m,sg,any,,ना,nA'>

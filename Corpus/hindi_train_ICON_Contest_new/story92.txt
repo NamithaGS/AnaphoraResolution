@@ -32,7 +32,7 @@ story92.txt	0	11	लिए	PSP	I-VGNN	o	-	MorphAnalysis : | < fs af='लिए,p
 story92.txt	0	12	गलती	NN	B-NP	o	-	MorphAnalysis : | < fs af='गलती,n,f,sg,3,d,0,0'> | < fs af='गलती,n,f,sg,3,o,0,0'> | < fs af='गल,v,f,sg,any,,ता,wA'>
 story92.txt	0	13	से	PSP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
 story92.txt	0	14	उस	DEM	B-NP	o	(1	MorphAnalysis : | < fs af='वह,pn,any,sg,3,o,0,0'>
-story92.txt	0	15	स्विच	NN	I-NP	o	1	MorphAnalysis : | < fs af='स्विच,n,m,sg,3,d,0,0'> | < fs af='स्विच,n,m,pl,3,d,0,0'> | < fs af='स्विच,n,m,sg,3,o,0,0'>
+story92.txt	0	15	स्विच	NN	I-NP	o	-	MorphAnalysis : | < fs af='स्विच,n,m,sg,3,d,0,0'> | < fs af='स्विच,n,m,pl,3,d,0,0'> | < fs af='स्विच,n,m,sg,3,o,0,0'>
 story92.txt	0	16	को	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story92.txt	0	17	आफ	UNK	B-BLK	o	-	MorphAnalysis : | < fs af='आफ,unk,,,,,,'>
 story92.txt	0	18	कर	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कर,n,m,sg,3,d,0,0'> | < fs af='कर,n,m,pl,3,d,0,0'> | < fs af='कर,n,m,sg,3,o,0,0'> | < fs af='कर,v,any,any,any,,0,0'>

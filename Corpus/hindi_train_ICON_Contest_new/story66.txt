@@ -19,7 +19,7 @@ story66.txt	0	15	यात्रा	NN	I-NP	o	-	MorphAnalysis : | < fs af='य�
 story66.txt	0	16	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story66.txt	0	17	दौरान	NST	I-NP	o	-	MorphAnalysis : | < fs af='दौरान,n,m,sg,3,d,0,0'> | < fs af='दौरान,n,m,pl,3,d,0,0'> | < fs af='दौरान,n,m,sg,3,o,0,0'> | < fs af='दौरान,adv,,,,,,'> | < fs af='दौरान,psp,,,,,,'>
 story66.txt	0	18	हुर्रियत	XC	B-NP	o	(1	MorphAnalysis : | < fs af='हुर्रियत,unk,,,,,,'>
-story66.txt	0	19	नेताओं	NN	I-NP	o	1	MorphAnalysis : | < fs af='नेता,n,m,pl,3,o,0,0'>
+story66.txt	0	19	नेताओं	NN	I-NP	o	-	MorphAnalysis : | < fs af='नेता,n,m,pl,3,o,0,0'>
 story66.txt	0	20	को	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story66.txt	0	21	अपने	PRP	B-NP	o	(1)	MorphAnalysis : | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'> | < fs af='अपना,adj,m,sg,,o,,'> | < fs af='अपना,adj,m,pl,,d,,'> | < fs af='अपना,adj,m,pl,,o,,'>
 story66.txt	0	22	साथ	NST	I-NP	o	-	MorphAnalysis : | < fs af='साथ,n,m,sg,3,d,0,0'> | < fs af='साथ,n,m,pl,3,d,0,0'> | < fs af='साथ,n,m,sg,3,o,0,0'> | < fs af='साथ,adv,,,,,,'> | < fs af='साथ,psp,,,,,,'>
@@ -37,7 +37,7 @@ story66.txt	0	0	यात्रा	NN	B-NP	o	-	MorphAnalysis : | < fs af='या
 story66.txt	0	1	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story66.txt	0	2	लिए	PSP	I-NP	o	-	MorphAnalysis : | < fs af='लिए,psp,,,,,,'> | < fs af='ले,v,any,sg,2,,ए,e'> | < fs af='ले,v,any,sg,3,,ए,e'> | < fs af='ले,v,m,pl,any,,या,yA'>
 story66.txt	0	3	हुर्रियत	XC	B-NP	B-ORGANIZATION	(2	MorphAnalysis : | < fs af='हुर्रियत,unk,,,,,,'>
-story66.txt	0	4	कांफ्रेंस	NNP	I-NP	I-ORGANIZATION	2	MorphAnalysis : | < fs af='कांफ्रेंस,n,m,sg,3,d,0,0'> | < fs af='कांफ्रेंस,n,m,pl,3,d,0,0'> | < fs af='कांफ्रेंस,n,m,sg,3,o,0,0'>
+story66.txt	0	4	कांफ्रेंस	NNP	I-NP	I-ORGANIZATION	-	MorphAnalysis : | < fs af='कांफ्रेंस,n,m,sg,3,d,0,0'> | < fs af='कांफ्रेंस,n,m,pl,3,d,0,0'> | < fs af='कांफ्रेंस,n,m,sg,3,o,0,0'>
 story66.txt	0	5	ने	PSP	I-NP	o	2)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story66.txt	0	6	अपने	PRP	B-NP	o	(2)	MorphAnalysis : | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'> | < fs af='अपना,adj,m,sg,,o,,'> | < fs af='अपना,adj,m,pl,,d,,'> | < fs af='अपना,adj,m,pl,,o,,'>
 story66.txt	0	7	पांच	QC	I-NP	B-NUMBER	-	MorphAnalysis : | < fs af='पांच,n,m,sg,3,d,0,0'> | < fs af='पांच,n,m,pl,3,d,0,0'> | < fs af='पांच,n,m,sg,3,o,0,0'> | < fs af='पांच,adj,any,pl,,d,,'> | < fs af='पांच,adj,any,pl,,o,,'>
@@ -98,7 +98,7 @@ story66.txt	0	22	कश्मीर	XC	I-NP	B-LOCATION	-	MorphAnalysis : | < fs 
 story66.txt	0	23	लिबरेशन	XC	I-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='लिबरेशन,n,m,sg,3,d,0,0'> | < fs af='लिबरेशन,n,m,pl,3,d,0,0'> | < fs af='लिबरेशन,n,m,sg,3,o,0,0'> | < fs af='लिबरेशन,n,m,pl,3,o,0,0'>
 story66.txt	0	24	फ्रंट	NNP	I-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='फ्रंट,n,m,sg,3,d,0,0'> | < fs af='फ्रंट,n,m,pl,3,d,0,0'> | < fs af='फ्रंट,n,m,sg,3,o,0,0'> | < fs af='फ्रंट,n,m,pl,3,o,0,0'>
 story66.txt	0	25	(	SYM	B-NP	o	(3	MorphAnalysis : | < fs af='(,punc,,,,,,'>
-story66.txt	0	26	जेकेएलएफ	NNP	I-NP	B-ORGANIZATION	3	MorphAnalysis : | < fs af='जेकेएलएफ,unk,,,,,,'>
+story66.txt	0	26	जेकेएलएफ	NNP	I-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='जेकेएलएफ,unk,,,,,,'>
 story66.txt	0	27	)	SYM	I-NP	o	3)	MorphAnalysis : | < fs af='),punc,,,,,,'>
 story66.txt	0	28	ने	PSP	B-FRAGP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story66.txt	0	29	केवल	RP	B-NP	o	-	MorphAnalysis : | < fs af='केवल,adv,,,,,,'> | < fs af='केवल,adj,any,any,,any,,'>

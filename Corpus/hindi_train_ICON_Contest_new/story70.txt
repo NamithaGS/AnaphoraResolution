@@ -1,9 +1,9 @@
 #begin document (story70.txt); part 000
 
 story70.txt	0	0	अंडरवल्र्रर्ड	XC	B-NP	o	(1	MorphAnalysis : | < fs af='अंडरवल्र्रर्ड,unk,,,,,,'>
-story70.txt	0	1	डॉन	NN	I-NP	o	1	MorphAnalysis : | < fs af='डॉन,n,m,sg,3,d,0,0'> | < fs af='डॉन,n,m,pl,3,d,0,0'> | < fs af='डॉन,n,m,sg,3,o,0,0'>
-story70.txt	0	2	दाऊद	XC	I-NP	B-PERSON	1	MorphAnalysis : | < fs af='दाऊद,n,m,sg,3,d,0,0'> | < fs af='दाऊद,n,m,pl,3,d,0,0'> | < fs af='दाऊद,n,m,sg,3,o,0,0'> | < fs af='दाऊद,n,m,pl,3,o,0,0'>
-story70.txt	0	3	इब्राहिम	NNP	I-NP	B-PERSON	1	MorphAnalysis : | < fs af='इब्राहिम,n,m,sg,3,d,0,0'> | < fs af='इब्राहिम,n,m,pl,3,d,0,0'> | < fs af='इब्राहिम,n,m,sg,3,o,0,0'>
+story70.txt	0	1	डॉन	NN	I-NP	o	-	MorphAnalysis : | < fs af='डॉन,n,m,sg,3,d,0,0'> | < fs af='डॉन,n,m,pl,3,d,0,0'> | < fs af='डॉन,n,m,sg,3,o,0,0'>
+story70.txt	0	2	दाऊद	XC	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='दाऊद,n,m,sg,3,d,0,0'> | < fs af='दाऊद,n,m,pl,3,d,0,0'> | < fs af='दाऊद,n,m,sg,3,o,0,0'> | < fs af='दाऊद,n,m,pl,3,o,0,0'>
+story70.txt	0	3	इब्राहिम	NNP	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='इब्राहिम,n,m,sg,3,d,0,0'> | < fs af='इब्राहिम,n,m,pl,3,d,0,0'> | < fs af='इब्राहिम,n,m,sg,3,o,0,0'>
 story70.txt	0	4	ने	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story70.txt	0	5	अपनी	PRP	B-NP	o	(1)|(2)	MorphAnalysis : | < fs af='अपना,adj,f,any,,any,,'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
 story70.txt	0	6	काली	JJ	B-NP	o	-	MorphAnalysis : | < fs af='काला,adj,f,any,,any,,'> | < fs af='काली,n,f,sg,3,d,0,0'> | < fs af='काली,n,f,sg,3,o,0,0'>
@@ -104,7 +104,7 @@ story70.txt	0	0	मुंबई	XC	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='
 story70.txt	0	1	पुलिस	NNP	I-NP	o	-	MorphAnalysis : | < fs af='पुलिस,n,f,sg,3,d,0,0'> | < fs af='पुलिस,n,f,sg,3,o,0,0'>
 story70.txt	0	2	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
 story70.txt	0	3	अपराध	XC	B-NP	o	(7	MorphAnalysis : | < fs af='अपराध,n,m,sg,3,d,0,0'> | < fs af='अपराध,n,m,pl,3,d,0,0'> | < fs af='अपराध,n,m,sg,3,o,0,0'>
-story70.txt	0	4	शाखा	NN	I-NP	o	7	MorphAnalysis : | < fs af='शाखा,n,f,sg,3,d,0,0'> | < fs af='शाखा,n,f,sg,3,o,0,0'>
+story70.txt	0	4	शाखा	NN	I-NP	o	-	MorphAnalysis : | < fs af='शाखा,n,f,sg,3,d,0,0'> | < fs af='शाखा,n,f,sg,3,o,0,0'>
 story70.txt	0	5	के	PSP	I-NP	o	7)	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story70.txt	0	6	एक	QC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='एक,adj,any,any,,any,,'> | < fs af='एक,n,m,sg,3,d,0,0'> | < fs af='एक,n,m,pl,3,d,0,0'> | < fs af='एक,n,m,sg,3,o,0,0'> | < fs af='एक,n,m,pl,3,o,0,0'>
 story70.txt	0	7	वरिष्ठ	JJ	I-NP	o	-	MorphAnalysis : | < fs af='वरिष्ठ,n,m,sg,3,d,0,0'> | < fs af='वरिष्ठ,n,m,pl,3,d,0,0'> | < fs af='वरिष्ठ,n,m,sg,3,o,0,0'> | < fs af='वरिष्ठ,adj,any,any,,any,,'>

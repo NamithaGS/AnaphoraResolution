@@ -12,9 +12,9 @@ story50.txt	0	8	है	VM	B-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,sg,2
 story50.txt	0	9	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story50.txt	0	0	राजकुमार	XC	B-NP	B-PERSON	(1	MorphAnalysis : | < fs af='राजकुमार,n,m,sg,3,d,0,0'> | < fs af='राजकुमार,n,m,pl,3,d,0,0'> | < fs af='राजकुमार,n,m,sg,3,o,0,0'>
-story50.txt	0	1	याकूब	XC	I-NP	I-PERSON	1	MorphAnalysis : | < fs af='याकूब,unk,,,,,,'>
-story50.txt	0	2	हबीबुद्दीन	XC	I-NP	I-PERSON	1	MorphAnalysis : | < fs af='हबीबुद्दीन,unk,,,,,,'>
-story50.txt	0	3	टुसी	NNP	I-NP	o	1	MorphAnalysis : | < fs af='टुसी,unk,,,,,,'>
+story50.txt	0	1	याकूब	XC	I-NP	I-PERSON	-	MorphAnalysis : | < fs af='याकूब,unk,,,,,,'>
+story50.txt	0	2	हबीबुद्दीन	XC	I-NP	I-PERSON	-	MorphAnalysis : | < fs af='हबीबुद्दीन,unk,,,,,,'>
+story50.txt	0	3	टुसी	NNP	I-NP	o	-	MorphAnalysis : | < fs af='टुसी,unk,,,,,,'>
 story50.txt	0	4	का	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='का,psp,m,sg,,d,का,kA'>
 story50.txt	0	5	कहना	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कहना,n,m,sg,3,d,0,0'> | < fs af='कह,v,m,sg,any,,ना,nA'>
 story50.txt	0	6	है	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,sg,2,,है,hE'> | < fs af='है,v,any,sg,3,,है,hE'>
@@ -74,7 +74,7 @@ story50.txt	0	12	गया	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='जा,v,m,
 story50.txt	0	13	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story50.txt	0	0	राजकुमार	XC	B-NP	B-PERSON	(5	MorphAnalysis : | < fs af='राजकुमार,n,m,sg,3,d,0,0'> | < fs af='राजकुमार,n,m,pl,3,d,0,0'> | < fs af='राजकुमार,n,m,sg,3,o,0,0'>
-story50.txt	0	1	टुसी	NNP	I-NP	o	5	MorphAnalysis : | < fs af='टुसी,unk,,,,,,'>
+story50.txt	0	1	टुसी	NNP	I-NP	o	-	MorphAnalysis : | < fs af='टुसी,unk,,,,,,'>
 story50.txt	0	2	ने	PSP	I-NP	o	5)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story50.txt	0	3	कहा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कहा,v,any,any,any,,0,0'> | < fs af='कहा,adj,m,sg,,d,,'> | < fs af='कहा,n,m,sg,3,d,0,0'> | < fs af='कह,v,m,sg,any,,या,yA'>
 story50.txt	0	4	कि	CC	B-CCP	o	-	MorphAnalysis : | < fs af='कि,avy,,,,,,'>

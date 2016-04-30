@@ -5,7 +5,7 @@ story52.txt	0	1	सीट	NN	I-NP	o	-	MorphAnalysis : | < fs af='सीट,n,f,s
 story52.txt	0	2	सर्बिया	NNP	I-NP	o	-	MorphAnalysis : | < fs af='सर्बिया,unk,,,,,,'>
 story52.txt	0	3	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
 story52.txt	0	4	एना	XC	B-NP	B-PERSON	(1	MorphAnalysis : | < fs af='एना,unk,,,,,,'>
-story52.txt	0	5	इवानोविक	NNP	I-NP	o	1	MorphAnalysis : | < fs af='इवानोविक,unk,,,,,,'>
+story52.txt	0	5	इवानोविक	NNP	I-NP	o	-	MorphAnalysis : | < fs af='इवानोविक,unk,,,,,,'>
 story52.txt	0	6	ने	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story52.txt	0	7	बुधवार	NNP	B-NP	o	-	MorphAnalysis : | < fs af='बुधवार,n,m,sg,3,d,0,0'> | < fs af='बुधवार,n,m,pl,3,d,0,0'> | < fs af='बुधवार,n,m,sg,3,o,0,0'>
 story52.txt	0	8	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
@@ -161,8 +161,8 @@ story52.txt	0	12	इससे	PRP	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,
 story52.txt	0	13	पूर्व	NST	I-NP	o	-	MorphAnalysis : | < fs af='पूर्व,adv,,,,,,'> | < fs af='पूर्व,adj,any,any,,any,,'> | < fs af='पूर्व,n,m,sg,3,d,0,0'> | < fs af='पूर्व,n,m,pl,3,d,0,0'> | < fs af='पूर्व,n,m,sg,3,o,0,0'> | < fs af='पूर्व,n,m,pl,3,o,0,0'>
 story52.txt	0	14	,	SYM	I-NP	o	-	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
 story52.txt	0	15	मारिया	XC	B-NP	o	(2	MorphAnalysis : | < fs af='मारिया,unk,,,,,,'>
-story52.txt	0	16	शारापोवा	NNP	I-NP	o	2	MorphAnalysis : | < fs af='शारापोवा,unk,,,,,,'>
-story52.txt	0	17	ने	PSP	I-NP	o	2	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
+story52.txt	0	16	शारापोवा	NNP	I-NP	o	-	MorphAnalysis : | < fs af='शारापोवा,unk,,,,,,'>
+story52.txt	0	17	ने	PSP	I-NP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story52.txt	0	18	भी	RP	I-NP	o	2)	MorphAnalysis : | < fs af='भी,adv,,,,,,'> | < fs af='भी,avy,,,,,,'>
 story52.txt	0	19	यूएस	XC	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='यूएस,n,m,sg,3,d,0,0'> | < fs af='यूएस,n,m,pl,3,d,0,0'> | < fs af='यूएस,n,m,sg,3,o,0,0'> | < fs af='यूएस,n,m,pl,3,o,0,0'>
 story52.txt	0	20	ओपन	XC	I-NP	o	-	MorphAnalysis : | < fs af='ओपन,adj,any,any,,any,,'>
@@ -222,7 +222,7 @@ story52.txt	0	6	उलटफेर	NN	I-NP	o	-	MorphAnalysis : | < fs af='उल
 story52.txt	0	7	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story52.txt	0	8	छोड़	VM	B-VGNF	o	-	MorphAnalysis : | < fs af='छोड़,v,any,any,any,,0,0'>
 story52.txt	0	9	सभी	QF	B-NP	o	(5	MorphAnalysis : | < fs af='सब,adj,any,pl,,d,,' emph='y'> | < fs af='सब,adj,any,pl,,o,,' emph='y'> | < fs af='सब,pn,any,pl,3,o,0,0' emph='y'> | < fs af='सब,pn,any,pl,3,d,0,0' emph='y'>
-story52.txt	0	10	सीग्रेड	JJ	I-NP	o	5	MorphAnalysis : | < fs af='सीग्रेड,unk,,,,,,'>
+story52.txt	0	10	सीग्रेड	JJ	I-NP	o	-	MorphAnalysis : | < fs af='सीग्रेड,unk,,,,,,'>
 story52.txt	0	11	खिलाड़ी	NN	I-NP	o	5)	MorphAnalysis : | < fs af='खिलाड़ी,n,m,sg,,d,0,0'> | < fs af='खिलाड़ी,n,m,pl,,d,0,0'> | < fs af='खिलाड़ी,n,m,sg,,o,0,0'>
 story52.txt	0	12	अपने	PRP	B-NP	o	(5)	MorphAnalysis : | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'> | < fs af='अपना,adj,m,sg,,o,,'> | < fs af='अपना,adj,m,pl,,d,,'> | < fs af='अपना,adj,m,pl,,o,,'>
 story52.txt	0	13	मैच	NN	B-NP	o	-	MorphAnalysis : | < fs af='मैच,n,m,sg,3,d,0,0'> | < fs af='मैच,n,m,pl,3,d,0,0'> | < fs af='मैच,n,m,sg,3,o,0,0'>

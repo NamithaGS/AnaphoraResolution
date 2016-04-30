@@ -18,7 +18,7 @@ story75.txt	0	14	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,
 story75.txt	0	15	कहा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कहा,v,any,any,any,,0,0'> | < fs af='कहा,adj,m,sg,,d,,'> | < fs af='कहा,n,m,sg,3,d,0,0'> | < fs af='कह,v,m,sg,any,,या,yA'>
 story75.txt	0	16	कि	CC	B-CCP	o	-	MorphAnalysis : | < fs af='कि,avy,,,,,,'>
 story75.txt	0	17	हर	QF	B-NP	o	(1	MorphAnalysis : | < fs af='हर,n,m,sg,3,d,0,0'> | < fs af='हर,n,m,pl,3,d,0,0'> | < fs af='हर,n,m,sg,3,o,0,0'> | < fs af='हर,adj,any,any,,any,,'> | < fs af='हर,v,any,any,any,,0,0'>
-story75.txt	0	18	करदाता	NN	I-NP	o	1	MorphAnalysis : | < fs af='करदाता,n,m,sg,3,d,0,0'> | < fs af='करदाता,n,m,pl,3,d,0,0'> | < fs af='करदाता,n,m,sg,3,o,0,0'>
+story75.txt	0	18	करदाता	NN	I-NP	o	-	MorphAnalysis : | < fs af='करदाता,n,m,sg,3,d,0,0'> | < fs af='करदाता,n,m,pl,3,d,0,0'> | < fs af='करदाता,n,m,sg,3,o,0,0'>
 story75.txt	0	19	को	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story75.txt	0	20	५०	QC	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='50,num,,,,,,'>
 story75.txt	0	21	हजार	XC	I-NP	B-MEASURE	-	MorphAnalysis : | < fs af='हजार,n,m,sg,3,d,0,0'> | < fs af='हजार,n,m,pl,3,d,0,0'> | < fs af='हजार,n,m,sg,3,o,0,0'> | < fs af='हजार,adj,any,pl,,d,,'> | < fs af='हजार,adj,any,pl,,o,,'>

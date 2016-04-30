@@ -94,7 +94,7 @@ story80.txt	0	28	सकेगा	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='स�
 story80.txt	0	29	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story80.txt	0	0	इस	DEM	B-NP	o	(1	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,0,0'>
-story80.txt	0	1	उपक्रम	NN	I-NP	o	1	MorphAnalysis : | < fs af='उपक्रम,n,m,sg,3,d,0,0'> | < fs af='उपक्रम,n,m,pl,3,d,0,0'> | < fs af='उपक्रम,n,m,sg,3,o,0,0'>
+story80.txt	0	1	उपक्रम	NN	I-NP	o	-	MorphAnalysis : | < fs af='उपक्रम,n,m,sg,3,d,0,0'> | < fs af='उपक्रम,n,m,pl,3,d,0,0'> | < fs af='उपक्रम,n,m,sg,3,o,0,0'>
 story80.txt	0	2	को	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story80.txt	0	3	मंजूरी	NN	B-NP	o	-	MorphAnalysis : | < fs af='मंजूरी,n,f,sg,3,d,0,0'> | < fs af='मंजूरी,n,f,sg,3,o,0,0'>
 story80.txt	0	4	मिलने	VM	B-VGNN	o	-	MorphAnalysis : | < fs af='मिल,v,m,pl,any,,ना,nA'>
@@ -121,7 +121,7 @@ story80.txt	0	1	-JOIN	SYM	I-NP	o	-	MorphAnalysis : | < fs af='-औईण्,unk,
 story80.txt	0	2	टाटा	NNP	I-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='टाटा,n,m,sg,3,d,0,0'> | < fs af='टाटा,n,m,pl,3,d,0,0'> | < fs af='टाटा,n,m,sg,3,o,0,0'> | < fs af='टाटा,n,m,pl,3,o,0,0'>
 story80.txt	0	3	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story80.txt	0	4	इस	DEM	B-NP	o	(2	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,0,0'>
-story80.txt	0	5	उपक्रम	NN	I-NP	o	2	MorphAnalysis : | < fs af='उपक्रम,n,m,sg,3,d,0,0'> | < fs af='उपक्रम,n,m,pl,3,d,0,0'> | < fs af='उपक्रम,n,m,sg,3,o,0,0'>
+story80.txt	0	5	उपक्रम	NN	I-NP	o	-	MorphAnalysis : | < fs af='उपक्रम,n,m,sg,3,d,0,0'> | < fs af='उपक्रम,n,m,pl,3,d,0,0'> | < fs af='उपक्रम,n,m,sg,3,o,0,0'>
 story80.txt	0	6	में	PSP	I-NP	o	2)	MorphAnalysis : | < fs af='में,psp,,,,,,'>
 story80.txt	0	7	सरकारी	JJ	B-NP	o	-	MorphAnalysis : | < fs af='सरकारी,n,m,sg,3,d,0,0'> | < fs af='सरकारी,n,m,pl,3,d,0,0'> | < fs af='सरकारी,n,m,sg,3,o,0,0'> | < fs af='सरकारी,adj,any,any,,any,,'>
 story80.txt	0	8	दिशा	XC	I-NP	o	-	MorphAnalysis : | < fs af='दिशा,n,f,sg,3,d,0,0'> | < fs af='दिशा,n,f,sg,3,o,0,0'>

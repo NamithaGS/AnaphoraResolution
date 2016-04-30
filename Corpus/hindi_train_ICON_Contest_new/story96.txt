@@ -30,7 +30,7 @@ story96.txt	0	2	अंतरराष्ट्रीय	JJ	B-JJP	o	-	MorphAnalys
 story96.txt	0	3	स्तर	NN	B-NP	o	-	MorphAnalysis : | < fs af='स्तर,n,m,sg,3,d,0,0'> | < fs af='स्तर,n,m,pl,3,d,0,0'> | < fs af='स्तर,n,m,sg,3,o,0,0'>
 story96.txt	0	4	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story96.txt	0	5	कई	QF	B-NP	o	(1	MorphAnalysis : | < fs af='कई,n,m,sg,3,d,0,0'> | < fs af='कई,n,m,pl,3,d,0,0'> | < fs af='कई,n,m,sg,3,o,0,0'> | < fs af='कई,adj,any,pl,,d,,'> | < fs af='कई,adj,any,pl,,o,,'>
-story96.txt	0	6	शीर्ष	JJ	I-NP	o	1	MorphAnalysis : | < fs af='शीर्ष,n,m,sg,3,d,0,0'> | < fs af='शीर्ष,n,m,pl,3,d,0,0'> | < fs af='शीर्ष,n,m,sg,3,o,0,0'>
+story96.txt	0	6	शीर्ष	JJ	I-NP	o	-	MorphAnalysis : | < fs af='शीर्ष,n,m,sg,3,d,0,0'> | < fs af='शीर्ष,n,m,pl,3,d,0,0'> | < fs af='शीर्ष,n,m,sg,3,o,0,0'>
 story96.txt	0	7	वैज्ञानिक	NN	I-NP	o	1)	MorphAnalysis : | < fs af='वैज्ञानिक,n,m,sg,3,d,0,0'> | < fs af='वैज्ञानिक,n,m,pl,3,d,0,0'> | < fs af='वैज्ञानिक,n,m,sg,3,o,0,0'> | < fs af='वैज्ञानिक,adj,any,any,,any,,'>
 story96.txt	0	8	कांग्रेस	NNP	B-NP	B-ORGANIZATION	-	MorphAnalysis : | < fs af='कांग्रेस,n,f,sg,3,d,0,0'> | < fs af='कांग्रेस,n,f,pl,3,d,0,0'> | < fs af='कांग्रेस,n,f,sg,3,o,0,0'> | < fs af='कांग्रेस,n,f,pl,3,o,0,0'>
 story96.txt	0	9	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
@@ -72,9 +72,9 @@ story96.txt	0	13	-	SYM	I-NP	o	-	MorphAnalysis : | < fs af='-,punc,,,,,,'>
 story96.txt	0	14	गिरामी	JJ	I-NP	o	-	MorphAnalysis : | < fs af='गिरामी,unk,,,,,,'>
 story96.txt	0	15	हस्तियां	NN	I-NP	o	-	MorphAnalysis : | < fs af='हस्ती,n,f,pl,3,d,0,0'>
 story96.txt	0	16	पांच	QC	B-NP	B-NUMBER	(2	MorphAnalysis : | < fs af='पांच,n,m,sg,3,d,0,0'> | < fs af='पांच,n,m,pl,3,d,0,0'> | < fs af='पांच,n,m,sg,3,o,0,0'> | < fs af='पांच,adj,any,pl,,d,,'> | < fs af='पांच,adj,any,pl,,o,,'>
-story96.txt	0	17	दिवसीय	JJ	I-NP	o	2	MorphAnalysis : | < fs af='दिवसीय,adj,any,any,,any,,'>
-story96.txt	0	18	विज्ञान	XC	I-NP	o	2	MorphAnalysis : | < fs af='विज्ञान,n,m,sg,3,d,0,0'> | < fs af='विज्ञान,n,m,pl,3,d,0,0'> | < fs af='विज्ञान,n,m,sg,3,o,0,0'>
-story96.txt	0	19	सम्मेलन	NN	I-NP	o	2	MorphAnalysis : | < fs af='सम्मेलन,n,m,sg,3,d,0,0'> | < fs af='सम्मेलन,n,m,pl,3,d,0,0'> | < fs af='सम्मेलन,n,m,sg,3,o,0,0'>
+story96.txt	0	17	दिवसीय	JJ	I-NP	o	-	MorphAnalysis : | < fs af='दिवसीय,adj,any,any,,any,,'>
+story96.txt	0	18	विज्ञान	XC	I-NP	o	-	MorphAnalysis : | < fs af='विज्ञान,n,m,sg,3,d,0,0'> | < fs af='विज्ञान,n,m,pl,3,d,0,0'> | < fs af='विज्ञान,n,m,sg,3,o,0,0'>
+story96.txt	0	19	सम्मेलन	NN	I-NP	o	-	MorphAnalysis : | < fs af='सम्मेलन,n,m,sg,3,d,0,0'> | < fs af='सम्मेलन,n,m,pl,3,d,0,0'> | < fs af='सम्मेलन,n,m,sg,3,o,0,0'>
 story96.txt	0	20	में	PSP	I-NP	o	2)	MorphAnalysis : | < fs af='में,psp,,,,,,'>
 story96.txt	0	21	शिरकत	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='शिरकत,n,f,sg,3,d,0,0'> | < fs af='शिरकत,n,f,sg,3,o,0,0'>
 story96.txt	0	22	करेंगी	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कर,v,f,sg,2,,गा,gA' hon='y'> | < fs af='कर,v,f,pl,1,,गा,gA'> | < fs af='कर,v,f,pl,2,,गा,gA' hon='y'> | < fs af='कर,v,f,pl,3,,गा,gA'>
@@ -105,7 +105,7 @@ story96.txt	0	3	ग्रामीण	XC	I-NP	o	-	MorphAnalysis : | < fs af='ग
 story96.txt	0	4	विकास	NN	I-NP	o	-	MorphAnalysis : | < fs af='विकास,n,m,sg,3,d,0,0'> | < fs af='विकास,n,m,pl,3,d,0,0'> | < fs af='विकास,n,m,sg,3,o,0,0'>
 story96.txt	0	5	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story96.txt	0	6	विज्ञान	XC	B-NP	B-ORGANIZATION	(3	MorphAnalysis : | < fs af='विज्ञान,n,m,sg,3,d,0,0'> | < fs af='विज्ञान,n,m,pl,3,d,0,0'> | < fs af='विज्ञान,n,m,sg,3,o,0,0'>
-story96.txt	0	7	कांग्रेस	NNP	I-NP	I-ORGANIZATION	3	MorphAnalysis : | < fs af='कांग्रेस,n,f,sg,3,d,0,0'> | < fs af='कांग्रेस,n,f,pl,3,d,0,0'> | < fs af='कांग्रेस,n,f,sg,3,o,0,0'> | < fs af='कांग्रेस,n,f,pl,3,o,0,0'>
+story96.txt	0	7	कांग्रेस	NNP	I-NP	I-ORGANIZATION	-	MorphAnalysis : | < fs af='कांग्रेस,n,f,sg,3,d,0,0'> | < fs af='कांग्रेस,n,f,pl,3,d,0,0'> | < fs af='कांग्रेस,n,f,sg,3,o,0,0'> | < fs af='कांग्रेस,n,f,pl,3,o,0,0'>
 story96.txt	0	8	का	PSP	I-NP	o	3)	MorphAnalysis : | < fs af='का,psp,m,sg,,d,का,kA'>
 story96.txt	0	9	विषय	NN	B-NP	o	-	MorphAnalysis : | < fs af='विषय,n,m,sg,3,d,0,0'> | < fs af='विषय,n,m,pl,3,d,0,0'> | < fs af='विषय,n,m,sg,3,o,0,0'>
 story96.txt	0	10	तय	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='तय,adj,any,any,,any,,'>

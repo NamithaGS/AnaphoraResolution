@@ -145,10 +145,10 @@ story64.txt	0	0	बैठक	NN	B-NP	o	-	MorphAnalysis : | < fs af='बैठक
 story64.txt	0	1	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story64.txt	0	2	बाद	NST	I-NP	o	-	MorphAnalysis : | < fs af='बाद,adv,,,,,,'> | < fs af='बाद,psp,,,,,,'>
 story64.txt	0	3	गृह	XC	B-NP	o	(2	MorphAnalysis : | < fs af='गृह,n,m,sg,3,d,0,0'> | < fs af='गृह,n,m,pl,3,d,0,0'> | < fs af='गृह,n,m,sg,3,o,0,0'>
-story64.txt	0	4	सचिव	XC	I-NP	o	2	MorphAnalysis : | < fs af='सचिव,n,m,sg,3,d,0,0'> | < fs af='सचिव,n,m,pl,3,d,0,0'> | < fs af='सचिव,n,m,sg,3,o,0,0'>
-story64.txt	0	5	वी.	XC	I-NP	B-PERSON	2	MorphAnalysis : | < fs af='वी,unk,,,,,,'> | < fs af='.,punc,,,,,,'>
-story64.txt	0	6	के.	XC	I-NP	I-PERSON	2	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'> | < fs af='.,punc,,,,,,'>
-story64.txt	0	7	दुग्गल	NNP	I-NP	I-PERSON	2	MorphAnalysis : | < fs af='दुग्गल,unk,,,,,,'>
+story64.txt	0	4	सचिव	XC	I-NP	o	-	MorphAnalysis : | < fs af='सचिव,n,m,sg,3,d,0,0'> | < fs af='सचिव,n,m,pl,3,d,0,0'> | < fs af='सचिव,n,m,sg,3,o,0,0'>
+story64.txt	0	5	वी.	XC	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='वी,unk,,,,,,'> | < fs af='.,punc,,,,,,'>
+story64.txt	0	6	के.	XC	I-NP	I-PERSON	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'> | < fs af='.,punc,,,,,,'>
+story64.txt	0	7	दुग्गल	NNP	I-NP	I-PERSON	-	MorphAnalysis : | < fs af='दुग्गल,unk,,,,,,'>
 story64.txt	0	8	ने	PSP	I-NP	o	2)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story64.txt	0	9	कहा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कहा,v,any,any,any,,0,0'> | < fs af='कहा,adj,m,sg,,d,,'> | < fs af='कहा,n,m,sg,3,d,0,0'> | < fs af='कह,v,m,sg,any,,या,yA'>
 story64.txt	0	10	कि	CC	B-CCP	o	-	MorphAnalysis : | < fs af='कि,avy,,,,,,'>

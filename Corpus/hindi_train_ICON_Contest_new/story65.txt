@@ -92,7 +92,7 @@ story65.txt	0	12	लेकिन	CC	B-CCP	o	-	MorphAnalysis : | < fs af='ले�
 story65.txt	0	13	अंडमान	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='अंडमान,n,m,sg,3,d,0,0'> | < fs af='अंडमान,n,m,pl,3,d,0,0'> | < fs af='अंडमान,n,m,sg,3,o,0,0'> | < fs af='अंडमान,n,m,pl,3,o,0,0'>
 story65.txt	0	14	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
 story65.txt	0	15	लापता	JJ	B-NP	o	(1	MorphAnalysis : | < fs af='लापता,adj,any,any,,any,,'>
-story65.txt	0	16	लोगों	NN	I-NP	o	1	MorphAnalysis : | < fs af='लोग,n,m,pl,3,o,0,0'>
+story65.txt	0	16	लोगों	NN	I-NP	o	-	MorphAnalysis : | < fs af='लोग,n,m,pl,3,o,0,0'>
 story65.txt	0	17	की	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
 story65.txt	0	18	संख्या	NN	B-NP	o	-	MorphAnalysis : | < fs af='संख्या,n,f,sg,3,d,0,0'> | < fs af='संख्या,n,f,sg,3,o,0,0'>
 story65.txt	0	19	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
@@ -110,8 +110,8 @@ story65.txt	0	30	है	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,s
 story65.txt	0	31	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story65.txt	0	0	कुछ	QF	B-NP	o	(3	MorphAnalysis : | < fs af='कुछ,adv,,,,,,'> | < fs af='कुछ,adj,any,any,,any,,'> | < fs af='कुछ,n,m,sg,3,d,0,0'> | < fs af='कुछ,n,m,pl,3,d,0,0'> | < fs af='कुछ,n,m,sg,3,o,0,0'> | < fs af='कुछ,n,m,pl,3,o,0,0'>
-story65.txt	0	1	आदिवासी	XC	I-NP	o	3	MorphAnalysis : | < fs af='आदिवासी,n,m,sg,3,d,0,0'> | < fs af='आदिवासी,n,m,pl,3,d,0,0'> | < fs af='आदिवासी,n,m,sg,3,o,0,0'> | < fs af='आदिवासी,adj,any,any,,any,,'>
-story65.txt	0	2	गांवों	NN	I-NP	o	3	MorphAnalysis : | < fs af='गांव,n,m,pl,3,o,0,0'>
+story65.txt	0	1	आदिवासी	XC	I-NP	o	-	MorphAnalysis : | < fs af='आदिवासी,n,m,sg,3,d,0,0'> | < fs af='आदिवासी,n,m,pl,3,d,0,0'> | < fs af='आदिवासी,n,m,sg,3,o,0,0'> | < fs af='आदिवासी,adj,any,any,,any,,'>
+story65.txt	0	2	गांवों	NN	I-NP	o	-	MorphAnalysis : | < fs af='गांव,n,m,pl,3,o,0,0'>
 story65.txt	0	3	का	PSP	I-NP	o	3)	MorphAnalysis : | < fs af='का,psp,m,sg,,d,का,kA'>
 story65.txt	0	4	सर्वे	NN	B-NP	o	-	MorphAnalysis : | < fs af='सर्वे,n,m,sg,3,d,0,0'> | < fs af='सर्वे,n,m,pl,3,d,0,0'> | < fs af='सर्वे,n,m,sg,3,o,0,0'> | < fs af='सर्वे,n,m,pl,3,o,0,0'>
 story65.txt	0	5	नहीं	NEG	B-VGF	o	-	MorphAnalysis : | < fs af='नहीं,n,f,sg,3,d,0,0'> | < fs af='नहीं,n,f,pl,3,d,0,0'> | < fs af='नहीं,n,f,sg,3,o,0,0'> | < fs af='नहीं,n,f,pl,3,o,0,0'> | < fs af='नहीं,adv,,,,,,'> | < fs af='नहीं,avy,,,,,,'> | < fs af='नह,v,f,pl,any,,या,yA'>
@@ -177,9 +177,9 @@ story65.txt	0	32	है	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,s
 story65.txt	0	33	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story65.txt	0	0	कार	XC	B-NP	B-LOCATION	(5	MorphAnalysis : | < fs af='कार,n,f,sg,3,d,0,0'> | < fs af='कार,n,f,sg,3,o,0,0'>
-story65.txt	0	1	निकोबार	XC	I-NP	I-LOCATION	5	MorphAnalysis : | < fs af='निकोबार,n,m,sg,3,d,0,0'> | < fs af='निकोबार,n,m,pl,3,d,0,0'> | < fs af='निकोबार,n,m,sg,3,o,0,0'> | < fs af='निकोबार,n,m,pl,3,o,0,0'>
-story65.txt	0	2	द्वीप	XC	I-NP	I-LOCATION	5	MorphAnalysis : | < fs af='द्वीप,n,m,sg,3,d,0,0'> | < fs af='द्वीप,n,m,pl,3,d,0,0'> | < fs af='द्वीप,n,m,sg,3,o,0,0'>
-story65.txt	0	3	समूह	NNP	I-NP	o	5	MorphAnalysis : | < fs af='समूह,n,m,sg,3,d,0,0'> | < fs af='समूह,n,m,pl,3,d,0,0'> | < fs af='समूह,n,m,sg,3,o,0,0'>
+story65.txt	0	1	निकोबार	XC	I-NP	I-LOCATION	-	MorphAnalysis : | < fs af='निकोबार,n,m,sg,3,d,0,0'> | < fs af='निकोबार,n,m,pl,3,d,0,0'> | < fs af='निकोबार,n,m,sg,3,o,0,0'> | < fs af='निकोबार,n,m,pl,3,o,0,0'>
+story65.txt	0	2	द्वीप	XC	I-NP	I-LOCATION	-	MorphAnalysis : | < fs af='द्वीप,n,m,sg,3,d,0,0'> | < fs af='द्वीप,n,m,pl,3,d,0,0'> | < fs af='द्वीप,n,m,sg,3,o,0,0'>
+story65.txt	0	3	समूह	NNP	I-NP	o	-	MorphAnalysis : | < fs af='समूह,n,m,sg,3,d,0,0'> | < fs af='समूह,n,m,pl,3,d,0,0'> | < fs af='समूह,n,m,sg,3,o,0,0'>
 story65.txt	0	4	में	PSP	I-NP	o	5)	MorphAnalysis : | < fs af='में,psp,,,,,,'>
 story65.txt	0	5	अब	PRP	B-NP	o	-	MorphAnalysis : | < fs af='अब,adv,,,,,,'>
 story65.txt	0	6	स्थिति	NN	B-NP	o	-	MorphAnalysis : | < fs af='स्थिति,n,f,sg,3,d,0,0'> | < fs af='स्थिति,n,f,sg,3,o,0,0'>
@@ -254,9 +254,9 @@ story65.txt	0	8	है	VAUX	I-VGF	o	-	MorphAnalysis : | < fs af='है,v,any,sg
 story65.txt	0	9	.	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story65.txt	0	0	निकोबार	XC	B-NP	B-LOCATION	(7	MorphAnalysis : | < fs af='निकोबार,n,m,sg,3,d,0,0'> | < fs af='निकोबार,n,m,pl,3,d,0,0'> | < fs af='निकोबार,n,m,sg,3,o,0,0'> | < fs af='निकोबार,n,m,pl,3,o,0,0'>
-story65.txt	0	1	द्वीप	XC	I-NP	I-LOCATION	7	MorphAnalysis : | < fs af='द्वीप,n,m,sg,3,d,0,0'> | < fs af='द्वीप,n,m,pl,3,d,0,0'> | < fs af='द्वीप,n,m,sg,3,o,0,0'>
-story65.txt	0	2	समूह	NNP	I-NP	o	7	MorphAnalysis : | < fs af='समूह,n,m,sg,3,d,0,0'> | < fs af='समूह,n,m,pl,3,d,0,0'> | < fs af='समूह,n,m,sg,3,o,0,0'>
-story65.txt	0	3	के	PSP	I-NP	o	7	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story65.txt	0	1	द्वीप	XC	I-NP	I-LOCATION	-	MorphAnalysis : | < fs af='द्वीप,n,m,sg,3,d,0,0'> | < fs af='द्वीप,n,m,pl,3,d,0,0'> | < fs af='द्वीप,n,m,sg,3,o,0,0'>
+story65.txt	0	2	समूह	NNP	I-NP	o	-	MorphAnalysis : | < fs af='समूह,n,m,sg,3,d,0,0'> | < fs af='समूह,n,m,pl,3,d,0,0'> | < fs af='समूह,n,m,sg,3,o,0,0'>
+story65.txt	0	3	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story65.txt	0	4	लिए	PSP	I-NP	o	7)	MorphAnalysis : | < fs af='लिए,psp,,,,,,'> | < fs af='ले,v,any,sg,2,,ए,e'> | < fs af='ले,v,any,sg,3,,ए,e'> | < fs af='ले,v,m,pl,any,,या,yA'>
 story65.txt	0	5	८५६	QC	B-NP	B-MEASURE	-	MorphAnalysis : | < fs af='856,num,,,,,,'>
 story65.txt	0	6	टन	NN	I-NP	I-MEASURE	-	MorphAnalysis : | < fs af='टन,n,m,sg,3,d,0,0'> | < fs af='टन,n,m,pl,3,d,0,0'> | < fs af='टन,n,m,sg,3,o,0,0'>

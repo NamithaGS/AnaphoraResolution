@@ -5,9 +5,9 @@ story76.txt	0	1	ने	PSP	I-NP	o	-	MorphAnalysis : | < fs af='ने,psp,,,,,,'
 story76.txt	0	2	रविवार	NNP	B-NP	o	-	MorphAnalysis : | < fs af='रविवार,n,m,sg,3,d,0,0'> | < fs af='रविवार,n,m,pl,3,d,0,0'> | < fs af='रविवार,n,m,sg,3,o,0,0'>
 story76.txt	0	3	को	PSP	I-NP	o	-	MorphAnalysis : | < fs af='को,psp,,,,,,'>
 story76.txt	0	4	पूर्व	JJ	B-NP	o	(1	MorphAnalysis : | < fs af='पूर्व,adv,,,,,,'> | < fs af='पूर्व,adj,any,any,,any,,'> | < fs af='पूर्व,n,m,sg,3,d,0,0'> | < fs af='पूर्व,n,m,pl,3,d,0,0'> | < fs af='पूर्व,n,m,sg,3,o,0,0'> | < fs af='पूर्व,n,m,pl,3,o,0,0'>
-story76.txt	0	5	प्रधानमंत्री	XC	I-NP	o	1	MorphAnalysis : | < fs af='प्रधानमंत्री,n,m,sg,3,d,0,0'> | < fs af='प्रधानमंत्री,n,m,pl,3,d,0,0'> | < fs af='प्रधानमंत्री,n,m,sg,3,o,0,0'>
-story76.txt	0	6	इंदिरा	XC	I-NP	B-PERSON	1	MorphAnalysis : | < fs af='इंदिरा,n,f,sg,3,d,0,0'> | < fs af='इंदिरा,n,f,pl,3,d,0,0'> | < fs af='इंदिरा,n,f,sg,3,o,0,0'> | < fs af='इंदिरा,n,f,pl,3,o,0,0'>
-story76.txt	0	7	गांधी	NNP	I-NP	B-PERSON	1	MorphAnalysis : | < fs af='गांधी,n,m,sg,3,d,0,0'> | < fs af='गांधी,n,m,pl,3,d,0,0'> | < fs af='गांधी,n,m,sg,3,o,0,0'>
+story76.txt	0	5	प्रधानमंत्री	XC	I-NP	o	-	MorphAnalysis : | < fs af='प्रधानमंत्री,n,m,sg,3,d,0,0'> | < fs af='प्रधानमंत्री,n,m,pl,3,d,0,0'> | < fs af='प्रधानमंत्री,n,m,sg,3,o,0,0'>
+story76.txt	0	6	इंदिरा	XC	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='इंदिरा,n,f,sg,3,d,0,0'> | < fs af='इंदिरा,n,f,pl,3,d,0,0'> | < fs af='इंदिरा,n,f,sg,3,o,0,0'> | < fs af='इंदिरा,n,f,pl,3,o,0,0'>
+story76.txt	0	7	गांधी	NNP	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='गांधी,n,m,sg,3,d,0,0'> | < fs af='गांधी,n,m,pl,3,d,0,0'> | < fs af='गांधी,n,m,sg,3,o,0,0'>
 story76.txt	0	8	की	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
 story76.txt	0	9	२०वीं	QO	B-NP	B-NUMBER	-	MorphAnalysis : | < fs af='20वाँ,adj,f,any,,any,,'>
 story76.txt	0	10	पुण्यतिथि	NN	I-NP	o	-	MorphAnalysis : | < fs af='पुण्यतिथि,n,f,sg,3,d,0,0'> | < fs af='पुण्यतिथि,n,f,sg,3,o,0,0'>
@@ -95,8 +95,8 @@ story76.txt	0	10	प्रोग्रेसिव	XC	I-NP	I-ORGANIZATION	-	Morp
 story76.txt	0	11	एलायंस	NNP	I-NP	I-ORGANIZATION	-	MorphAnalysis : | < fs af='एलायंस,unk,,,,,,'>
 story76.txt	0	12	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
 story76.txt	0	13	अध्यक्ष	XC	B-NP	o	(2	MorphAnalysis : | < fs af='अध्यक्ष,n,m,sg,3,d,0,0'> | < fs af='अध्यक्ष,n,m,pl,3,d,0,0'> | < fs af='अध्यक्ष,n,m,sg,3,o,0,0'>
-story76.txt	0	14	सोनिया	XC	I-NP	o	2	MorphAnalysis : | < fs af='सोनिया,unk,,,,,,'>
-story76.txt	0	15	गांधी	NNP	I-NP	B-PERSON	2	MorphAnalysis : | < fs af='गांधी,n,m,sg,3,d,0,0'> | < fs af='गांधी,n,m,pl,3,d,0,0'> | < fs af='गांधी,n,m,sg,3,o,0,0'>
+story76.txt	0	14	सोनिया	XC	I-NP	o	-	MorphAnalysis : | < fs af='सोनिया,unk,,,,,,'>
+story76.txt	0	15	गांधी	NNP	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='गांधी,n,m,sg,3,d,0,0'> | < fs af='गांधी,n,m,pl,3,d,0,0'> | < fs af='गांधी,n,m,sg,3,o,0,0'>
 story76.txt	0	16	,	SYM	I-NP	o	2)	MorphAnalysis : | < fs af='&amp;comma,punc,,,,,,'>
 story76.txt	0	17	उनकी	PRP	B-NP	o	(2)	MorphAnalysis : | < fs af='वह,pn,any,pl,3,o,का,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'> | < fs af='वह,pn,any,pl,3,o,का,kA' agr_gen='f'  agr_cas='d'  agr_num='pl'> | < fs af='वह,pn,any,pl,3,o,का,kA' agr_gen='f'  agr_cas='o'  agr_num='sg'> | < fs af='वह,pn,any,pl,3,o,का,kA' agr_gen='f'  agr_cas='o'  agr_num='pl'>
 story76.txt	0	18	बेटी	NN	I-NP	o	-	MorphAnalysis : | < fs af='बेटी,n,f,sg,3,d,0,0'> | < fs af='बेटी,n,f,sg,3,o,0,0'>
@@ -156,7 +156,7 @@ story76.txt	0	6	देने	VM	B-VGNN	o	-	MorphAnalysis : | < fs af='दे,v,m
 story76.txt	0	7	दिल्ली	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='दिल्ली,n,f,sg,3,d,0,0'> | < fs af='दिल्ली,n,f,pl,3,d,0,0'> | < fs af='दिल्ली,n,f,sg,3,o,0,0'> | < fs af='दिल्ली,n,f,pl,3,o,0,0'>
 story76.txt	0	8	की	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,f,sg,,d,का,kA'> | < fs af='का,psp,f,sg,,o,का,kA'> | < fs af='का,psp,f,pl,,d,का,kA'> | < fs af='का,psp,f,pl,,o,का,kA'> | < fs af='कर,v,f,sg,any,,या,yA'>
 story76.txt	0	9	मुख्यमंत्री	XC	B-NP	o	(3	MorphAnalysis : | < fs af='मुख्यमंत्री,n,m,sg,3,d,0,0'> | < fs af='मुख्यमंत्री,n,m,pl,3,d,0,0'> | < fs af='मुख्यमंत्री,n,m,sg,3,o,0,0'>
-story76.txt	0	10	शीला	XC	I-NP	B-PERSON	3	MorphAnalysis : | < fs af='शीला,n,m,sg,3,d,0,0'> | < fs af='शीला,n,m,pl,3,d,0,0'> | < fs af='शीला,n,m,sg,3,o,0,0'>
+story76.txt	0	10	शीला	XC	I-NP	B-PERSON	-	MorphAnalysis : | < fs af='शीला,n,m,sg,3,d,0,0'> | < fs af='शीला,n,m,pl,3,d,0,0'> | < fs af='शीला,n,m,sg,3,o,0,0'>
 story76.txt	0	11	दीक्षित	NNP	I-NP	B-PERSON	3)	MorphAnalysis : | < fs af='दीक्षित,n,m,sg,3,d,0,0'> | < fs af='दीक्षित,n,m,pl,3,d,0,0'> | < fs af='दीक्षित,n,m,sg,3,o,0,0'> | < fs af='दीक्षित,adj,any,any,,any,,'>
 story76.txt	0	12	व्हील	XC	B-NP	o	-	MorphAnalysis : | < fs af='व्हील,n,m,sg,3,d,0,0'> | < fs af='व्हील,n,m,pl,3,d,0,0'> | < fs af='व्हील,n,m,sg,3,o,0,0'>
 story76.txt	0	13	चेयर	NN	I-NP	o	-	MorphAnalysis : | < fs af='चेयर,n,f,sg,3,d,0,0'> | < fs af='चेयर,n,f,sg,3,o,0,0'>

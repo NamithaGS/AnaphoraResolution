@@ -28,7 +28,7 @@ story97.txt	0	8	आकर	VM	B-VGNF	o	-	MorphAnalysis : | < fs af='आकर,n,m
 story97.txt	0	9	उड़ीसा	NNP	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='उड़ीसा,n,m,sg,,d,0,0'> | < fs af='उड़ीसा,n,m,pl,,d,0,0'> | < fs af='उड़ीसा,n,m,sg,,o,0,0'> | < fs af='उड़ीसा,n,m,pl,,o,0,0'>
 story97.txt	0	10	में	PSP	I-NP	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
 story97.txt	0	11	एक	QC	B-NP	B-NUMBER	(1	MorphAnalysis : | < fs af='एक,adj,any,any,,any,,'> | < fs af='एक,n,m,sg,3,d,0,0'> | < fs af='एक,n,m,pl,3,d,0,0'> | < fs af='एक,n,m,sg,3,o,0,0'> | < fs af='एक,n,m,pl,3,o,0,0'>
-story97.txt	0	12	महिला	NN	I-NP	o	1	MorphAnalysis : | < fs af='महिला,n,f,sg,3,d,0,0'> | < fs af='महिला,n,f,sg,3,o,0,0'>
+story97.txt	0	12	महिला	NN	I-NP	o	-	MorphAnalysis : | < fs af='महिला,n,f,sg,3,d,0,0'> | < fs af='महिला,n,f,sg,3,o,0,0'>
 story97.txt	0	13	ने	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story97.txt	0	14	अपने	PRP	B-NP	o	(1)	MorphAnalysis : | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='sg'> | < fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='o'  agr_num='pl'> | < fs af='अपना,adj,m,sg,,o,,'> | < fs af='अपना,adj,m,pl,,d,,'> | < fs af='अपना,adj,m,pl,,o,,'>
 story97.txt	0	15	नन्हें	JJ	B-NP	o	-	MorphAnalysis : | < fs af='नन्हाँ,adj,m,sg,,o,,'> | < fs af='नन्हाँ,adj,m,pl,,d,,'> | < fs af='नन्हाँ,adj,m,pl,,o,,'>
@@ -88,7 +88,7 @@ story97.txt	0	18	वाली	PSP	I-VGNN	o	-	MorphAnalysis : | < fs af='वा�
 story97.txt	0	19	नीता	XC	B-NP	B-PERSON	-	MorphAnalysis : | < fs af='नीता,unk,,,,,,'>
 story97.txt	0	20	नाइक	NN	I-NP	I-PERSON	-	MorphAnalysis : | < fs af='नाइक,unk,,,,,,'>
 story97.txt	0	21	नामक	JJ	B-NP	o	(2	MorphAnalysis : | < fs af='नामक,adj,any,any,,any,,'>
-story97.txt	0	22	महिला	NN	I-NP	o	2	MorphAnalysis : | < fs af='महिला,n,f,sg,3,d,0,0'> | < fs af='महिला,n,f,sg,3,o,0,0'>
+story97.txt	0	22	महिला	NN	I-NP	o	-	MorphAnalysis : | < fs af='महिला,n,f,sg,3,d,0,0'> | < fs af='महिला,n,f,sg,3,o,0,0'>
 story97.txt	0	23	ने	PSP	I-NP	o	2)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story97.txt	0	24	गरीबी	NN	B-NP	o	-	MorphAnalysis : | < fs af='गरीबी,n,f,sg,3,d,0,0'> | < fs af='गरीबी,n,f,sg,3,o,0,0'>
 story97.txt	0	25	से	PSP	I-NP	o	-	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
@@ -159,7 +159,7 @@ story97.txt	0	4	जुटाने	VM	B-VGNN	o	-	MorphAnalysis : | < fs af='ज�
 story97.txt	0	5	में	PSP	I-VGNN	o	-	MorphAnalysis : | < fs af='में,psp,,,,,,'>
 story97.txt	0	6	असमर्थ	JJ	B-JJP	o	-	MorphAnalysis : | < fs af='असमर्थ,n,m,sg,3,d,0,0'> | < fs af='असमर्थ,n,m,pl,3,d,0,0'> | < fs af='असमर्थ,n,m,sg,3,o,0,0'> | < fs af='असमर्थ,adj,any,any,,any,,'>
 story97.txt	0	7	इस	DEM	B-NP	o	(7	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,0,0'>
-story97.txt	0	8	महिला	NN	I-NP	o	7	MorphAnalysis : | < fs af='महिला,n,f,sg,3,d,0,0'> | < fs af='महिला,n,f,sg,3,o,0,0'>
+story97.txt	0	8	महिला	NN	I-NP	o	-	MorphAnalysis : | < fs af='महिला,n,f,sg,3,d,0,0'> | < fs af='महिला,n,f,sg,3,o,0,0'>
 story97.txt	0	9	ने	PSP	I-NP	o	7)	MorphAnalysis : | < fs af='ने,psp,,,,,,'>
 story97.txt	0	10	पिछले	JJ	B-NP	o	-	MorphAnalysis : | < fs af='पिछले,adv,,,,,,'> | < fs af='पिछला,adj,m,sg,,o,,'> | < fs af='पिछला,adj,m,pl,,d,,'> | < fs af='पिछला,adj,m,pl,,o,,'> | < fs af='पिछला,n,m,pl,3,d,0,0'> | < fs af='पिछला,n,m,sg,3,o,0,0'> | < fs af='पिछल,v,any,sg,2,,ए,e'> | < fs af='पिछल,v,any,sg,3,,ए,e'> | < fs af='पिछल,v,m,pl,any,,या,yA'>
 story97.txt	0	11	वर्ष	NN	I-NP	o	-	MorphAnalysis : | < fs af='वर्ष,n,m,sg,3,d,0,0'> | < fs af='वर्ष,n,m,pl,3,d,0,0'> | < fs af='वर्ष,n,m,sg,3,o,0,0'>
@@ -257,9 +257,9 @@ story97.txt	0	0	जिला	XC	B-NP	B-LOCATION	-	MorphAnalysis : | < fs af='ज
 story97.txt	0	1	प्रशासन	NN	I-NP	o	-	MorphAnalysis : | < fs af='प्रशासन,n,m,sg,3,d,0,0'> | < fs af='प्रशासन,n,m,pl,3,d,0,0'> | < fs af='प्रशासन,n,m,sg,3,o,0,0'>
 story97.txt	0	2	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story97.txt	0	3	एक	QC	B-NP	B-NUMBER	(13	MorphAnalysis : | < fs af='एक,adj,any,any,,any,,'> | < fs af='एक,n,m,sg,3,d,0,0'> | < fs af='एक,n,m,pl,3,d,0,0'> | < fs af='एक,n,m,sg,3,o,0,0'> | < fs af='एक,n,m,pl,3,o,0,0'>
-story97.txt	0	4	वरिष्ठ	JJ	I-NP	o	13	MorphAnalysis : | < fs af='वरिष्ठ,n,m,sg,3,d,0,0'> | < fs af='वरिष्ठ,n,m,pl,3,d,0,0'> | < fs af='वरिष्ठ,n,m,sg,3,o,0,0'> | < fs af='वरिष्ठ,adj,any,any,,any,,'>
-story97.txt	0	5	अधिकारी	NN	I-NP	o	13	MorphAnalysis : | < fs af='अधिकारी,n,m,sg,3,d,0,0'> | < fs af='अधिकारी,n,m,pl,3,d,0,0'> | < fs af='अधिकारी,n,m,sg,3,o,0,0'> | < fs af='अधिकारी,adj,any,any,,any,,'>
-story97.txt	0	6	के	PSP	I-NP	o	13	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
+story97.txt	0	4	वरिष्ठ	JJ	I-NP	o	-	MorphAnalysis : | < fs af='वरिष्ठ,n,m,sg,3,d,0,0'> | < fs af='वरिष्ठ,n,m,pl,3,d,0,0'> | < fs af='वरिष्ठ,n,m,sg,3,o,0,0'> | < fs af='वरिष्ठ,adj,any,any,,any,,'>
+story97.txt	0	5	अधिकारी	NN	I-NP	o	-	MorphAnalysis : | < fs af='अधिकारी,n,m,sg,3,d,0,0'> | < fs af='अधिकारी,n,m,pl,3,d,0,0'> | < fs af='अधिकारी,n,m,sg,3,o,0,0'> | < fs af='अधिकारी,adj,any,any,,any,,'>
+story97.txt	0	6	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,o,का,kA'> | < fs af='का,psp,m,pl,,d,का,kA'> | < fs af='का,psp,m,pl,,o,का,kA'>
 story97.txt	0	7	मुताबिक	PSP	I-NP	o	13)	MorphAnalysis : | < fs af='मुताबिक,adv,,,,,,'> | < fs af='मुताबिक,adj,any,any,,any,,'>
 story97.txt	0	8	इस	DEM	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,any,sg,3,o,0,0'>
 story97.txt	0	9	मामले	NN	I-NP	o	-	MorphAnalysis : | < fs af='मामला,n,m,pl,3,d,0,0'> | < fs af='मामला,n,m,sg,3,o,0,0'>

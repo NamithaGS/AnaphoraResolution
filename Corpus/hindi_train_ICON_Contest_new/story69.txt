@@ -90,10 +90,10 @@ story69.txt	0	33	किए	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कर,v,any,
 story69.txt	0	34	।	SYM	I-VGF	o	-	MorphAnalysis : | < fs af='.,punc,,,,,,'>
 
 story69.txt	0	0	सहमति	NN	B-NP	o	(1	MorphAnalysis : | < fs af='सहमति,n,f,sg,3,d,0,0'> | < fs af='सहमति,n,f,pl,3,d,0,0'> | < fs af='सहमति,n,f,sg,3,o,0,0'> | < fs af='सहमति,n,f,pl,3,o,0,0'>
-story69.txt	0	1	सहित	PSP	I-NP	o	1	MorphAnalysis : | < fs af='सहित,adv,,,,,,'> | < fs af='सहित,psp,,,,,,'>
-story69.txt	0	2	इन	DEM	B-NP	o	1	MorphAnalysis : | < fs af='यह,pn,any,pl,3,o,0,0'>
-story69.txt	0	3	दो	QC	I-NP	B-NUMBER	1	MorphAnalysis : | < fs af='दो,adj,any,pl,,d,,'> | < fs af='दो,adj,any,pl,,o,,'> | < fs af='दो,n,m,sg,3,d,0,0'> | < fs af='दो,n,m,pl,3,d,0,0'> | < fs af='दो,n,m,sg,3,o,0,0'> | < fs af='दो,n,m,pl,3,o,0,0'> | < fs af='दे,v,any,pl,2,,ए,e'>
-story69.txt	0	4	समझौतों	NN	I-NP	o	1	MorphAnalysis : | < fs af='समझौता,n,m,pl,3,o,0,0'>
+story69.txt	0	1	सहित	PSP	I-NP	o	-	MorphAnalysis : | < fs af='सहित,adv,,,,,,'> | < fs af='सहित,psp,,,,,,'>
+story69.txt	0	2	इन	DEM	B-NP	o	-	MorphAnalysis : | < fs af='यह,pn,any,pl,3,o,0,0'>
+story69.txt	0	3	दो	QC	I-NP	B-NUMBER	-	MorphAnalysis : | < fs af='दो,adj,any,pl,,d,,'> | < fs af='दो,adj,any,pl,,o,,'> | < fs af='दो,n,m,sg,3,d,0,0'> | < fs af='दो,n,m,pl,3,d,0,0'> | < fs af='दो,n,m,sg,3,o,0,0'> | < fs af='दो,n,m,pl,3,o,0,0'> | < fs af='दे,v,any,pl,2,,ए,e'>
+story69.txt	0	4	समझौतों	NN	I-NP	o	-	MorphAnalysis : | < fs af='समझौता,n,m,pl,3,o,0,0'>
 story69.txt	0	5	से	PSP	I-NP	o	1)	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
 story69.txt	0	6	दोनों	QO	B-NP	o	-	MorphAnalysis : | < fs af='दोनों,n,m,sg,3,d,0,0'> | < fs af='दोनों,n,m,pl,3,d,0,0'> | < fs af='दोनों,n,m,sg,3,o,0,0'> | < fs af='दोनों,n,m,pl,3,o,0,0'> | < fs af='दोनों,adj,any,pl,,d,,' emph='y'> | < fs af='दोनों,adj,any,pl,,o,,' emph='y'>
 story69.txt	0	7	देशों	NN	I-NP	o	-	MorphAnalysis : | < fs af='देश,n,m,pl,3,o,0,0'>

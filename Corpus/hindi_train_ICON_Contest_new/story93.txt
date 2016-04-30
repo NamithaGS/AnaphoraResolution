@@ -78,7 +78,7 @@ story93.txt	0	1	के	PSP	I-NP	o	-	MorphAnalysis : | < fs af='का,psp,m,sg,,
 story93.txt	0	2	दौरान	NST	I-NP	o	-	MorphAnalysis : | < fs af='दौरान,n,m,sg,3,d,0,0'> | < fs af='दौरान,n,m,pl,3,d,0,0'> | < fs af='दौरान,n,m,sg,3,o,0,0'> | < fs af='दौरान,adv,,,,,,'> | < fs af='दौरान,psp,,,,,,'>
 story93.txt	0	3	प्रतिनिधिमंडल	NN	B-NP	o	-	MorphAnalysis : | < fs af='प्रतिनिधिमंडल,n,m,sg,3,d,0,0'> | < fs af='प्रतिनिधिमंडल,n,m,pl,3,d,0,0'> | < fs af='प्रतिनिधिमंडल,n,m,sg,3,o,0,0'>
 story93.txt	0	4	परवेज	XC	B-NP	B-PERSON	(2	MorphAnalysis : | < fs af='परवेज,n,m,sg,3,d,0,0'> | < fs af='परवेज,n,m,pl,3,d,0,0'> | < fs af='परवेज,n,m,sg,3,o,0,0'> | < fs af='परवेज,n,m,pl,3,o,0,0'>
-story93.txt	0	5	मुशर्रफ	NNP	I-NP	I-PERSON	2	MorphAnalysis : | < fs af='मुशर्रफ,n,m,sg,3,d,0,0'> | < fs af='मुशर्रफ,n,m,pl,3,d,0,0'> | < fs af='मुशर्रफ,n,m,sg,3,o,0,0'> | < fs af='मुशर्रफ,n,m,pl,3,o,0,0'>
+story93.txt	0	5	मुशर्रफ	NNP	I-NP	I-PERSON	-	MorphAnalysis : | < fs af='मुशर्रफ,n,m,sg,3,d,0,0'> | < fs af='मुशर्रफ,n,m,pl,3,d,0,0'> | < fs af='मुशर्रफ,n,m,sg,3,o,0,0'> | < fs af='मुशर्रफ,n,m,pl,3,o,0,0'>
 story93.txt	0	6	से	PSP	I-NP	o	2)	MorphAnalysis : | < fs af='से,psp,,,,,,'> | < fs af='से,v,any,any,any,,0,0'> | < fs af='सा,psp,m,sg,,o,का,kA'> | < fs af='सा,psp,m,pl,,d,का,kA'> | < fs af='सा,psp,m,pl,,o,का,kA'>
 story93.txt	0	7	मुलाकात	NN	B-NP	o	-	MorphAnalysis : | < fs af='मुलाकात,n,f,sg,3,d,0,0'> | < fs af='मुलाकात,n,f,sg,3,o,0,0'>
 story93.txt	0	8	करेगा	VM	B-VGF	o	-	MorphAnalysis : | < fs af='कर,v,m,sg,2,,गा,gA'> | < fs af='कर,v,m,sg,3,,गा,gA'>
