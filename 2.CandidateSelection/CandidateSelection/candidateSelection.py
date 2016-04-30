@@ -16,30 +16,30 @@ def candidateSelection(rootList,word,sentenceNum,ann_position, ann_num):
     #The sentence lists are reversed so that we can read backwards from the annaphora until the candidate
     #look back 5 previous lines
     if sentenceNum > 4:
-        candidateLines.insert(0,rootList[sentenceNum][::-1])
-        candidateLines.insert(1,rootList[sentenceNum - 1][::-1])
-        candidateLines.insert(2,rootList[sentenceNum - 2][::-1])
-        candidateLines.insert(3,rootList[sentenceNum - 3][::-1])
-        candidateLines.insert(4,rootList[sentenceNum - 4][::-1])
-        candidateLines.insert(5,rootList[sentenceNum - 5][::-1])
+         candidateLines.insert(0,rootList[sentenceNum][::-1])
+         candidateLines.insert(1,rootList[sentenceNum - 1][::-1])
+         candidateLines.insert(2,rootList[sentenceNum - 2][::-1])
+         candidateLines.insert(3,rootList[sentenceNum - 3][::-1])
+         candidateLines.insert(4,rootList[sentenceNum - 4][::-1])
+         candidateLines.insert(5,rootList[sentenceNum - 5][::-1])
     #look back 4 previous lines
     elif sentenceNum > 3:
-        candidateLines.insert(0,rootList[sentenceNum][::-1])
-        candidateLines.insert(1,rootList[sentenceNum - 1][::-1])
-        candidateLines.insert(2,rootList[sentenceNum - 2][::-1])
-        candidateLines.insert(3,rootList[sentenceNum - 3][::-1])
-        candidateLines.insert(4,rootList[sentenceNum - 4][::-1])
+         candidateLines.insert(0,rootList[sentenceNum][::-1])
+         candidateLines.insert(1,rootList[sentenceNum - 1][::-1])
+         candidateLines.insert(2,rootList[sentenceNum - 2][::-1])
+         candidateLines.insert(3,rootList[sentenceNum - 3][::-1])
+         candidateLines.insert(4,rootList[sentenceNum - 4][::-1])
     #look back 3 previous lines
-    if sentenceNum > 2:
-        candidateLines.insert(0,rootList[sentenceNum][::-1])
-        candidateLines.insert(1,rootList[sentenceNum - 1][::-1])
-        candidateLines.insert(2,rootList[sentenceNum - 2][::-1])
-        candidateLines.insert(3,rootList[sentenceNum - 3][::-1])
+    elif sentenceNum > 2:
+         candidateLines.insert(0,rootList[sentenceNum][::-1])
+         candidateLines.insert(1,rootList[sentenceNum - 1][::-1])
+         candidateLines.insert(2,rootList[sentenceNum - 2][::-1])
+         candidateLines.insert(3,rootList[sentenceNum - 3][::-1])
     #look back 2 previous lines
     elif sentenceNum > 1:
-        candidateLines.insert(0,rootList[sentenceNum][::-1])
-        candidateLines.insert(1,rootList[sentenceNum - 1][::-1])
-        candidateLines.insert(2,rootList[sentenceNum - 2][::-1])
+         candidateLines.insert(0,rootList[sentenceNum][::-1])
+         candidateLines.insert(1,rootList[sentenceNum - 1][::-1])
+         candidateLines.insert(2,rootList[sentenceNum - 2][::-1])
     #look back 1 previous lines
     elif sentenceNum > 0:
         candidateLines.insert(0,rootList[sentenceNum][::-1])
@@ -49,18 +49,30 @@ def candidateSelection(rootList,word,sentenceNum,ann_position, ann_num):
     cont = True
     lineCntr=0
     bnp_Countr=-1
+    word_cntr=0
+    candidate_pos=''
     start=False
     #If previous sentences exist do this
     if (len(candidateLines)!=0):    
         for linevalue in candidateLines: # For each line
+            word_cntr=0
             for wordDict in linevalue: #For each word word in line
                 #Look back words only after annaphora is encountered
                 if(wordDict[5]==True and wordDict[10]==ann_num):
                     start=True
+                                        
                 if start:
                     templist=[]
                     if(wordDict[2] == "B-NP"):
                         bnp_Countr+=1
+                    # Add feature for position of word in the sentence    
+                    if(word_cntr==0 or word_cntr==1 or word_cntr==2 or word_cntr==3):
+                        candidate_pos='1'        
+                    elif(word_cntr==4 or word_cntr==5 or word_cntr==6 or word_cntr==7 or word_cntr==8 or word_cntr==9):
+                        candidate_pos='2'         
+                    else:
+                        candidate_pos='3'
+
                     #If valid candidate is found i.e NN or NNP add to selected list of candidates
                     if( wordDict[0]!='NULL' and (wordDict[1] == "NN" or wordDict[1]=="NNP" or (wordDict[5]==True and wordDict[6]==True))):
                         if len(wordDict) > 9:
@@ -68,11 +80,13 @@ def candidateSelection(rootList,word,sentenceNum,ann_position, ann_num):
                             can_num = wordDict[11]
                             templist.append(str(bnp_Countr))
                             templist.append(str(lineCntr))
+                            templist.append(candidate_pos)
                             possibleCandidates.append(templist)
                             #stop process when manually annotated candidate is encountered
                             if(ann_num==can_num):
                                 cont = False
-                                break                           
+                                break
+                word_cntr+=1                           
             if(cont==False):
                 break
             lineCntr+=1
@@ -108,10 +122,10 @@ def processfileLineByLine(cnt, rootList):
                         else:
                             iscurrCandidate=False
                         #result =  result + str(cnt) + '\t' + ann_num + '\t' + word + "\t"  + (candidate[0] or "-") +  "\t"+ (candidate[1] or "-") + "\t"+(wordDict[7] or "-")+ "\t" + (candidate[7] or "-") + "\t" + (wordDict[8] or "-") + "\t" + (candidate[8] or "-")+ "\t" + candidate[13] + "\t" + (candidate[3] or "-") + "\t" + (wordDict[9] or "-") + "\t" + (candidate[9] or "-") + '\t' + candidate[12] + '\t' + str(iscurrCandidate)
-                        result =  result  + word + "\t"  + (candidate[0] or "-") +  "\t"+ (candidate[1] or "-") + "\t"+(wordDict[7] or "-")+ "\t" + (candidate[7] or "-") + "\t" + (wordDict[8] or "-") + "\t" + (candidate[8] or "-")+ "\t" + candidate[13] + "\t" + (candidate[3] or "-") + "\t" + (wordDict[9] or "-") + "\t" + (candidate[9] or "-") + '\t' + candidate[12] + '\t' + str(iscurrCandidate)
+                        result =  result  + word + "\t"  + (candidate[0] or "-") +  "\t"+ (candidate[1] or "-") + "\t"+(wordDict[7] or "-")+ "\t" + (candidate[7] or "-") + "\t" + (wordDict[8] or "-") + "\t" + (candidate[8] or "-")+ "\t" + candidate[13] + "\t" + (candidate[3] or "-") + "\t" + (wordDict[9] or "-") + "\t" + (candidate[9] or "-") + '\t' + candidate[12] + '\t' + candidate[14] + "\t" + str(iscurrCandidate)
                         result = result + "\n"
             ann_position+=1
-    #result = result + "\n"
+    result = result + "\n"
     return result
 
 ###############################################################
